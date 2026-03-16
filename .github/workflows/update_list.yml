@@ -2,20 +2,20 @@ name: Actualizar Lista IPTV Automáticamente
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Esto significa: ejecutar cada 6 horas
-  workflow_dispatch:      # Esto te permite a ti darle al botón "Run" cuando quieras probar
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Descargar el código del repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Actualizado a v4
 
       - name: Instalar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Actualizado a v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Instalar herramientas necesarias
         run: pip install yt-dlp
