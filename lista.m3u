@@ -1,0 +1,33 @@
+#EXTM3U
+
+# --- NOTICIAS Y ARGENTINA ---
+#EXTINF:-1 tvg-logo="https://www.tdtchannels.com/img/logo.png" group-title="Noticias e Info",TDT Argentina
+https://iptv-org.github.io/iptv/countries/ar.m3u
+
+# --- TELECHANCHO ---
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qvz4vplwbs0GpnucsqLjvH3u4N7dUPsSc69A9SmXvCnyLxZjChujGpHsXiEj-CeCeNk" group-title="Noticias e Info",Canales Argentinos
+https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
+
+# --- PLUTO TV ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Pluto_TV_logo.png" group-title="Cine y Series",Catálogo Pluto TV
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_MX.m3u
+
+# --- MÉXICO ---
+#EXTINF:-1 tvg-logo="https://recursos.com/logo-mexico.png" group-title="México",Canales de México
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+# --- ARGENTINA INTERIOR ---
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aTDQr4gpYUQcvb2oev01hP-ItvO-nBOxfAN7SBBgT9ucumd2uwqEgJMw4XNQ__fXiIc" group-title="Argentina Interior",Interior Argentina
+https://www.m3u.cl/lista/AR.m3u
+
+# --- INTERNACIONAL ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/800px-Flag_of_Spain.svg.png" group-title="Internacional",Canales de España
+https://www.tdtchannels.com/lists/tv.m3u8
+
+# --- BOLIVIA ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/800px-Flag_of_Bolivia.svg.png" group-title="Bolivia",Canales de Bolivia
+https://www.m3u.cl/lista/BO.m3u
+
+# --- CHILE ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/800px-Flag_of_Chile.svg.png" group-title="Chile",Canales de Chile
+https://www.m3u.cl/lista/CL.m3u
