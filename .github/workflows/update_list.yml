@@ -1,0 +1,32 @@
+name: Actualizar Lista IPTV Automáticamente
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Esto significa: ejecutar cada 6 horas
+  workflow_dispatch:      # Esto te permite a ti darle al botón "Run" cuando quieras probar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el código del repo
+        uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar herramientas necesarias
+        run: pip install yt-dlp
+
+      - name: Ejecutar el script generador
+        run: python generar_lista.py
+
+      - name: Guardar los cambios en GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add lista.m3u
+          git commit -m "Lista actualizada: $(date)" || exit 0
+          git push
