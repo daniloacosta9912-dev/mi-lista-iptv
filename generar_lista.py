@@ -12,12 +12,25 @@ CANALES_YOUTUBE = [
 
 # 2. FUENTES EXTERNAS
 FUENTES_M3U = [
-    "https://iptv-org.github.io/iptv/countries/ar.m3u", # Argentina
-    "https://iptv-org.github.io/iptv/countries/mx.m3u", # México
-    "https://iptv-org.github.io/iptv/countries/es.m3u", # España
-    "https://raw.githubusercontent.com/davidmuma/Canales_PlutoTV/master/channels.m3u" # Pluto TV
-]
+    # === ARGENTINA ===
+    "https://iptv-org.github.io/iptv/countries/ar.m3u",
 
+    # === LISTAS CON CABLE EN ESPAÑOL ===
+    "https://raw.githubusercontent.com/Tundrak/IPTV-Iberico-Plus/main/ibericoptv.m3u",
+    "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/exports/tdt.m3u",
+    "https://raw.githubusercontent.com/davidmuma/Canales_PlutoTV/master/channels.m3u",
+    "https://raw.githubusercontent.com/FunctionError/PiratesIPTV/main/combinedList.m3u",
+
+    # === DEPORTES ===
+    "https://iptv-org.github.io/iptv/categories/sports.m3u",
+
+    # === ENTRETENIMIENTO / PELÍCULAS ===
+    "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
+    "https://iptv-org.github.io/iptv/categories/movies.m3u",
+
+    # === INFANTILES ===
+    "https://iptv-org.github.io/iptv/categories/kids.m3u",
+]
 def obtener_stream_youtube(url):
     try:
         resultado = subprocess.check_output(['yt-dlp', '-g', '-f', 'best', url]).decode('utf-8').strip()
