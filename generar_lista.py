@@ -14,33 +14,21 @@ CANALES_YOUTUBE = [
 FUENTES_M3U = [
     # === ARGENTINA ===
     "https://iptv-org.github.io/iptv/countries/ar.m3u",
-
     # === CABLE LATINO (ESPN, FOX, TNT, HBO, Disney, etc.) ===
     "https://raw.githubusercontent.com/dmelendez11/lista-canales-m3u/main/channels.m3u",
     "https://raw.githubusercontent.com/jsosao/m3u/main/test.m3u8",
-
+    # === CABLE EN ESPAÑOL ===
+    "https://raw.githubusercontent.com/Tundrak/IPTV-Iberico-Plus/main/ibericoptv.m3u",
+    "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/exports/tdt.m3u",
+    "https://raw.githubusercontent.com/davidmuma/Canales_PlutoTV/master/channels.m3u",
+    "https://raw.githubusercontent.com/FunctionError/PiratesIPTV/main/combinedList.m3u",
     # === POR CATEGORÍA (iptv-org) ===
     "https://iptv-org.github.io/iptv/categories/sports.m3u",
     "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
     "https://iptv-org.github.io/iptv/categories/movies.m3u",
     "https://iptv-org.github.io/iptv/categories/kids.m3u",
-
-    # === LISTAS CON CABLE EN ESPAÑOL ===
-    "https://raw.githubusercontent.com/Tundrak/IPTV-Iberico-Plus/main/ibericoptv.m3u",
-    "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/exports/tdt.m3u",
-    "https://raw.githubusercontent.com/davidmuma/Canales_PlutoTV/master/channels.m3u",
-    "https://raw.githubusercontent.com/FunctionError/PiratesIPTV/main/combinedList.m3u",
-
-    # === DEPORTES ===
-    "https://iptv-org.github.io/iptv/categories/sports.m3u",
-
-    # === ENTRETENIMIENTO / PELÍCULAS ===
-    "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
-    "https://iptv-org.github.io/iptv/categories/movies.m3u",
-
-    # === INFANTILES ===
-    "https://iptv-org.github.io/iptv/categories/kids.m3u",
 ]
+
 def obtener_stream_youtube(url):
     try:
         resultado = subprocess.check_output(['yt-dlp', '-g', '-f', 'best', url]).decode('utf-8').strip()
@@ -50,11 +38,13 @@ def obtener_stream_youtube(url):
 def main():
     print(f"🚀 Generando lista Master: {datetime.now()}")
     entradas = []
+    urls_vistas = set()
 
     # Procesar YouTube
     for c in CANALES_YOUTUBE:
         stream = obtener_stream_youtube(c['url'])
-        if stream:
+        if stream and stream not in urls_vistas:
+            urls_vistas.add(stream)
             entradas.append(f'#EXTINF:-1 tvg-logo="{c["logo"]}" group-title="{c["grupo"]}",{c["nombre"]}\n{stream}')
 
     # Procesar Fuentes M3U Externas
@@ -63,19 +53,29 @@ def main():
             print(f"🌐 Extrayendo de: {url_fuente}")
             with urllib.request.urlopen(url_fuente, timeout=10) as r:
                 contenido = r.read().decode('utf-8')
-                # Quitamos la cabecera #EXTM3U de cada lista para no duplicarla
-                limpio = contenido.replace("#EXTM3U", "").strip()
-                if limpio: entradas.append(limpio)
-        except: print(f"⚠️ Error en fuente: {url_fuente}")
+            lineas = contenido.splitlines()
+            i = 0
+            while i < len(lineas):
+                if lineas[i].startswith('#EXTINF'):
+                    extinf = lineas[i]
+                    i += 1
+                    while i < len(lineas) and not lineas[i].startswith('http'):
+                        i += 1
+                    if i < len(lineas):
+                        url = lineas[i].strip()
+                        if url and url not in urls_vistas:
+                            urls_vistas.add(url)
+                            entradas.append(f'{extinf}\n{url}')
+                i += 1
+        except Exception as e:
+            print(f"⚠️ Error en fuente: {url_fuente} — {e}")
 
-    # Escribir archivo final con EPG UNIFICADA
-    # Esta URL de EPG de iptv-org es global
     epg_url = 'https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/es.xml'
-    
+
     with open("lista.m3u", "w", encoding="utf-8") as f:
         f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n' + "\n".join(entradas))
-    
-    print(f"✅ ¡Lista Master generada!")
+
+    print(f"✅ Lista generada con {len(entradas)} canales únicos")
 
 if __name__ == "__main__":
     main()
