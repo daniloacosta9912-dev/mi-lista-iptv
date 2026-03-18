@@ -15,6 +15,16 @@ FUENTES_M3U = [
     # === ARGENTINA ===
     "https://iptv-org.github.io/iptv/countries/ar.m3u",
 
+    # === CABLE LATINO (ESPN, FOX, TNT, HBO, Disney, etc.) ===
+    "https://raw.githubusercontent.com/dmelendez11/lista-canales-m3u/main/channels.m3u",
+    "https://raw.githubusercontent.com/jsosao/m3u/main/test.m3u8",
+
+    # === POR CATEGORÍA (iptv-org) ===
+    "https://iptv-org.github.io/iptv/categories/sports.m3u",
+    "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
+    "https://iptv-org.github.io/iptv/categories/movies.m3u",
+    "https://iptv-org.github.io/iptv/categories/kids.m3u",
+
     # === LISTAS CON CABLE EN ESPAÑOL ===
     "https://raw.githubusercontent.com/Tundrak/IPTV-Iberico-Plus/main/ibericoptv.m3u",
     "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/exports/tdt.m3u",
