@@ -1,29 +1,8 @@
-import subprocess
 import urllib.request
 import re
 from datetime import datetime
 
-# 1. TUS CANALES DE YOUTUBE (Prioridad local)
-CANALES_YOUTUBE = [
-    # === AR - AIRE ===
-    {"nombre": "ElTrece", "grupo": "AR - Aire", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/El_Trece_logo.svg/200px-El_Trece_logo.svg.png", "url": "https://www.youtube.com/@eltrece/live"},
-    {"nombre": "Telefe", "grupo": "AR - Aire", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Telefe_2019.svg/200px-Telefe_2019.svg.png", "url": "https://www.youtube.com/@Telefe/live"},
-    {"nombre": "América TV", "grupo": "AR - Aire", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Am%C3%A9rica_TV_2019_logo.svg/200px-Am%C3%A9rica_TV_2019_logo.svg.png", "url": "https://www.youtube.com/@americaenvivo/live"},
-
-    # === AR - NOTICIAS ===
-    {"nombre": "TN - Todo Noticias", "grupo": "AR - Noticias", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TN-Todo-Noticias-2018.svg/200px-TN-Todo-Noticias-2018.svg.png", "url": "https://www.youtube.com/@todonoticias/live"},
-    {"nombre": "A24", "grupo": "AR - Noticias", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/A24_logo.svg/200px-A24_logo.svg.png", "url": "https://www.youtube.com/@A24com/live"},
-    {"nombre": "C5N", "grupo": "AR - Noticias", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C5N_logo.svg/200px-C5N_logo.svg.png", "url": "https://www.youtube.com/@c5n/live"},
-    {"nombre": "LN+", "grupo": "AR - Noticias", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LN%2B_logo.svg/200px-LN%2B_logo.svg.png", "url": "https://www.youtube.com/@lanacionmas/live"},
-    {"nombre": "Crónica TV", "grupo": "AR - Noticias", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cr%C3%B3nica_TV_logo.svg/200px-Cr%C3%B3nica_TV_logo.svg.png", "url": "https://www.youtube.com/@cronicatv/live"},
-
-    # === AR - CÓRDOBA ===
-    {"nombre": "El Doce", "grupo": "AR - Córdoba", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/El_Doce_logo.svg/200px-El_Doce_logo.svg.png", "url": "https://www.youtube.com/@eldoce/live"},
-    {"nombre": "Canal 10 Córdoba", "grupo": "AR - Córdoba", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_logo.svg/200px-Canal_10_C%C3%B3rdoba_logo.svg.png", "url": "https://www.youtube.com/@canal10cordoba/live"},
-    {"nombre": "Cadena 3", "grupo": "AR - Córdoba", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cadena_3_logo.svg/200px-Cadena_3_logo.svg.png", "url": "https://www.youtube.com/@cadena3argentina/live"},
-]
-
-# 2. FUENTES EXTERNAS
+# FUENTES EXTERNAS
 FUENTES_M3U = [
     # === ARGENTINA ===
     "https://iptv-org.github.io/iptv/countries/ar.m3u",
@@ -33,94 +12,97 @@ FUENTES_M3U = [
     "https://iptv-org.github.io/iptv/countries/cl.m3u",
     "https://iptv-org.github.io/iptv/countries/co.m3u",
     "https://iptv-org.github.io/iptv/countries/ve.m3u",
+    "https://iptv-org.github.io/iptv/countries/pe.m3u",
+    "https://iptv-org.github.io/iptv/countries/uy.m3u",
+    "https://iptv-org.github.io/iptv/countries/py.m3u",
+    "https://iptv-org.github.io/iptv/countries/bo.m3u",
 
-    # === FUENTE GLOBAL VERIFICADA (Free-TV) ===
-    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
-
-    # === POR CATEGORÍA (iptv-org) ===
+    # === POR CATEGORÍA ===
     "https://iptv-org.github.io/iptv/categories/sports.m3u",
     "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
     "https://iptv-org.github.io/iptv/categories/movies.m3u",
-    "https://iptv-org.github.io/iptv/categories/kids.m3u",
     "https://iptv-org.github.io/iptv/categories/news.m3u",
 ]
 
-# 3. FILTROS — palabras que si aparecen en el nombre, el canal se elimina
+# FILTROS POR NOMBRE
 FILTROS_NOMBRE = [
     # Geo-bloqueados
     "[geo-blocked]", "[geo-block]",
-    # Canales árabes
+    # Árabes
     "alkass", "arryadia", "al jazeera", "al arabiya", "beinsports arabic",
     "sharjah", "bahrain", "oman sport", "jordan sport", "rta sport",
     "ktv sport", "kuwait", "qatar",
-    # Canales asiáticos / indios
+    # Asiáticos / indios
     "sony sports ten", "star sports", "dd sports", "ptv sports",
     "ten sports", "willow", "big magic", "colors", "sab tv",
     "zee ", "sony liv", "gaora", "j sports", "nittele",
     "htv", "tvri", "t sports", "udaya", "vissa",
-    # Canales rusos / del este europeo
+    # Rusos / este europeo
     "матч", "бокс тв", "старт", "русский", "беларусь",
     "астрахань", "gramy dalej", "qazport",
-    # Canales turcos
+    # Turcos
     "trt spor", "s sport", "tabii spor", "a-plus tv",
-    # Canales iraníes / persas
+    # Iraníes / persas
     "irib", "varzesh", "telewebion", "persiana",
-    # Canales vietnamitas
+    # Vietnamitas
     "đồng nai", "htv thể",
-    # Canales catalanes
+    # Catalanes
     "esport3", "carac",
-    # Pluto TV (muchos no funcionan)
+    # Pluto TV
     "pluto tv",
-    # Canales muy específicos que no te interesan
-    "alkass", "golf network", "golf channel", "one golf", "tennis channel",
+    # Deportes muy específicos
+    "golf network", "golf channel", "one golf", "tennis channel",
     "cycling channel", "tjk tv", "teletrak", "tvs bowling", "tvs boxing",
     "tvs classic", "tvs turbo", "tvs women", "tvs vintage", "tvs flashback",
     "tvs sports bureau", "tvs sports", "nudge sports", "more than sports",
     "unbeaten sports", "world of freesports", "vital drive", "w14dk",
     "pac 12", "bek tv", "cricket gold", "awapa", "atg live",
     "fb tv", "ftv", "game+", "gramy",
-    # Canales de idiomas no deseados por nombre obvio
+    # Idiomas no deseados
     "rai sport", "sport italia", "sport1", "sportitalia",
     "l'equipe", "6ter", "arte ",
     "lrt plius", "suspilne", "ct sport", "mnb sport", "m4 sport",
     "adjarasport", "rtsh sport", "san marino rtv sport",
     "smg football", "sin po", "tr sport",
+    # Canales que probaste y no funcionan
+    "pluto tv", "buzzr", "decades", "cozi tv", "el rey",
+    "ion ", "game show network", "gametoon", "heartland",
+    "mystery tv", "wipeout", "xplore", "color blind",
+    "bflix", "goldmines", "moviedome", "filmex",
+    # Not 24/7 de países no latinos
+    "nba tv", "nfl ", "mlb ", "nhl ",
 ]
 
-# 4. FILTROS — grupos que se eliminan completos
+# FILTROS POR GRUPO
 FILTROS_GRUPO = [
     "undefined",
 ]
 
-def canal_permitido(nombre, grupo):
-    """Devuelve True si el canal debe incluirse, False si debe filtrarse."""
+# IDIOMAS PERMITIDOS (solo canales en estos idiomas)
+IDIOMAS_PERMITIDOS = ["spa", ""]
+
+def canal_permitido(nombre, grupo, idioma=""):
     nombre_lower = nombre.lower()
     grupo_lower  = grupo.lower()
 
-    # Filtrar por palabras en el nombre
     for palabra in FILTROS_NOMBRE:
         if palabra.lower() in nombre_lower:
             return False
 
-    # Filtrar por grupo
     for g in FILTROS_GRUPO:
         if g.lower() in grupo_lower:
             return False
 
-    # Filtrar nombres con caracteres no latinos (árabe, cirílico, chino, etc.)
-    # excepto caracteres españoles/portugueses comunes
+    # Filtrar caracteres no latinos
     for char in nombre:
-        if ord(char) > 1000:  # filtra árabe, chino, japonés, etc.
+        if ord(char) > 1000:
             return False
 
-    return True
+    # Filtrar por idioma si está especificado
+    if idioma and idioma not in IDIOMAS_PERMITIDOS:
+        return False
 
-def obtener_stream_youtube(url):
-    try:
-        resultado = subprocess.check_output(['yt-dlp', '-g', '-f', 'best', url]).decode('utf-8').strip()
-        return resultado.split('\n')[0]
-    except:
-        return None
+    return True
 
 def main():
     print(f"🚀 Generando lista Master: {datetime.now()}")
@@ -128,18 +110,10 @@ def main():
     urls_vistas = set()
     filtrados = 0
 
-    # Procesar YouTube
-    for c in CANALES_YOUTUBE:
-        stream = obtener_stream_youtube(c['url'])
-        if stream and stream not in urls_vistas:
-            urls_vistas.add(stream)
-            entradas.append(f'#EXTINF:-1 tvg-logo="{c["logo"]}" group-title="{c["grupo"]}",{c["nombre"]}\n{stream}')
-
-    # Procesar Fuentes M3U Externas
     for url_fuente in FUENTES_M3U:
         try:
             print(f"🌐 Extrayendo de: {url_fuente}")
-            with urllib.request.urlopen(url_fuente, timeout=10) as r:
+            with urllib.request.urlopen(url_fuente, timeout=15) as r:
                 contenido = r.read().decode('utf-8')
 
             lineas = contenido.splitlines()
@@ -149,8 +123,10 @@ def main():
                     extinf = lineas[i]
                     nombre_match = re.search(r',(.+)$', extinf)
                     grupo_match  = re.search(r'group-title="([^"]*)"', extinf)
+                    idioma_match = re.search(r'tvg-language="([^"]*)"', extinf)
                     nombre = nombre_match.group(1).strip() if nombre_match else ""
                     grupo  = grupo_match.group(1).strip()  if grupo_match  else ""
+                    idioma = idioma_match.group(1).strip().lower() if idioma_match else ""
 
                     i += 1
                     while i < len(lineas) and not lineas[i].startswith('http'):
@@ -158,7 +134,7 @@ def main():
                     if i < len(lineas):
                         url = lineas[i].strip()
                         if url and url not in urls_vistas:
-                            if canal_permitido(nombre, grupo):
+                            if canal_permitido(nombre, grupo, idioma):
                                 urls_vistas.add(url)
                                 entradas.append(f'{extinf}\n{url}')
                             else:
