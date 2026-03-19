@@ -77,8 +77,7 @@ FILTROS_NOMBRE = [
 PAISES_PERMITIDOS = [
     ".ar", ".mx", ".cl", ".co", ".ve", ".pe", ".uy", ".py", ".bo",
     ".es", ".cu", ".do", ".pr", ".pa", ".cr", ".hn", ".gt", ".sv",
-    ".ni", ".ec", ".us", ".uk", ".fr", ".it", ".de", ".au", ".ca",
-    ".br", ".pt",
+    ".ni", ".ec", ".us", 
 ]
 
 # FILTROS POR GRUPO
