@@ -174,15 +174,14 @@
   }
 
   function abrirEnVLC(url, nombre) {
-    const encoded = encodeURIComponent(url);
-    const intentUrl = 'intent://org.videolan.vlc/play?uri=' + encoded +
-      '#Intent;package=org.videolan.vlc;' +
-      'action=android.intent.action.VIEW;' +
-      'scheme=org.videolan.vlc;end';
-    window.location.href = intentUrl;
+    // Intentar abrir con vlc:// directo
+    const a = document.createElement('a');
+    a.href = 'vlc://' + url;
+    a.click();
     setTimeout(() => {
-      mostrarToast('📋 ' + url);
-    }, 800);
+      mostrarToast('📋 Enlace copiado: ' + url);
+      navigator.clipboard.writeText(url).catch(() => {});
+    }, 500);
   }
 
   function parsearM3U(texto) {
