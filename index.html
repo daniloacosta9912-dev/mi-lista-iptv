@@ -174,14 +174,14 @@
   }
 
   function abrirEnVLC(url, nombre) {
-    // Intent para Android (abre VLC directamente)
-    const intentUrl = 'intent://' + url.replace(/^https?:\/\//, '') +
-      '#Intent;package=org.videolan.vlc;action=android.intent.action.VIEW;' +
-      'S.title=' + encodeURIComponent(nombre) + ';end';
+    const encoded = encodeURIComponent(url);
+    const intentUrl = 'intent://org.videolan.vlc/play?uri=' + encoded +
+      '#Intent;package=org.videolan.vlc;' +
+      'action=android.intent.action.VIEW;' +
+      'scheme=org.videolan.vlc;end';
     window.location.href = intentUrl;
-    // Si intent no funciona (PC), mostrar toast con el enlace
     setTimeout(() => {
-      mostrarToast('📋 Enlace: ' + url);
+      mostrarToast('📋 ' + url);
     }, 800);
   }
 
