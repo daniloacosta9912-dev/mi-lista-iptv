@@ -25,17 +25,24 @@ CANALES_YOUTUBE = [
 
 # 2. FUENTES EXTERNAS
 FUENTES_M3U = [
+    # === ARGENTINA ===
     "https://iptv-org.github.io/iptv/countries/ar.m3u",
-    "https://raw.githubusercontent.com/dmelendez11/lista-canales-m3u/main/channels.m3u",
-    "https://raw.githubusercontent.com/jsosao/m3u/main/test.m3u8",
-    "https://raw.githubusercontent.com/Tundrak/IPTV-Iberico-Plus/main/ibericoptv.m3u",
-    "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/exports/tdt.m3u",
-    "https://raw.githubusercontent.com/davidmuma/Canales_PlutoTV/master/channels.m3u",
-    "https://raw.githubusercontent.com/FunctionError/PiratesIPTV/main/combinedList.m3u",
+
+    # === LATINOAMÉRICA ===
+    "https://iptv-org.github.io/iptv/countries/mx.m3u",
+    "https://iptv-org.github.io/iptv/countries/cl.m3u",
+    "https://iptv-org.github.io/iptv/countries/co.m3u",
+    "https://iptv-org.github.io/iptv/countries/ve.m3u",
+
+    # === FUENTE GLOBAL VERIFICADA (Free-TV) ===
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+
+    # === POR CATEGORÍA (iptv-org) ===
     "https://iptv-org.github.io/iptv/categories/sports.m3u",
     "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
     "https://iptv-org.github.io/iptv/categories/movies.m3u",
     "https://iptv-org.github.io/iptv/categories/kids.m3u",
+    "https://iptv-org.github.io/iptv/categories/news.m3u",
 ]
 
 # 3. FILTROS — palabras que si aparecen en el nombre, el canal se elimina
