@@ -64,12 +64,11 @@ FILTROS_NOMBRE = [
     "lrt plius", "suspilne", "ct sport", "mnb sport", "m4 sport",
     "adjarasport", "rtsh sport", "san marino rtv sport",
     "smg football", "sin po", "tr sport",
-    # Canales que probaste y no funcionan
+    # Canales que no funcionan
     "pluto tv", "buzzr", "decades", "cozi tv", "el rey",
     "ion ", "game show network", "gametoon", "heartland",
     "mystery tv", "wipeout", "xplore", "color blind",
     "bflix", "goldmines", "moviedome", "filmex",
-    # Not 24/7 de países no latinos
     "nba tv", "nfl ", "mlb ", "nhl ",
 ]
 
@@ -77,7 +76,7 @@ FILTROS_NOMBRE = [
 PAISES_PERMITIDOS = [
     ".ar", ".mx", ".cl", ".co", ".ve", ".pe", ".uy", ".py", ".bo",
     ".es", ".cu", ".do", ".pr", ".pa", ".cr", ".hn", ".gt", ".sv",
-    ".ni", ".ec", ".us", 
+    ".ni", ".ec", ".us",
 ]
 
 # FILTROS POR GRUPO
@@ -85,7 +84,7 @@ FILTROS_GRUPO = [
     "undefined",
 ]
 
-# IDIOMAS PERMITIDOS (solo canales en estos idiomas)
+# IDIOMAS PERMITIDOS
 IDIOMAS_PERMITIDOS = ["spa", ""]
 
 def canal_permitido(nombre, grupo, idioma="", tvgid=""):
@@ -100,31 +99,29 @@ def canal_permitido(nombre, grupo, idioma="", tvgid=""):
         if g.lower() in grupo_lower:
             return False
 
-    # Filtrar caracteres no latinos
     for char in nombre:
         if ord(char) > 1000:
             return False
 
-    # Filtrar por idioma si está especificado
     if idioma and idioma not in IDIOMAS_PERMITIDOS:
         return False
 
-if tvgid:
+    if tvgid:
         partes = tvgid.lower().split("@")[0]
         if not any(partes.endswith(p) for p in PAISES_PERMITIDOS):
             return False
-    
+
     return True
 
 def main():
-    print(f"🚀 Generando lista Master: {datetime.now()}")
+    print(f"Generando lista Master: {datetime.now()}")
     entradas = []
     urls_vistas = set()
     filtrados = 0
 
     for url_fuente in FUENTES_M3U:
         try:
-            print(f"🌐 Extrayendo de: {url_fuente}")
+            print(f"Extrayendo de: {url_fuente}")
             with urllib.request.urlopen(url_fuente, timeout=15) as r:
                 contenido = r.read().decode('utf-8')
 
@@ -133,7 +130,7 @@ def main():
             while i < len(lineas):
                 if lineas[i].startswith('#EXTINF'):
                     extinf = lineas[i]
-                   nombre_match = re.search(r',(.+)$', extinf)
+                    nombre_match = re.search(r',(.+)$', extinf)
                     grupo_match  = re.search(r'group-title="([^"]*)"', extinf)
                     idioma_match = re.search(r'tvg-language="([^"]*)"', extinf)
                     tvgid_match  = re.search(r'tvg-id="([^"]*)"', extinf)
@@ -156,15 +153,15 @@ def main():
                 i += 1
 
         except Exception as e:
-            print(f"⚠️ Error en fuente: {url_fuente} — {e}")
+            print(f"Error en fuente: {url_fuente} - {e}")
 
     epg_url = 'https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/es.xml'
 
     with open("lista.m3u", "w", encoding="utf-8") as f:
         f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n' + "\n".join(entradas))
 
-    print(f"✅ Lista generada con {len(entradas)} canales únicos")
-    print(f"🗑️ Canales filtrados: {filtrados}")
+    print(f"Lista generada con {len(entradas)} canales unicos")
+    print(f"Canales filtrados: {filtrados}")
 
 if __name__ == "__main__":
     main()
