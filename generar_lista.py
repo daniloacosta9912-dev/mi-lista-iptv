@@ -73,6 +73,14 @@ FILTROS_NOMBRE = [
     "nba tv", "nfl ", "mlb ", "nhl ",
 ]
 
+# PAÍSES PERMITIDOS
+PAISES_PERMITIDOS = [
+    ".ar", ".mx", ".cl", ".co", ".ve", ".pe", ".uy", ".py", ".bo",
+    ".es", ".cu", ".do", ".pr", ".pa", ".cr", ".hn", ".gt", ".sv",
+    ".ni", ".ec", ".us", ".uk", ".fr", ".it", ".de", ".au", ".ca",
+    ".br", ".pt",
+]
+
 # FILTROS POR GRUPO
 FILTROS_GRUPO = [
     "undefined",
@@ -81,7 +89,7 @@ FILTROS_GRUPO = [
 # IDIOMAS PERMITIDOS (solo canales en estos idiomas)
 IDIOMAS_PERMITIDOS = ["spa", ""]
 
-def canal_permitido(nombre, grupo, idioma=""):
+def canal_permitido(nombre, grupo, idioma="", tvgid=""):
     nombre_lower = nombre.lower()
     grupo_lower  = grupo.lower()
 
@@ -102,6 +110,11 @@ def canal_permitido(nombre, grupo, idioma=""):
     if idioma and idioma not in IDIOMAS_PERMITIDOS:
         return False
 
+if tvgid:
+        partes = tvgid.lower().split("@")[0]
+        if not any(partes.endswith(p) for p in PAISES_PERMITIDOS):
+            return False
+    
     return True
 
 def main():
@@ -121,12 +134,14 @@ def main():
             while i < len(lineas):
                 if lineas[i].startswith('#EXTINF'):
                     extinf = lineas[i]
-                    nombre_match = re.search(r',(.+)$', extinf)
+                   nombre_match = re.search(r',(.+)$', extinf)
                     grupo_match  = re.search(r'group-title="([^"]*)"', extinf)
                     idioma_match = re.search(r'tvg-language="([^"]*)"', extinf)
+                    tvgid_match  = re.search(r'tvg-id="([^"]*)"', extinf)
                     nombre = nombre_match.group(1).strip() if nombre_match else ""
                     grupo  = grupo_match.group(1).strip()  if grupo_match  else ""
                     idioma = idioma_match.group(1).strip().lower() if idioma_match else ""
+                    tvgid  = tvgid_match.group(1).strip()  if tvgid_match  else ""
 
                     i += 1
                     while i < len(lineas) and not lineas[i].startswith('http'):
@@ -134,7 +149,7 @@ def main():
                     if i < len(lineas):
                         url = lineas[i].strip()
                         if url and url not in urls_vistas:
-                            if canal_permitido(nombre, grupo, idioma):
+                            if canal_permitido(nombre, grupo, idioma, tvgid):
                                 urls_vistas.add(url)
                                 entradas.append(f'{extinf}\n{url}')
                             else:
