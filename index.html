@@ -18,367 +18,92 @@
     --muted:     #7a7a9a;
     --pill-bg:   #1e1e2e;
   }
-
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'DM Sans', sans-serif;
-    min-height: 100vh;
-    overflow-x: hidden;
-  }
-
+  body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; min-height: 100vh; overflow-x: hidden; }
   body::before {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background:
-      radial-gradient(ellipse 80% 50% at 10% 0%, rgba(230,57,70,.12) 0%, transparent 60%),
-      radial-gradient(ellipse 60% 40% at 90% 100%, rgba(100,60,200,.08) 0%, transparent 60%);
-    pointer-events: none;
-    z-index: 0;
+    content: ''; position: fixed; inset: 0;
+    background: radial-gradient(ellipse 80% 50% at 10% 0%, rgba(230,57,70,.12) 0%, transparent 60%),
+                radial-gradient(ellipse 60% 40% at 90% 100%, rgba(100,60,200,.08) 0%, transparent 60%);
+    pointer-events: none; z-index: 0;
   }
-
   header {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: rgba(10,10,15,.85);
-    backdrop-filter: blur(16px);
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(10,10,15,.85); backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--border);
-    padding: 0 24px;
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    height: 64px;
+    padding: 0 24px; display: flex; align-items: center; gap: 20px; height: 64px;
   }
-
   .logo { flex-shrink: 0; }
   .logo img { height: 64px; object-fit: contain; }
-
-  .search-wrap {
-    flex: 1;
-    max-width: 420px;
-    position: relative;
-  }
-
-  .search-wrap svg {
-    position: absolute;
-    left: 14px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: var(--muted);
-    pointer-events: none;
-  }
-
+  .search-wrap { flex: 1; max-width: 420px; position: relative; }
+  .search-wrap svg { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
   #buscar {
-    width: 100%;
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 50px;
-    padding: 10px 16px 10px 42px;
-    color: var(--text);
-    font-family: 'DM Sans', sans-serif;
-    font-size: .9rem;
-    outline: none;
+    width: 100%; background: var(--card); border: 1px solid var(--border);
+    border-radius: 50px; padding: 10px 16px 10px 42px; color: var(--text);
+    font-family: 'DM Sans', sans-serif; font-size: .9rem; outline: none;
     transition: border-color .2s, box-shadow .2s;
   }
-
-  #buscar:focus {
-    border-color: var(--accent);
-    box-shadow: 0 0 0 3px rgba(230,57,70,.15);
-  }
-
+  #buscar:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(230,57,70,.15); }
   #buscar::placeholder { color: var(--muted); }
-
-  .count {
-    margin-left: auto;
-    font-size: .8rem;
-    color: var(--muted);
-    white-space: nowrap;
-  }
-
-  .cats-wrap {
-    position: relative;
-    z-index: 1;
-    padding: 16px 24px 4px;
-    display: flex;
-    gap: 8px;
-    overflow-x: auto;
-    scrollbar-width: none;
-  }
+  .count { margin-left: auto; font-size: .8rem; color: var(--muted); white-space: nowrap; }
+  .cats-wrap { position: relative; z-index: 1; padding: 16px 24px 4px; display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; }
   .cats-wrap::-webkit-scrollbar { display: none; }
-
   .cat-pill {
-    flex-shrink: 0;
-    padding: 6px 16px;
-    border-radius: 50px;
-    background: var(--pill-bg);
-    border: 1px solid var(--border);
-    color: var(--muted);
-    font-size: .82rem;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all .18s;
-    white-space: nowrap;
+    flex-shrink: 0; padding: 6px 16px; border-radius: 50px;
+    background: var(--pill-bg); border: 1px solid var(--border);
+    color: var(--muted); font-size: .82rem; font-weight: 500;
+    cursor: pointer; transition: all .18s; white-space: nowrap;
   }
-
   .cat-pill:hover { border-color: var(--accent); color: var(--text); }
-  .cat-pill.active {
-    background: var(--accent);
-    border-color: var(--accent);
-    color: #fff;
-    box-shadow: 0 4px 14px rgba(230,57,70,.35);
-  }
-
-  main {
-    position: relative;
-    z-index: 1;
-    padding: 20px 24px 40px;
-  }
-
-  #grilla {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-    gap: 16px;
-  }
-
+  .cat-pill.active { background: var(--accent); border-color: var(--accent); color: #fff; box-shadow: 0 4px 14px rgba(230,57,70,.35); }
+  main { position: relative; z-index: 1; padding: 20px 24px 40px; }
+  #grilla { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; }
   .canal-card {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    overflow: hidden;
-    transition: transform .2s, box-shadow .2s, border-color .2s;
+    background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+    overflow: hidden; transition: transform .2s, box-shadow .2s, border-color .2s;
     animation: fadeIn .3s ease both;
   }
-
-  .canal-card:hover {
-    transform: translateY(-4px) scale(1.02);
-    box-shadow: 0 12px 32px rgba(0,0,0,.5);
-    border-color: var(--accent);
-    background: var(--card-hover);
-  }
-
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(10px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-
-  .card-logo {
-    width: 100%;
-    aspect-ratio: 16/9;
-    background: var(--surface);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    cursor: pointer;
-  }
-
-  .card-logo img {
-    max-width: 80%;
-    max-height: 80%;
-    object-fit: contain;
-    filter: drop-shadow(0 2px 6px rgba(0,0,0,.4));
-  }
-
+  .canal-card:hover { transform: translateY(-4px) scale(1.02); box-shadow: 0 12px 32px rgba(0,0,0,.5); border-color: var(--accent); background: var(--card-hover); }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  .card-logo { width: 100%; aspect-ratio: 16/9; background: var(--surface); display: flex; align-items: center; justify-content: center; overflow: hidden; cursor: pointer; }
+  .card-logo img { max-width: 80%; max-height: 80%; object-fit: contain; filter: drop-shadow(0 2px 6px rgba(0,0,0,.4)); }
   .card-logo .fallback-icon { font-size: 2rem; color: var(--muted); }
-
   .card-body { padding: 10px 12px; }
-
-  .card-nombre {
-    font-size: .82rem;
-    font-weight: 500;
-    line-height: 1.3;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    color: var(--text);
-    cursor: pointer;
-  }
-
-  .card-cat {
-    font-size: .72rem;
-    color: var(--muted);
-    margin-top: 3px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .card-btns {
-    display: flex;
-    gap: 6px;
-    margin-top: 8px;
-  }
-
-  .btn-play {
-    flex: 1;
-    padding: 6px;
-    background: var(--accent);
-    border: none;
-    border-radius: 6px;
-    color: #fff;
-    font-size: .75rem;
-    cursor: pointer;
-    font-family: 'DM Sans', sans-serif;
-    transition: background .15s;
-  }
+  .card-nombre { font-size: .82rem; font-weight: 500; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--text); cursor: pointer; }
+  .card-cat { font-size: .72rem; color: var(--muted); margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .card-btns { display: flex; gap: 6px; margin-top: 8px; }
+  .btn-play { flex: 1; padding: 6px; background: var(--accent); border: none; border-radius: 6px; color: #fff; font-size: .75rem; cursor: pointer; font-family: 'DM Sans', sans-serif; transition: background .15s; }
   .btn-play:hover { background: var(--accent2); }
-
-  .btn-vlc {
-    flex: 1;
-    padding: 6px;
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--muted);
-    font-size: .75rem;
-    cursor: pointer;
-    font-family: 'DM Sans', sans-serif;
-    transition: border-color .15s, color .15s;
-  }
+  .btn-vlc { flex: 1; padding: 6px; background: var(--card); border: 1px solid var(--border); border-radius: 6px; color: var(--muted); font-size: .75rem; cursor: pointer; font-family: 'DM Sans', sans-serif; transition: border-color .15s, color .15s; }
   .btn-vlc:hover { border-color: var(--accent); color: var(--text); }
-
-  /* MODAL */
-  #modal {
-    display: none;
-    position: fixed;
-    inset: 0;
-    z-index: 200;
-    background: rgba(5,5,10,.92);
-    backdrop-filter: blur(8px);
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
+  #toast {
+    position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%) translateY(20px);
+    background: var(--surface); border: 1px solid var(--border); border-radius: 50px;
+    padding: 10px 24px; font-size: .85rem; color: var(--text);
+    opacity: 0; transition: opacity .3s, transform .3s; z-index: 500; pointer-events: none;
+    box-shadow: 0 8px 32px rgba(0,0,0,.5); white-space: nowrap;
   }
-
+  #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+  #modal { display: none; position: fixed; inset: 0; z-index: 200; background: rgba(5,5,10,.92); backdrop-filter: blur(8px); align-items: center; justify-content: center; padding: 20px; }
   #modal.open { display: flex; }
-
-  .modal-inner {
-    width: 100%;
-    max-width: 860px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 16px;
-    overflow: hidden;
-    box-shadow: 0 32px 80px rgba(0,0,0,.7);
-    animation: modalIn .22s ease;
-  }
-
-  @keyframes modalIn {
-    from { opacity: 0; transform: scale(.95); }
-    to   { opacity: 1; transform: scale(1); }
-  }
-
-  .modal-header {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 14px 18px;
-    border-bottom: 1px solid var(--border);
-    flex-wrap: wrap;
-  }
-
-  .modal-nombre {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.4rem;
-    letter-spacing: 1px;
-    flex: 1;
-  }
-
-  .modal-cat {
-    font-size: .78rem;
-    color: var(--muted);
-    background: var(--card);
-    padding: 3px 10px;
-    border-radius: 50px;
-    border: 1px solid var(--border);
-  }
-
-  #btn-vlc-modal {
-    background: var(--card);
-    border: 1px solid var(--border);
-    color: var(--muted);
-    border-radius: 8px;
-    padding: 6px 14px;
-    cursor: pointer;
-    font-family: 'DM Sans', sans-serif;
-    font-size: .85rem;
-    transition: border-color .15s, color .15s;
-  }
+  .modal-inner { width: 100%; max-width: 860px; background: var(--surface); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; box-shadow: 0 32px 80px rgba(0,0,0,.7); animation: modalIn .22s ease; }
+  @keyframes modalIn { from { opacity: 0; transform: scale(.95); } to { opacity: 1; transform: scale(1); } }
+  .modal-header { display: flex; align-items: center; gap: 10px; padding: 14px 18px; border-bottom: 1px solid var(--border); flex-wrap: wrap; }
+  .modal-nombre { font-family: 'Bebas Neue', sans-serif; font-size: 1.4rem; letter-spacing: 1px; flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .modal-cat { font-size: .78rem; color: var(--muted); background: var(--card); padding: 3px 10px; border-radius: 50px; border: 1px solid var(--border); }
+  #btn-vlc-modal { background: var(--card); border: 1px solid var(--border); color: var(--muted); border-radius: 8px; padding: 6px 14px; cursor: pointer; font-family: 'DM Sans', sans-serif; font-size: .85rem; transition: border-color .15s, color .15s; }
   #btn-vlc-modal:hover { border-color: var(--accent); color: var(--text); }
-
-  #btn-cerrar {
-    background: var(--card);
-    border: 1px solid var(--border);
-    color: var(--text);
-    border-radius: 8px;
-    padding: 6px 14px;
-    cursor: pointer;
-    font-family: 'DM Sans', sans-serif;
-    font-size: .85rem;
-    transition: background .15s;
-  }
+  #btn-cerrar { background: var(--card); border: 1px solid var(--border); color: var(--text); border-radius: 8px; padding: 6px 14px; cursor: pointer; font-family: 'DM Sans', sans-serif; font-size: .85rem; transition: background .15s; }
   #btn-cerrar:hover { background: var(--accent); border-color: var(--accent); }
-
-  .video-wrap {
-    position: relative;
-    background: #000;
-    aspect-ratio: 16/9;
-  }
-
+  .video-wrap { position: relative; background: #000; aspect-ratio: 16/9; }
   #player { width: 100%; height: 100%; display: block; }
-
-  .no-video {
-    display: none;
-    position: absolute;
-    inset: 0;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    gap: 12px;
-    color: var(--muted);
-    font-size: .9rem;
-    text-align: center;
-    padding: 20px;
-  }
+  .no-video { display: none; position: absolute; inset: 0; align-items: center; justify-content: center; flex-direction: column; gap: 12px; color: var(--muted); font-size: .9rem; text-align: center; padding: 20px; }
   .no-video.show { display: flex; }
-  .no-video a { color: var(--accent); font-size: .8rem; word-break: break-all; }
-
-  #empty {
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 12px;
-    padding: 80px 20px;
-    color: var(--muted);
-    text-align: center;
-  }
+  .no-video p { line-height: 1.6; }
+  #empty { display: none; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 80px 20px; color: var(--muted); text-align: center; }
   #empty.show { display: flex; }
-
-  #loading {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 16px;
-    padding: 100px 20px;
-    color: var(--muted);
-  }
-
-  .spinner {
-    width: 40px;
-    height: 40px;
-    border: 3px solid var(--border);
-    border-top-color: var(--accent);
-    border-radius: 50%;
-    animation: spin .7s linear infinite;
-  }
+  #loading { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px; padding: 100px 20px; color: var(--muted); }
+  .spinner { width: 40px; height: 40px; border: 3px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin .7s linear infinite; }
   @keyframes spin { to { transform: rotate(360deg); } }
-
   @media (max-width: 600px) {
     header { padding: 0 14px; height: 56px; gap: 12px; }
     main { padding: 16px 14px 40px; }
@@ -390,9 +115,7 @@
 <body>
 
 <header>
-  <div class="logo">
-    <img src="D-TV.png" alt="D-TV">
-  </div>
+  <div class="logo"><img src="D-TV.png" alt="D-TV"></div>
   <div class="search-wrap">
     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
       <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
@@ -405,10 +128,7 @@
 <div class="cats-wrap" id="cats"></div>
 
 <main>
-  <div id="loading">
-    <div class="spinner"></div>
-    <span>Cargando canales...</span>
-  </div>
+  <div id="loading"><div class="spinner"></div><span>Cargando canales...</span></div>
   <div id="grilla"></div>
   <div id="empty">
     <svg width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
@@ -418,7 +138,6 @@
   </div>
 </main>
 
-<!-- MODAL -->
 <div id="modal">
   <div class="modal-inner">
     <div class="modal-header">
@@ -433,23 +152,42 @@
         <svg width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
           <circle cx="12" cy="12" r="10"/><path d="m15 9-6 6M9 9l6 6"/>
         </svg>
-        <span>Este canal no puede reproducirse en el navegador.<br>Usá el botón "Abrir en VLC" de arriba.</span>
-        <a id="link-vlc" href="#">Ver enlace del stream</a>
+        <p>Este canal no puede reproducirse en el navegador.<br>Tocá "Abrir en VLC" arriba.</p>
       </div>
     </div>
   </div>
 </div>
 
+<div id="toast"></div>
+
 <script>
   const M3U_URL = 'lista.m3u';
-
   let todosLosCanales = [];
   let categoriaActiva = 'Todos';
   let canalActual = null;
 
+  function mostrarToast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 3000);
+  }
+
+  function abrirEnVLC(url, nombre) {
+    // Intent para Android (abre VLC directamente)
+    const intentUrl = 'intent://' + url.replace(/^https?:\/\//, '') +
+      '#Intent;package=org.videolan.vlc;action=android.intent.action.VIEW;' +
+      'S.title=' + encodeURIComponent(nombre) + ';end';
+    window.location.href = intentUrl;
+    // Si intent no funciona (PC), mostrar toast con el enlace
+    setTimeout(() => {
+      mostrarToast('📋 Enlace: ' + url);
+    }, 800);
+  }
+
   function parsearM3U(texto) {
     const canales = [];
-    const lineas  = texto.split('\n');
+    const lineas = texto.split('\n');
     for (let i = 0; i < lineas.length; i++) {
       const l = lineas[i].trim();
       if (!l.startsWith('#EXTINF')) continue;
@@ -468,7 +206,7 @@
 
   function renderCats(canales) {
     const grupos = ['Todos', ...new Set(canales.map(c => c.grupo))];
-    const wrap   = document.getElementById('cats');
+    const wrap = document.getElementById('cats');
     wrap.innerHTML = '';
     grupos.forEach(g => {
       const pill = document.createElement('button');
@@ -484,10 +222,6 @@
     });
   }
 
-  function abrirVLC(url) {
-    window.location.href = 'vlc://' + url.replace(/^https?:\/\//, '');
-  }
-
   function renderGrilla() {
     const q      = document.getElementById('buscar').value.toLowerCase();
     const grilla = document.getElementById('grilla');
@@ -495,10 +229,8 @@
     const count  = document.getElementById('count');
 
     let filtrados = todosLosCanales;
-    if (categoriaActiva !== 'Todos')
-      filtrados = filtrados.filter(c => c.grupo === categoriaActiva);
-    if (q)
-      filtrados = filtrados.filter(c => c.nombre.toLowerCase().includes(q));
+    if (categoriaActiva !== 'Todos') filtrados = filtrados.filter(c => c.grupo === categoriaActiva);
+    if (q) filtrados = filtrados.filter(c => c.nombre.toLowerCase().includes(q));
 
     count.textContent = filtrados.length + ' canales';
 
@@ -514,12 +246,9 @@
       const card = document.createElement('div');
       card.className = 'canal-card';
       card.style.animationDelay = Math.min(idx * 20, 400) + 'ms';
-
       card.innerHTML =
         '<div class="card-logo">' +
-          (canal.logo
-            ? '<img src="' + canal.logo + '" alt="' + canal.nombre + '" loading="lazy" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'block\'">'
-            : '') +
+          (canal.logo ? '<img src="' + canal.logo + '" alt="' + canal.nombre + '" loading="lazy" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'block\'">' : '') +
           '<span class="fallback-icon" style="' + (canal.logo ? 'display:none' : '') + '">📺</span>' +
         '</div>' +
         '<div class="card-body">' +
@@ -534,8 +263,7 @@
       card.querySelector('.card-logo').onclick = () => abrirCanal(canal);
       card.querySelector('.card-nombre').onclick = () => abrirCanal(canal);
       card.querySelector('.btn-play').onclick = () => abrirCanal(canal);
-      card.querySelector('.btn-vlc').onclick = () => abrirVLC(canal.url);
-
+      card.querySelector('.btn-vlc').onclick = () => abrirEnVLC(canal.url, canal.nombre);
       grilla.appendChild(card);
     });
   }
@@ -545,27 +273,22 @@
     const modal   = document.getElementById('modal');
     const player  = document.getElementById('player');
     const noVideo = document.getElementById('no-video');
-    const linkVlc = document.getElementById('link-vlc');
 
     document.getElementById('modal-nombre').textContent = canal.nombre;
     document.getElementById('modal-cat').textContent    = canal.grupo;
-    linkVlc.href        = canal.url;
-    linkVlc.textContent = canal.url;
     noVideo.classList.remove('show');
     player.style.display = 'block';
-
     player.src = canal.url;
     player.load();
     player.onerror = () => {
       player.style.display = 'none';
       noVideo.classList.add('show');
     };
-
     modal.classList.add('open');
   }
 
   document.getElementById('btn-vlc-modal').onclick = () => {
-    if (canalActual) abrirVLC(canalActual.url);
+    if (canalActual) abrirEnVLC(canalActual.url, canalActual.nombre);
   };
 
   document.getElementById('btn-cerrar').onclick = () => {
