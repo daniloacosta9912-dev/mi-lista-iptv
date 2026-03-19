@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MiTV — Canales Argentina</title>
+<title>D-TV — Canales Argentina</title>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -17,7 +17,6 @@
     --text:      #f0f0f5;
     --muted:     #7a7a9a;
     --pill-bg:   #1e1e2e;
-    --pill-act:  #e63946;
   }
 
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -30,7 +29,6 @@
     overflow-x: hidden;
   }
 
-  /* ── FONDO ANIMADO ── */
   body::before {
     content: '';
     position: fixed;
@@ -42,7 +40,6 @@
     z-index: 0;
   }
 
-  /* ── HEADER ── */
   header {
     position: sticky;
     top: 0;
@@ -57,15 +54,8 @@
     height: 64px;
   }
 
-  .logo {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 2rem;
-    letter-spacing: 2px;
-    color: var(--accent);
-    text-shadow: 0 0 20px rgba(230,57,70,.5);
-    white-space: nowrap;
-    flex-shrink: 0;
-  }
+  .logo { flex-shrink: 0; }
+  .logo img { height: 64px; object-fit: contain; }
 
   .search-wrap {
     flex: 1;
@@ -109,7 +99,6 @@
     white-space: nowrap;
   }
 
-  /* ── CATEGORÍAS ── */
   .cats-wrap {
     position: relative;
     z-index: 1;
@@ -143,7 +132,6 @@
     box-shadow: 0 4px 14px rgba(230,57,70,.35);
   }
 
-  /* ── GRILLA ── */
   main {
     position: relative;
     z-index: 1;
@@ -152,7 +140,7 @@
 
   #grilla {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
     gap: 16px;
   }
 
@@ -161,7 +149,6 @@
     border: 1px solid var(--border);
     border-radius: 12px;
     overflow: hidden;
-    cursor: pointer;
     transition: transform .2s, box-shadow .2s, border-color .2s;
     animation: fadeIn .3s ease both;
   }
@@ -172,8 +159,6 @@
     border-color: var(--accent);
     background: var(--card-hover);
   }
-
-  .canal-card:active { transform: scale(.97); }
 
   @keyframes fadeIn {
     from { opacity: 0; transform: translateY(10px); }
@@ -188,7 +173,7 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    position: relative;
+    cursor: pointer;
   }
 
   .card-logo img {
@@ -198,14 +183,9 @@
     filter: drop-shadow(0 2px 6px rgba(0,0,0,.4));
   }
 
-  .card-logo .fallback-icon {
-    font-size: 2rem;
-    color: var(--muted);
-  }
+  .card-logo .fallback-icon { font-size: 2rem; color: var(--muted); }
 
-  .card-body {
-    padding: 10px 12px;
-  }
+  .card-body { padding: 10px 12px; }
 
   .card-nombre {
     font-size: .82rem;
@@ -215,6 +195,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: var(--text);
+    cursor: pointer;
   }
 
   .card-cat {
@@ -226,7 +207,41 @@
     text-overflow: ellipsis;
   }
 
-  /* ── MODAL REPRODUCTOR ── */
+  .card-btns {
+    display: flex;
+    gap: 6px;
+    margin-top: 8px;
+  }
+
+  .btn-play {
+    flex: 1;
+    padding: 6px;
+    background: var(--accent);
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: .75rem;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    transition: background .15s;
+  }
+  .btn-play:hover { background: var(--accent2); }
+
+  .btn-vlc {
+    flex: 1;
+    padding: 6px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--muted);
+    font-size: .75rem;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    transition: border-color .15s, color .15s;
+  }
+  .btn-vlc:hover { border-color: var(--accent); color: var(--text); }
+
+  /* MODAL */
   #modal {
     display: none;
     position: fixed;
@@ -260,9 +275,10 @@
   .modal-header {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
     padding: 14px 18px;
     border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
   }
 
   .modal-nombre {
@@ -281,6 +297,19 @@
     border: 1px solid var(--border);
   }
 
+  #btn-vlc-modal {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    border-radius: 8px;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    font-size: .85rem;
+    transition: border-color .15s, color .15s;
+  }
+  #btn-vlc-modal:hover { border-color: var(--accent); color: var(--text); }
+
   #btn-cerrar {
     background: var(--card);
     border: 1px solid var(--border);
@@ -292,7 +321,6 @@
     font-size: .85rem;
     transition: background .15s;
   }
-
   #btn-cerrar:hover { background: var(--accent); border-color: var(--accent); }
 
   .video-wrap {
@@ -301,11 +329,7 @@
     aspect-ratio: 16/9;
   }
 
-  #player {
-    width: 100%;
-    height: 100%;
-    display: block;
-  }
+  #player { width: 100%; height: 100%; display: block; }
 
   .no-video {
     display: none;
@@ -320,17 +344,9 @@
     text-align: center;
     padding: 20px;
   }
-
   .no-video.show { display: flex; }
-  .no-video svg { opacity: .4; }
+  .no-video a { color: var(--accent); font-size: .8rem; word-break: break-all; }
 
-  .no-video a {
-    color: var(--accent);
-    font-size: .8rem;
-    word-break: break-all;
-  }
-
-  /* ── EMPTY STATE ── */
   #empty {
     display: none;
     flex-direction: column;
@@ -341,11 +357,8 @@
     color: var(--muted);
     text-align: center;
   }
-
   #empty.show { display: flex; }
-  #empty svg { opacity: .3; }
 
-  /* ── LOADING ── */
   #loading {
     display: flex;
     flex-direction: column;
@@ -364,15 +377,12 @@
     border-radius: 50%;
     animation: spin .7s linear infinite;
   }
-
   @keyframes spin { to { transform: rotate(360deg); } }
 
-  /* ── RESPONSIVE ── */
   @media (max-width: 600px) {
     header { padding: 0 14px; height: 56px; gap: 12px; }
-    .logo { font-size: 1.6rem; }
     main { padding: 16px 14px 40px; }
-    #grilla { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 12px; }
+    #grilla { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 12px; }
     .cats-wrap { padding: 12px 14px 4px; }
   }
 </style>
@@ -380,7 +390,9 @@
 <body>
 
 <header>
-  <img src="D-TV.png" alt="D-TV" style="height:64px;object-fit:contain;">
+  <div class="logo">
+    <img src="D-TV.png" alt="D-TV">
+  </div>
   <div class="search-wrap">
     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
       <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
@@ -412,7 +424,7 @@
     <div class="modal-header">
       <span class="modal-nombre" id="modal-nombre">—</span>
       <span class="modal-cat" id="modal-cat"></span>
-     <button id="btn-vlc-modal">📺 Abrir en VLC</button>
+      <button id="btn-vlc-modal">📺 Abrir en VLC</button>
       <button id="btn-cerrar">✕ Cerrar</button>
     </div>
     <div class="video-wrap">
@@ -421,7 +433,7 @@
         <svg width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
           <circle cx="12" cy="12" r="10"/><path d="m15 9-6 6M9 9l6 6"/>
         </svg>
-        <span>Este canal no puede reproducirse en el navegador.<br>Probá abrirlo directamente en VLC.</span>
+        <span>Este canal no puede reproducirse en el navegador.<br>Usá el botón "Abrir en VLC" de arriba.</span>
         <a id="link-vlc" href="#">Ver enlace del stream</a>
       </div>
     </div>
@@ -429,37 +441,31 @@
 </div>
 
 <script>
-  // ── CONFIGURACIÓN ──────────────────────────────
   const M3U_URL = 'lista.m3u';
-  // ───────────────────────────────────────────────
 
   let todosLosCanales = [];
   let categoriaActiva = 'Todos';
+  let canalActual = null;
 
-  // ── PARSEO M3U ─────────────────────────────────
   function parsearM3U(texto) {
     const canales = [];
     const lineas  = texto.split('\n');
     for (let i = 0; i < lineas.length; i++) {
       const l = lineas[i].trim();
       if (!l.startsWith('#EXTINF')) continue;
-
-      const nombre  = (l.match(/,(.+)$/)              || [])[1]?.trim() || 'Sin nombre';
-      const grupo   = (l.match(/group-title="([^"]*)"/)|| [])[1]?.trim() || 'General';
-      const logo    = (l.match(/tvg-logo="([^"]*)"/)   || [])[1]?.trim() || '';
-
-      // buscar URL en las siguientes líneas
+      const nombre = (l.match(/,(.+)$/)               || [])[1]?.trim() || 'Sin nombre';
+      const grupo  = (l.match(/group-title="([^"]*)"/) || [])[1]?.trim() || 'General';
+      const logo   = (l.match(/tvg-logo="([^"]*)"/)    || [])[1]?.trim() || '';
       let url = '';
       for (let j = i + 1; j < Math.min(i + 4, lineas.length); j++) {
-        const candidate = lineas[j].trim();
-        if (candidate.startsWith('http')) { url = candidate; break; }
+        const c = lineas[j].trim();
+        if (c.startsWith('http')) { url = c; break; }
       }
       if (url) canales.push({ nombre, grupo, logo, url });
     }
     return canales;
   }
 
-  // ── CATEGORÍAS ─────────────────────────────────
   function renderCats(canales) {
     const grupos = ['Todos', ...new Set(canales.map(c => c.grupo))];
     const wrap   = document.getElementById('cats');
@@ -478,7 +484,10 @@
     });
   }
 
-  // ── GRILLA ─────────────────────────────────────
+  function abrirVLC(url) {
+    window.location.href = 'vlc://' + url.replace(/^https?:\/\//, '');
+  }
+
   function renderGrilla() {
     const q      = document.getElementById('buscar').value.toLowerCase();
     const grilla = document.getElementById('grilla');
@@ -491,7 +500,7 @@
     if (q)
       filtrados = filtrados.filter(c => c.nombre.toLowerCase().includes(q));
 
-    count.textContent = `${filtrados.length} canales`;
+    count.textContent = filtrados.length + ' canales';
 
     if (!filtrados.length) {
       grilla.innerHTML = '';
@@ -499,41 +508,40 @@
       return;
     }
     empty.classList.remove('show');
-
     grilla.innerHTML = '';
+
     filtrados.forEach((canal, idx) => {
       const card = document.createElement('div');
       card.className = 'canal-card';
-      card.style.animationDelay = `${Math.min(idx * 20, 400)}ms`;
+      card.style.animationDelay = Math.min(idx * 20, 400) + 'ms';
 
-      card.innerHTML = `
-        <div class="card-logo">
-          ${canal.logo
-            ? `<img src="${canal.logo}" alt="${canal.nombre}" loading="lazy"
-                    onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`
-            : ''}
-          <span class="fallback-icon" style="${canal.logo ? 'display:none' : ''}">📺</span>
-        </div>
-        <div class="card-body">
-          <div class="card-nombre">${canal.nombre}</div>
-          <div class="card-cat">${canal.grupo}</div>
-          <div style="display:flex;gap:6px;margin-top:8px;">
-            <button class="btn-play" style="flex:1;padding:5px;background:var(--accent);border:none;border-radius:6px;color:#fff;font-size:.75rem;cursor:pointer;">▶ Ver</button>
-            <button class="btn-vlc" style="flex:1;padding:5px;background:var(--card);border:1px solid var(--border);border-radius:6px;color:var(--muted);font-size:.75rem;cursor:pointer;">📺 VLC</button>
-          </div>
-        </div>
+      card.innerHTML =
+        '<div class="card-logo">' +
+          (canal.logo
+            ? '<img src="' + canal.logo + '" alt="' + canal.nombre + '" loading="lazy" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'block\'">'
+            : '') +
+          '<span class="fallback-icon" style="' + (canal.logo ? 'display:none' : '') + '">📺</span>' +
+        '</div>' +
+        '<div class="card-body">' +
+          '<div class="card-nombre">' + canal.nombre + '</div>' +
+          '<div class="card-cat">' + canal.grupo + '</div>' +
+          '<div class="card-btns">' +
+            '<button class="btn-play">▶ Ver</button>' +
+            '<button class="btn-vlc">📺 VLC</button>' +
+          '</div>' +
+        '</div>';
 
-     card.querySelector('.btn-play').onclick = () => abrirCanal(canal);
-      card.querySelector('.btn-vlc').onclick = (e) => {
-        e.stopPropagation();
-        window.location.href = 'vlc://' + canal.url.replace(/^https?:\/\//, '');
-      };
+      card.querySelector('.card-logo').onclick = () => abrirCanal(canal);
+      card.querySelector('.card-nombre').onclick = () => abrirCanal(canal);
+      card.querySelector('.btn-play').onclick = () => abrirCanal(canal);
+      card.querySelector('.btn-vlc').onclick = () => abrirVLC(canal.url);
+
       grilla.appendChild(card);
     });
   }
 
-  // ── REPRODUCTOR ────────────────────────────────
   function abrirCanal(canal) {
+    canalActual = canal;
     const modal   = document.getElementById('modal');
     const player  = document.getElementById('player');
     const noVideo = document.getElementById('no-video');
@@ -544,28 +552,28 @@
     linkVlc.href        = canal.url;
     linkVlc.textContent = canal.url;
     noVideo.classList.remove('show');
+    player.style.display = 'block';
 
     player.src = canal.url;
     player.load();
-
     player.onerror = () => {
       player.style.display = 'none';
       noVideo.classList.add('show');
     };
-    player.onstalled = () => {};
-    player.style.display = 'block';
 
     modal.classList.add('open');
   }
 
   document.getElementById('btn-vlc-modal').onclick = () => {
-    const src = document.getElementById('player').src;
-    if (src) window.location.href = 'vlc://' + src.replace(/^https?:\/\//, '');
+    if (canalActual) abrirVLC(canalActual.url);
   };
+
+  document.getElementById('btn-cerrar').onclick = () => {
     const player = document.getElementById('player');
     player.pause();
     player.src = '';
     document.getElementById('modal').classList.remove('open');
+    canalActual = null;
   };
 
   document.getElementById('modal').onclick = (e) => {
@@ -573,10 +581,8 @@
       document.getElementById('btn-cerrar').click();
   };
 
-  // ── BÚSQUEDA ───────────────────────────────────
   document.getElementById('buscar').addEventListener('input', renderGrilla);
 
-  // ── CARGA INICIAL ──────────────────────────────
   async function cargar() {
     try {
       const r = await fetch(M3U_URL + '?t=' + Date.now());
@@ -588,7 +594,7 @@
       renderGrilla();
     } catch (err) {
       document.getElementById('loading').innerHTML =
-        `<span style="color:var(--accent)">Error al cargar la lista.<br>${err.message}</span>`;
+        '<span style="color:var(--accent)">Error al cargar la lista.<br>' + err.message + '</span>';
     }
   }
 
