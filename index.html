@@ -412,6 +412,7 @@
     <div class="modal-header">
       <span class="modal-nombre" id="modal-nombre">—</span>
       <span class="modal-cat" id="modal-cat"></span>
+     <button id="btn-vlc-modal">📺 Abrir en VLC</button>
       <button id="btn-cerrar">✕ Cerrar</button>
     </div>
     <div class="video-wrap">
@@ -516,9 +517,17 @@
         <div class="card-body">
           <div class="card-nombre">${canal.nombre}</div>
           <div class="card-cat">${canal.grupo}</div>
-        </div>`;
+          <div style="display:flex;gap:6px;margin-top:8px;">
+            <button class="btn-play" style="flex:1;padding:5px;background:var(--accent);border:none;border-radius:6px;color:#fff;font-size:.75rem;cursor:pointer;">▶ Ver</button>
+            <button class="btn-vlc" style="flex:1;padding:5px;background:var(--card);border:1px solid var(--border);border-radius:6px;color:var(--muted);font-size:.75rem;cursor:pointer;">📺 VLC</button>
+          </div>
+        </div>
 
-      card.onclick = () => abrirCanal(canal);
+     card.querySelector('.btn-play').onclick = () => abrirCanal(canal);
+      card.querySelector('.btn-vlc').onclick = (e) => {
+        e.stopPropagation();
+        window.location.href = 'vlc://' + canal.url.replace(/^https?:\/\//, '');
+      };
       grilla.appendChild(card);
     });
   }
@@ -549,7 +558,10 @@
     modal.classList.add('open');
   }
 
-  document.getElementById('btn-cerrar').onclick = () => {
+  document.getElementById('btn-vlc-modal').onclick = () => {
+    const src = document.getElementById('player').src;
+    if (src) window.location.href = 'vlc://' + src.replace(/^https?:\/\//, '');
+  };
     const player = document.getElementById('player');
     player.pause();
     player.src = '';
