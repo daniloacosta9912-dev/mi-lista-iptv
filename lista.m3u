@@ -485,8 +485,8 @@ https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaFTV.co@SD" tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Religious",Frecuencia F TV (1080p)
 https://tv.frecuenciaf.com/live/envivo.m3u8
-#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",Kalu TV (720p)
-https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8
+#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",Kalu TV (1080p)
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="LaCheverisimaRadioTV.co@SD" tvg-logo="https://i.imgur.com/lk5D5kB.png" group-title="Entertainment",La Cheverisima Radio TV (720p)
 https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="LaHermandadSalsera.co@SD" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="Music",La Hermandad Salsera (1080p) [Not 24/7]
@@ -531,11 +531,11 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
 #EXTINF:-1 tvg-id="TeleVid.co@SD" tvg-logo="https://i.imgur.com/OZ4kiXP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Religious",Tele Vid (1080p)
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Teleantioquia (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Teleantioquia (720p)
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telebolivar.co@SD" tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="General",Telebolívar (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/z18LRqM.png" http-referrer="https://player.instantvideocloud.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telecafe (1080p)
+#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/z18LRqM.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telecafe (1080p)
 https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telecaribe (720p)
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
@@ -543,13 +543,13 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="General",Teleislas (486p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemedellin.co@SD" tvg-logo="https://i.imgur.com/GnxzRTC.png" http-referrer="https://player.instantvideocloud.net/" group-title="General",Telemedellin (720p)
+#EXTINF:-1 tvg-id="Telemedellin.co@SD" tvg-logo="https://i.imgur.com/GnxzRTC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telemedellin (720p)
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesangil.co@SD" tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="General",Telesangil (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeveColombia.co@SD" tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Entertainment",TeveColombia (720p) [Not 24/7]
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-#EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" http-referrer="https://player.instantvideocloud.net/" group-title="General",Trece (720p)
+#EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Trece (720p)
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TuUniversoTV.co@SD" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Religious",Tu Universo TV (720p)
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
@@ -569,7 +569,7 @@ https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Sports",Win+ Futbol (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8
-#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" http-referrer="https://canalzoom.org/senal-en-vivo" group-title="Education",Zoom (1080p)
+#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Education",Zoom (1080p)
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Entertainment",Aguacate TV (1080p)
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
