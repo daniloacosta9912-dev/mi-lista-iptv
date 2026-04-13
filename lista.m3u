@@ -655,6 +655,8 @@ https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="ChivacoaTVInternacional.ve@SD" tvg-logo="https://i.imgur.com/9rbwZFY.png" group-title="General",Chivacoa TV Internacional (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
+#EXTINF:-1 tvg-id="DuacaVision.ve@SD" tvg-logo="https://i.imgur.com/jEqWixv.jpeg" group-title="General",DuacaVision
+https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8
 #EXTINF:-1 tvg-id="EXCTV.ve@SD" tvg-logo="https://i.imgur.com/Znd1Ml9.png" group-title="Science",Explosión Creativa (720p) [Not 24/7]
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.ve@SD" tvg-logo="https://i.imgur.com/RPiTPnK.png" group-title="General",Fortuna TV (1080p)
@@ -1174,7 +1176,7 @@ https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-id="ClicTV.ec@SD" tvg-logo="https://i.imgur.com/bvSLm9U.png" group-title="Entertainment",Clic TV (360p)
 https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do@SD" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entertainment",COCO TV (1080p) [Not 24/7]
-https://mlb.essastream.com:8081/canalcocotv/playlist.m3u8
+https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr@SD" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="Comet.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" group-title="Entertainment",Comet (1080p)
@@ -1376,7 +1378,7 @@ https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us@SD" tvg-logo="https://i.imgur.com/xeTtup8.png" group-title="Entertainment",Tele Boston (480p)
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="Telemax.do@SD" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Entertainment",Telemax (1080p) [Not 24/7]
-https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us@SD" tvg-logo="https://i.ibb.co/HpX99Ks/unnamed.jpg" group-title="Entertainment",TeleMIX (720p)
 https://haititivi.com/haiti/telemix1/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Entertainment",Telemundo Corpus Christi (720p)
@@ -1440,7 +1442,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="BlackCinema.us@SD" tvg-logo="https://i.imgur.com/FKBp987.png" group-title="Movies",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Movies",Boreal (720p) [Not 24/7]
-https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="CineAdrenalina.us@SD" tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Movies",Cine adrenalina
@@ -1697,8 +1699,8 @@ https://pemirateshls.persiana.live/hls/stream.m3u8
 https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CholusatSur36.hn@SD" tvg-logo="https://i.imgur.com/6qL2hE5.png" group-title="News",Cholusat Sur 36 (214p) [Not 24/7]
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
-#EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="News",Citrico TV (360p) [Not 24/7]
-https://mlb.essastream.com:8081/citricotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="News",Citrico TV (480p) [Not 24/7]
+https://edge.essastream.com/citricotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CordobaTV.es@SD" tvg-logo="https://i.imgur.com/qVe0hET.png" group-title="News",Córdoba TV [Not 24/7]
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="DeUltimoMinutoTV.do@SD" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="News",De Ultimo Minuto TV
@@ -1758,7 +1760,7 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 #EXTINF:-1 tvg-id="NorteInformativoTV.cr@SD" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="News",Norte Informativo TV (240p)
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="Noticias16.do@SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png" group-title="News",Noticias 16 (720p) [Not 24/7]
-https://mlb.essastream.com:8081/noticias16/playlist.m3u8
+https://edge.essastream.com/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-id="NotiUnoTV.pr@SD" tvg-logo="https://i.imgur.com/qNdywBT.png" group-title="News",NotiUno TV (854p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="General;News",NTD TV English (1080p)
@@ -1786,7 +1788,7 @@ https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
 #EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="News",RCV TV (712p)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="News",RDN (1080p) [Not 24/7]
-https://mlb.essastream.com:8081/rdntv/tracks-v1a1/mono.m3u8
+https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RedseatTheFirst.us@SD" tvg-logo="https://i.imgur.com/t794qkT.png" group-title="News",Redseat The First (720p)
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News",Reuters (1080p)
