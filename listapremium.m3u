@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
+http://107.152.39.199:8030/hls/canal23.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",1-Telefe
 http://45.238.54.67:8000/play/b02e/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",2-Telefe HD
@@ -13,6 +15,9 @@ http://45.5.151.147:8000/play/a00c/index.m3u8
 http://45.238.54.67:8000/play/b02f/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" group-title="Varios",7-Canal 13 HD
 http://45.5.151.147:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUL_jdNn5NwY8ewVF6Nv5-g7--VmD8yzF8M7pX1sbC-QEYTWdeMyfuaUS_sGSJn8oby69pKmrsErPKickb777EPBEusIusCzHPJbQHziCV2L8NnbUu8W-lBmUiTtRAKIw1mQ&s=10&ec=121584914" group-title="Varios",8-TV Publica
 http://138.121.114.91:8000/play/a094/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUL_jdNn5NwY8ewVF6Nv5-g7--VmD8yzF8M7pX1sbC-QEYTWdeMyfuaUS_sGSJn8oby69pKmrsErPKickb777EPBEusIusCzHPJbQHziCV2L8NnbUu8W-lBmUiTtRAKIw1mQ&s=10&ec=121584914" group-title="Varios",9-TV Publica HD
@@ -33,6 +38,10 @@ http://45.5.151.147:8000/play/a007/index.m3u8
 http://45.238.54.67:8000/play/a050/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",17-TN HD
 http://45.5.151.147:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="Varios",18-LN+
 http://138.121.114.91:8000/play/a05y/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="Varios",19-LN+ SD
