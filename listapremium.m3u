@@ -229,6 +229,8 @@ http://ultra-premium-pro.xyz:8080/m2608/m260822/493
 http://ultra-premium-pro.xyz:8080/m2608/m260822/495
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s" group-title="Varios",115-DAZN La Liga
 http://ultra-premium-pro.xyz:8080/m2608/m260822/60265
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) DAZN LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/244
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/FYjlInYXEAIfUAT.jpg" group-title="Varios",116-Sky Sports Bundesliga
 http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:0 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1730196750000&quality=70" group-title="Varios",117-DAZN 1
@@ -241,6 +243,27 @@ http://ultra-premium-pro.xyz:8080/m2608/m260822/60361
 http://ultra-premium-pro.xyz:8080/m2608/m260822/60363
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="Varios",121-DAZN F1
 http://ultra-premium-pro.xyz:8080/m2608/m260822/12397
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/264
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/97195
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/265
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/97196
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/99051
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/129635
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/266
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/129636
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/267
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/268
+
 #EXTINF:0 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/caza-pesca.jpg" group-title="Varios",122-Caza y Pesca
 http://ultra-premium-pro.xyz:8080/m2608/m260822/12420
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Varios",123-AMC
