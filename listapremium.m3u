@@ -172,10 +172,38 @@ http://45.238.54.67:8000/play/a052/index.m3u8
 http://45.70.201.81:8000/play/a001/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",66-ESPN Chile
 http://201.230.121.171:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HON-TVC Deportes (Z)(720)" tvg-logo="" group-title="HONDURAS",HON-TVC Deportes (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/153365
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - (e)(1080) " tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 1 - (ESPN)(1080) 
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/189004
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="PPV 2 - (e)(720)" tvg-logo="https://i.postimg.cc/D43vFj76/PPV1.png" group-title="EVENTOS PPV",PPV 2 - ESPN (720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178775
 #EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN (M)(720)" tvg-logo="https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png" group-title="ARGENTINA",ARG - ESPN (M)(720)
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/157558
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",67-ESPN MX
 http://201.216.147.90:8729/play/a0p0
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - encoder New (e)(1080)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - encoder New (e)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/185769
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - Encoder New (e)(720)" tvg-logo="" group-title="EVENTOS PPV",PPV 1 - Encoder New (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/185770
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Colombia).sv" tvg-name="DEPORTES - Espn 1 ARG (i)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (i)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9520
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 1 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (TV)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9521
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 1 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9522
+#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).cl" tvg-name="DEPORTES - Espn 1 CHI (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/99539
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9517
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (PM)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9516
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 1 LAT (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 LAT (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179479
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="DEPORTES - Espn 1 MEX (i)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (i)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9525
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 1 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (L)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9523
 #EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN 2 (M)(720)" tvg-logo="https://i.postimg.cc/59vvq60L/Proyecto-X-Argentina-(13).png" group-title="ARGENTINA",ARG - ESPN 2 (M)(720)
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/157559
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",68-ESPN 2
@@ -186,6 +214,34 @@ http://201.230.137.204:8000/play/a0i6/index.m3u8
 http://181.205.130.194:4000/play/a07i
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",71-ESPN 2 MX
 http://177.10.184.193:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (PM)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9527
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9528
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 2 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 COL (TV)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9529
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 2 COL (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 COL (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179486
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 2 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (L)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9530
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 2 SUR (Z)(720)" tvg-logo="https://i.ibb.co/rKhQWz0L/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 SUR (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179489
+#EXTINF:-1 tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" tvg-name="DEPORTES - Espn 3 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (L)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9533
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn  3 ARG (Z)(1080)" tvg-logo="https://i.ibb.co/SX0ztNpY/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn  3 ARG (Z)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179492
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9534
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 3 CH (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 CH (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179495
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 COL (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 COL (M)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9532
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 3 COL (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 COL (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179493
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="DEPORTES - Espn 3 MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9536
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 3 Sur (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 Sur (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179498
 #EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN 3 (M)(720)" tvg-logo="https://i.postimg.cc/jqNNQL5z/Proyecto-X-Argentina-(14).png" group-title="ARGENTINA",ARG - ESPN 3 (M)(720)
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/157560
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoLn81edf0H0Qc2kT6VUieZ2ueRBQN0xkYg&s" group-title="Varios",72-ESPN 3
@@ -202,6 +258,9 @@ http://138.121.114.91:8000/play/a084/index.m3u8
 http://181.224.200.5:2277/play/a02o/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Varios",77-ESPN 4 MX
 http://201.216.147.90:8729/play/a0gb
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn 4 MEX (M)(1080)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 MEX (M)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9537
+AQUI ME QUEDE
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",78-ESPN 5
 http://181.224.200.5:2277/play/a02k/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",79-ESPN 5 HD
