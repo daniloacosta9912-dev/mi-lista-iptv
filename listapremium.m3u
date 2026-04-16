@@ -158,6 +158,14 @@ http://38.224.73.146:8000/play/a0vr/index.m3u8
 http://ultra-premium-pro.xyz:8080/m2608/m260822/316
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="Varios",56-Dsports +
 http://ultra-premium-pro.xyz:8080/m2608/m260822/477
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="ECU-Directv Sports (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ECUADOR",ECU-Directv Sports (e)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/88483
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-name="ECU-Directv Sports (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ECUADOR",ECU-Directv Sports (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/8625
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="ECU-Copa Ecuador (e)(1080)" tvg-logo="https://i.postimg.cc/gk3gxSKb/Copa-Ecuador.png" group-title="ECUADOR",ECU-Copa Ecuador (e)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/84793
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-name="ECU-Copa Ecuador (e)(720)" tvg-logo="https://i.postimg.cc/gk3gxSKb/Copa-Ecuador.png" group-title="ECUADOR",ECU-Copa Ecuador (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/84794
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="Varios",57-Fox Sports
 http://138.121.114.91:8000/play/a085/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="Varios",58-Fox Sports HD
@@ -393,6 +401,12 @@ http://200.115.96.66:4000/play/a0h1/index.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.elcanaldelfutbol.com/static/app/online/BOTON_ECDF_TV_.webp" group-title="Varios",101-ECDF
 http://205.235.6.29:8000/play/a0nq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU- Canal del Futbol (e)(1080)" tvg-logo="https://i.postimg.cc/MHgykJxQ/Proyectox-24-7-series-Retro1-23.png" group-title="ECUADOR",ECU- Canal del Futbol (e)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/107639
+#EXTINF:-1 tvg-id="" tvg-name="ECU- Canal del Futbol (e)(720)" tvg-logo="https://i.postimg.cc/MHgykJxQ/Proyectox-24-7-series-Retro1-23.png" group-title="ECUADOR",ECU- Canal del Futbol (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/107640
+#EXTINF:-1 tvg-id="" tvg-name="ECU- El Canal del Futbol (M)(1080)" tvg-logo="https://i.postimg.cc/MHgykJxQ/Proyectox-24-7-series-Retro1-23.png" group-title="ECUADOR",ECU- El Canal del Futbol (M)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/109833
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_newAeNdIQKXPR9m4CFkm-QsEouUiGqm61QcIDVArCpjb0=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",102-beIN Sports n
 http://ultra-premium-pro.xyz:8080/m2608/m260822/23741
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVaQ5q6DOTKQOAq7HqFt5DhDf9US3QVlVdw&s" group-title="Varios",103-beIN Sports Xtra n
@@ -746,6 +760,97 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164937
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164938
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164939
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164949
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164950
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164956
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Aventura (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Aventura (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164957
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 1 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/6QH8pPBG/Cine-Comedia-Proyecto-x.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 1 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164959
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 2 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/66ZCM99D/CINE-COMEDIA-2.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 2 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164960
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 3 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/5NHT7QXP/Comedia-3-Proyecto-X.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 3 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164961
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 4 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/qMkXqPTZ/Comedia-4-proyectox.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 4 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164962
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 5 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/bNt8GB91/Comedia-5-proyecto-x.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 5 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164963
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 6 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/zB7F8Nfs/comedia-6.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 6 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164964
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 7 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/q7jGd0gk/Comedia-7.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 7 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164965
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 8 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/yYsXWkRp/247-Cinema-Comedias-8.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 8 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164966
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 1 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164953
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 2 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164954
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 3 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164955
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Cinema 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Cinema 1 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164951
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Cinema 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Cinema 2 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164952
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Fantasia (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Fantasia (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164958
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164941
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164802
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164863
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164864
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164868
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Billy y Mandy (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/BIelSEykzWJrckKCkYIWYKvRFt.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Billy y Mandy (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169554
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Bob Esponja (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/aEfJnhglu5HXsF7suH6TCOTbwkF.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Bob Esponja (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169536
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 1 al 9 (e)(720)(Trial Audio)" tvg-logo="https://image.tmdb.org/t/p/original/35AfqMTE4SfmwzsUe7yi5COtFPe.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson Temp. 1 al 9 (e)(720)(Trial Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178834
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 10 al 19 (e)(720)(Trial Audio)" tvg-logo="https://image.tmdb.org/t/p/original/wnRxhctl0aoomdDT882DljozGq6.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson Temp. 10 al 19 (e)(720)(Trial Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178836
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 20 al 29 (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson Temp. 20 al 29 (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178839
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 30 al 37 (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/soMLjF2VQRl3XkZIB5OoXdOqeLd.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson Temp. 30 al 37 (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178841
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Los Tres Chiflados (e)(SD)" tvg-logo="https://i.postimg.cc/8zS1wdyr/247tres-chiflados-eclusivo-proyectox.png" group-title="24/7 RETRO",24/7 Retro - Los Tres Chiflados (e)(SD)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177132
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - MacGyver (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/smA3i4mG0ScrXQNYLajrGXAQXq5.jpg" group-title="24/7 RETRO",24/7 Retro - MacGyver (e)(SD)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177125
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Spiderman (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/4QNBIgt5fwgNCN3OSU6BTFv0NGR.jpg" group-title="24/7 RETRO INFANTIL",24/7 Retro - Spiderman (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169575
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Walker Comisario de Texas (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/pyE8tPgqgQIZ62IDw1lisG60nSI.jpg" group-title="24/7 RETRO",24/7 Retro - Walker Comisario de Texas (e)(SD)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177134
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick y Morty (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/ieA8tZrVGXU0kHu1Qko7xQokXaD.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Rick y Morty (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178792
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - American Dad (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/fWZ1EkDxqE0ArmG2nEfHuVYBh9D.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - American Dad (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177730
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Padre de Familia Tem. 1 al 5 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/hwBwh07cylRzjjwtqIEbxZnYPZd.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Padre de Familia Tem. 1 al 5 (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177735
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Padre de Familia Tem. 12 al 18 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/ptHSVdvL9D7PdnsawocVo8EKhfV.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Padre de Familia Tem. 12 al 18 (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177737
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Padre de Familia Tem. 19 al 24 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/xrfziQ6BTzrLiMIHGyyRFlj36Jo.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Padre de Familia Tem. 19 al 24 (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177738
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Padre de Familia Tem. 6 al 11 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/zZnHd5rT0DN3GyCSiseMKSNxViO.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Padre de Familia Tem. 6 al 11 (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177736
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Como Conoci a tu Madre (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/xVO1aKyVQYbjAiV9nIqi0W3sm3E.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Como Conoci a tu Madre (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166092
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Friends: Parte 1 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/vQJ1sJPImYXAGosHJ1pnrQnUjWN.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Friends: Parte 1 (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166086
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Malcolm (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/qxEwQj3zjwHD0V2Hv8NKdOWBdC4.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Malcolm (e)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166096
+
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemundo_Internacional_Logo_%282013-2018%29.png/revision/latest?cb=20220222215130&path-prefix=es" group-title="Varios",188-Telemundo Internacional
 http://201.216.147.90:8729/play/a0c7
