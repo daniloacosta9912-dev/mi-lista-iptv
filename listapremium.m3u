@@ -662,16 +662,34 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9755
 http://45.238.54.67:8000/play/a06s/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Varios",178-Universal Cinema HD
 http://45.5.119.43:4000/play/a0kt/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Universal.Cinema.sv" tvg-name="CINE - Universal Cinema (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Cinema (L)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9756
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Varios",179-Universal Premiere
 http://181.119.111.25:4000/play/a0fa/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Varios",180-Universal Premiere HD
 http://45.5.119.43:4000/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (L)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9765
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9766
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (TV)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9767
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premiere Norte (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premiere Norte (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9768
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="Varios",181-Universal Reality HD
 http://45.167.1.139:8000/play/a065
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s" group-title="Varios",182-Universal Crime HD
 http://45.167.1.139:8000/play/a066
+#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (M)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9762
+#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (TV)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9763
+#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (Z)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9764
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="Varios",183-Universal Comedy
 http://45.238.54.67:8000/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Universal.Comedy.sv" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Comedy (TV)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9759
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ujWgilK5VkhbQPHn3cRMeQxa7srK9g8hAw&s" group-title="Varios",184-USA
 http://181.209.37.74:8001/play/a068/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="Varios",185-Volver HD
@@ -680,6 +698,55 @@ http://45.5.151.62:8000/play/a03v/index.m3u8
 http://190.60.37.126:58002/play/a0bb/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/5QOyvlm5UtJDFcsDWozc81ir6mCoKBsm2Jwi64qdwqoJ59wSBKI-SJZSorjjHh54rQ1dZnv77A=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",187-Warner TV HD
 http://181.209.125.236:10000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(México).sv" tvg-name="CINE - Warner Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel (L)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9774
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Chile).cl" tvg-name="CINE - Warner Channel (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel (TV)(720)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9776
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(México).sv" tvg-name="CINE - Warner Channel Dual Audio (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel Dual Audio (M)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9775
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - 4K (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - 4K (e)(4K)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164942
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 1 (e)(1080)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 1 (e)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164581
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164788
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 2 (e)(1080)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 2 (e)(1080)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164582
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164583
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164584
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164586
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164781
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164782
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164783
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164787
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164869
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164940
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164870
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164871
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164934
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164935
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164936
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164937
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164938
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164939
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemundo_Internacional_Logo_%282013-2018%29.png/revision/latest?cb=20220222215130&path-prefix=es" group-title="Varios",188-Telemundo Internacional
 http://201.216.147.90:8729/play/a0c7
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQhN37n7qjdcdzDEl4XbQbjgzspxdnARIaw&s" group-title="Varios",189-Galavision
