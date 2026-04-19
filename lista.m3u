@@ -871,6 +871,8 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="VNP.pe@SD" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="News",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv@SD" tvg-logo="https://i.imgur.com/dHxaWyp.png" group-title="General",WOW TV (1080p)
+https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVOTV.uy@SD" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png" group-title="Entertainment",VIVO TV (1080p)
 https://stream.vivotv.uy/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="News",4DmásNoticias TV (1080p) [Not 24/7]
@@ -943,6 +945,8 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 #EXTINF:-1 tvg-id="SucesoTV.py@SD" tvg-logo="https://i.imgur.com/BwRNes1.png" group-title="News",Suceso TV [Not 24/7]
 https://live.enhdtv.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-id="SURTVItapua.py@SD" tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="General",SUR TV Itapua
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py@SD" tvg-logo="https://i.imgur.com/6lVrFvb.png" http-referrer="https://www.telefuturo.com.py" group-title="General",Telefuturo (1080p)
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports",Tigo Sports (720p)
@@ -953,6 +957,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 https://copacogen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/chunklist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="TVAire.py@SD" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="General",TV Aire
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Legislative",TV Camara (1080p)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://i.imgur.com/cgTD2TW.png" http-referrer="https://unicanal.com.py/" group-title="News",Unicanal (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py@SD" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="General",UnionTV
@@ -1125,6 +1131,8 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSportsLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports Latin America (1080p)
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports",USA Network East (1080p) [Not 24/7]
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="WorldPokerTour.us@Germany" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",World Poker Tour
@@ -1217,6 +1225,8 @@ https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
 #EXTINF:-1 tvg-id="GeordieShore.us@Italy" tvg-logo="https://i.imgur.com/WOkqDRi.png" group-title="Entertainment",Geordie Shore
 https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
+#EXTINF:-1 tvg-id="GETtv.do@SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/get-tv-do.png" group-title="Entertainment",GET tv (1080p) [Not 24/7]
+https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8
 #EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Entertainment;Music",Gex TV (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="GirasolTV.hn@SD" tvg-logo="https://i.imgur.com/2t7A2yg.png" group-title="Entertainment",Girasol TV (1080p)
