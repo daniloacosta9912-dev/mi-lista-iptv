@@ -83,8 +83,6 @@ https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South HD (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Entertainment;News",E! Latin America (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Cooking",El Gourmet South (720p)
@@ -883,6 +881,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 #EXTINF:-1 tvg-id="AlmayaTV.py@SD" tvg-logo="https://i.imgur.com/dDAf1nJ.png" group-title="General",Almaya TV (720p)
 https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="General",America Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 #EXTINF:-1 tvg-id="BrunoMasiTV.py@SD" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" group-title="General",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="C9N.py@SD" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="News",C9N
@@ -955,8 +955,8 @@ https://live.enhdtv.com:8081/8160/index.m3u8
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD" tvg-logo="https://i.imgur.com/cgIv5QK.png" http-referrer="https://trece.com.py/" group-title="General",Trece (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
-#EXTINF:-1 tvg-id="Tropicalia939FM.py@SD" tvg-logo="https://i.imgur.com/oMML5Ue.png" http-referrer="https://www.gen.com.py/live/" group-title="Music",Tropicalia 93.9 FM (1080p)
-https://copacogen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/chunklist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="Tropicalia939FM.py@SD" tvg-logo="https://i.imgur.com/oMML5Ue.png" group-title="Music",Tropicalia 93.9 FM (1280p)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 #EXTINF:-1 tvg-id="TVAire.py@SD" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="General",TV Aire
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 #EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Legislative",TV Camara (1080p)
@@ -965,8 +965,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py@SD" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="General",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Music",Venus Media (720p)
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Music",Venus Media (1280p) [Not 24/7]
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
 #EXTINF:-1 tvg-id="VillaElisaRadioTV.py@SD" tvg-logo="https://i.imgur.com/ryzCsvy.jpg" group-title="General",Villa Elisa Radio TV (1080p)
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="AbyaYalaTV.bo@SD" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png" group-title="General",Abya Yala TV
@@ -1103,8 +1103,8 @@ https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="Sports",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="Sports",RACER Select (1080p)
-https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
+#EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="Sports",Racer Select (1080p)
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-logo="https://i.imgur.com/2ZcUXbE.png" http-referrer="https://iblups.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Radio Turrialba TV Sports (720p) [Not 24/7]
 https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Realmadrid TV (720p)
