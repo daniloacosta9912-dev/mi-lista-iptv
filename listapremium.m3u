@@ -49,64 +49,16 @@ http://181.224.200.5:2277/play/a02g/index.m3u8
 http://181.224.200.5:2277/play/a02o/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Varios",77-ESPN 4 MX
 http://201.216.147.90:8729/play/a0gb
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn 4 MEX (M)(1080)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 MEX (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9537
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",78-ESPN 5
 http://181.224.200.5:2277/play/a02k/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",79-ESPN 5 HD
-http://181.209.125.236:10000/play/a07o/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",80-ESPN 5 MX
-http://201.216.147.90:8729/play/a0ox
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="DEPORTES - Espn 5 (M)(1080)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9539
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 5 (Z)(720)" tvg-logo="https://i.ibb.co/fs3t738/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179513
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 5 AR (Z)(720)" tvg-logo="https://i.ibb.co/N2rw1H27/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 AR (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179517
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="Varios",81-ESPN 6
 http://181.224.200.5:2277/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv" tvg-name="DEPORTES - Espn 6 (M)(720)" tvg-logo="https://i.ibb.co/vv1FJdNV/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 6 (M)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179518
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Varios",82-ESPN 7 HD
 http://181.224.200.5:2277/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="DEPORTES - Espn 7 (M)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 7 (M)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9543
-#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - ESPN 7 (Z)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9574
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 7 CH (Z)(720)" tvg-logo="https://i.ibb.co/gZF3ttc2/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 7 CH (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179519
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Gallery_5617_2_102815.png/revision/latest?cb=20210525001847&path-prefix=es" group-title="Varios",83-Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - Espn Deportes (MEX) (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes (MEX) (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9544
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn Deportes (Z)(720)" tvg-logo="https://i.ibb.co/gFtY6Tnm/image.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179504
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn Extra MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra MEX (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9547
-AQUI
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DeporTVLogo2020.png/120px-DeporTVLogo2020.png" group-title="Varios",84-DeporTV
-http://181.209.37.74:8001/play/a07f/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuv2RM6KLKp-msUVuODbNbtfJKHcTMFax7g&s" group-title="Varios",85-Eurosports 1
-http://ultra-premium-pro.xyz:8080/m2608/m260822/577
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuv2RM6KLKp-msUVuODbNbtfJKHcTMFax7g&s" group-title="Varios",86-Eurosports 2
-http://ultra-premium-pro.xyz:8080/m2608/m260822/578
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="Varios",87-America TV Peru
-http://190.117.20.37:8000/play/a0bh/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnX2ifbGoB-nuwJBR6YX9h_YrKUm-DOV372g&s" group-title="Varios",88-L1MAX Peru
 http://190.117.20.37:8000/play/a08c/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png" group-title="Varios",89-Movistar Deportes Peru
-http://190.117.20.37:8000/play/a0ay/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="Varios",90-Tigo Sports
 http://181.119.111.25:4000/play/a05/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="Varios",91-Tigo LATAM
@@ -115,13 +67,7 @@ http://181.119.111.25:4000/play/a0f1/index.m3u8
 http://201.216.147.90:8729/play/a01t
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="Varios",93-TUDN
 http://201.216.147.90:8729/play/a00u
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="Varios",94-TUDN USA
-http://177.10.184.193:8000/play/a0ft/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8n6__GtaaR74puKmG6Apcd6W8WEWltmFGw&s" group-title="Varios",95-UNIMAS
-http://190.83.9.222:8000/play/a00g/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HL3gCY5bIhwpB2S6F0M4vfk8ugC2ONcLOA&s" group-title="Varios",96-ESPN Deportes
-http://ultra-premium-pro.xyz:8080/m2608/m260822/23708
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HL3gCY5bIhwpB2S6F0M4vfk8ugC2ONcLOA&s" group-title="Varios",97-ESPN Deportes HD
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HL3gCY5bIhwpB2S6F0M4vfk8ugC2ONcLOA&s" group-title="Varios",Sky Sports
 http://201.190.41.246:58002/play/a02h/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="Varios",98-Fox Sports Mexico
 http://200.115.96.66:4000/play/a0jx/index.m3u8
@@ -129,22 +75,8 @@ http://200.115.96.66:4000/play/a0jx/index.m3u8
 http://200.115.96.66:4000/play/a0h1/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Universo_2017.svg" group-title="Varios",100-Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.elcanaldelfutbol.com/static/app/online/BOTON_ECDF_TV_.webp" group-title="Varios",101-ECDF
-http://205.235.6.29:8000/play/a0nq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ECU- Canal del Futbol (e)(1080)" tvg-logo="https://i.postimg.cc/MHgykJxQ/Proyectox-24-7-series-Retro1-23.png" group-title="ECUADOR",ECU- Canal del Futbol (e)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/107639
-#EXTINF:-1 tvg-id="" tvg-name="ECU- Canal del Futbol (e)(720)" tvg-logo="https://i.postimg.cc/MHgykJxQ/Proyectox-24-7-series-Retro1-23.png" group-title="ECUADOR",ECU- Canal del Futbol (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/107640
-#EXTINF:-1 tvg-id="" tvg-name="ECU- El Canal del Futbol (M)(1080)" tvg-logo="https://i.postimg.cc/MHgykJxQ/Proyectox-24-7-series-Retro1-23.png" group-title="ECUADOR",ECU- El Canal del Futbol (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/109833
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_newAeNdIQKXPR9m4CFkm-QsEouUiGqm61QcIDVArCpjb0=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",102-beIN Sports n
-http://ultra-premium-pro.xyz:8080/m2608/m260822/23741
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVaQ5q6DOTKQOAq7HqFt5DhDf9US3QVlVdw&s" group-title="Varios",103-beIN Sports Xtra n
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVaQ5q6DOTKQOAq7HqFt5DhDf9US3QVlVdw&s" group-title="Varios",104-beIN Sports Xtra n HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Varios",105-beIN Sports USA
-http://ultra-premium-pro.xyz:8080/m2608/m260822/23740
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",106-Claro Sports
 http://181.205.130.194:4000/play/a06o
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",107-Claro Sports HD
@@ -157,28 +89,10 @@ http://190.60.32.178:8178/play/a0fk/index.m3u8
 http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Varios",111-Sky Sports La Liga
 http://45.5.118.152:8000/play/a08f/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s" group-title="Varios",112-Movistar La Liga
-http://ultra-premium-pro.xyz:8080/m2608/m260822/12380
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s" group-title="Varios",113-Movistar La Liga 2
-http://ultra-premium-pro.xyz:8080/m2608/m260822/493
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s" group-title="Varios",114-Movistar La Liga 3
-http://ultra-premium-pro.xyz:8080/m2608/m260822/495
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s" group-title="Varios",115-DAZN La Liga
-http://ultra-premium-pro.xyz:8080/m2608/m260822/60265
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) DAZN LALIGA
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: DAZN LALIGA
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/244
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/FYjlInYXEAIfUAT.jpg" group-title="Varios",116-Sky Sports Bundesliga
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:0 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1730196750000&quality=70" group-title="Varios",117-DAZN 1
-http://ultra-premium-pro.xyz:8080/m2608/m260822/60354
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOXJjABYK-zMgeyC-dqJ22Q3mEHOpSAhdfQ&s" group-title="Varios",118-DAZN 2
-http://ultra-premium-pro.xyz:8080/m2608/m260822/60359
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/1200px-DAZN_3.svg.png" group-title="Varios",119-DAZN 3
-http://ultra-premium-pro.xyz:8080/m2608/m260822/60361
-#EXTINF:0 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/w/t/xdazn4.jpg.pagespeed.ic.eFrCKmRmJ6.jpg" group-title="Varios",120-DAZN 4
-http://ultra-premium-pro.xyz:8080/m2608/m260822/60363
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="Varios",121-DAZN F1
-http://ultra-premium-pro.xyz:8080/m2608/m260822/12397
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/264
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
@@ -199,87 +113,20 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/129636
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/267
 #EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/268
-#EXTINF:0 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/caza-pesca.jpg" group-title="Varios",122-Caza y Pesca
-http://ultra-premium-pro.xyz:8080/m2608/m260822/12420
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Varios",123-AMC
-http://190.60.37.126:58002/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-id="Canal.AMC.(México).sv" tvg-name="CINE - AMC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-CINE Y SERIES",CINE - AMC (L)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9619
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Varios",124-AMC Series
-http://45.238.54.67:8000/play/a0by/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Varios",125-A&E
-http://181.209.37.74:8001/play/a09h/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Varios",126-A&E HD
-http://181.209.125.236:10000/play/a00o/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="Varios",127-AXN
-http://181.209.37.74:8001/play/a09e/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="Varios",128-AXN HD
-http://181.209.125.236:10000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="Canal.AXN.(México).mx" tvg-name="CINE - AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-CINE Y SERIES",CINE - AXN (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9623
-#EXTINF:-1 tvg-id="AXN.co" tvg-name="CINE - AXN (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-CINE Y SERIES",CINE - AXN (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9624
-#EXTINF:-1 tvg-id="Canal.AXN.(México).mx" tvg-name="CINE - AXN (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-CINE Y SERIES",CINE - AXN (Z)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9625
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CINEARLogo.png/120px-CINEARLogo.png" group-title="Varios",129-CineAR
-http://181.209.37.74:8001/play/a069/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg" group-title="Varios",130-Cine Latino
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9626
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",131-Cinemax
 http://190.151.80.244:9990/play/a0li/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",132-Cinemax Sur
 http://45.186.254.75:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="CINE - Comedy Central (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (L)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9636
-#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="CINE - Comedy Central (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (M)(SD)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9637
-
-#EXTINF:-1 tvg-id="Canal.Cinecanal.(México).mx" tvg-name="CINE - Cinecanal (Z)(1080)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CANALES-CINE Y SERIES",CINE - Cinecanal (Z)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9631
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Varios",133-Cinecanal
 http://181.119.111.25:4000/play/a0gb/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Varios",134-Cinecanal SUR
-http://181.209.125.236:10000/play/a032/index.m3u8
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/p1pkpkfJ1QjVfFRcTQlUMzdyyLZ9iD2QoNlPIg1-QJKs2uArkwGJqFt0tetiB6W_VVAeXz8e=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",135-DHE HD
-http://201.230.137.126:8000/play/a159/index.m3u8
-#EXTINF:0 tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBauvZybnLKT2YylcWMk4EynXnxkAblXMCQ&s" group-title="Varios",136-Europa Europa
-http://181.209.37.74:8001/play/a07t/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Qppj0AtJDCzjcBYlOY5nWD9RR2Kpx_9Zxg&s" group-title="Varios",137-EuroChannel
-http://ultra-premium-pro.xyz:8080/m2608/m260822/184
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Varios",138-Film & Arts
 http://200.229.147.142:8000/play/a01w/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Varios",139-FX
-http://181.209.125.236:10000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="Canal.FX.(México).mx" tvg-name="CINE - FX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-CINE Y SERIES",CINE - FX (L)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9652
-#EXTINF:-1 tvg-id="Canal.FX.(México).mx" tvg-name="CINE - FX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-CINE Y SERIES",CINE - FX (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9653
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="Varios",140-Golden 
-http://201.230.137.204:8000/play/a0li/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-name="CINE - Golden (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CANALES-CINE Y SERIES",CINE - Golden (Z)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9657
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Varios",141-Golden Edge
 http://45.186.254.75:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-name="CINE - Golden Edge (M)(720)" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Edge (M)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9658
 #EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-name="CINE - Golden Edge (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="CANALES-CINE Y SERIES",CINE - Golden Edge (Z)(1080)
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9659
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXU4JgV5wD-AamgX6ro-fnGxWWEiDpltzeAw&s" group-title="Varios",142-Golden Premier
-http://181.189.142.237:40000/play/a08q
-#EXTINF:-1 tvg-id="Canal.Golden.Plus.mx" tvg-name="CINE - Golden Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (L)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9660
-#EXTINF:-1 tvg-id="Canal.Golden.Plus.mx" tvg-name="CINE - Golden Plus (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (M)(1080) [Dual Audio]
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9661
-#EXTINF:-1 tvg-id="Canal.Golden.Plus.mx" tvg-name="CINE - Golden Plus (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (Z)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9662
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Varios",143-Golden Premier 2
 http://181.189.142.237:40000/play/a08r
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="CINE - Golden Premier 2 (Z)(720)" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-(Z)(720)_m.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Premier 2 (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9663
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.2.mx" tvg-name="CINE - Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Premiere 2 (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9665
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Varios",144-Golden Plus
-http://dplatino.net:80//live/MaryRuiz./ArLHLfZqB9HH/53941.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",145-HBO
 http://190.151.80.244:9990/play/a0lh/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",146-HBO Este
@@ -288,166 +135,41 @@ http://45.186.254.75:8000/play/a04s/index.m3u8
 http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",148-HBO MX
 http://45.5.118.152:8000/play/a0bm/index.m3u8
-#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (M)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (M)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9667
-#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9668
-#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9670
-#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(SD)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9669
-#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO 2 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (L)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9671
-#EXTINF:-1 tvg-id="HBO.2.co" tvg-name="CINE - HBO 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (TV)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9673
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="Varios",149-HBO 2
 http://45.5.116.228:8000/play/a00c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="Varios",150-HBO 2 HD
 http://45.5.151.147:8000/play/a010/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Varios",151-HBO+
 http://45.5.116.228:8000/play/a0l4/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Varios",152-HBO+ HD
-http://179.63.6.15:8002/play/a034
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Varios",153-HBO Pop
-http://45.5.151.147:8000/play/a014/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Varios",154-HBO Pop HD
 http://181.205.130.194:4000/play/a0ff
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (TV)(SD)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9687
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (Z)(1080)" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (Z)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9688
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="Varios",155-HBO Mundi
-http://45.238.54.67:8000/play/a024/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Varios",156-HBO Signature
-http://45.238.54.67:8000/play/a05s/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Varios",157-HBO Signature HD
-http://179.63.6.15:8002/play/a035
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Varios",158-HBO Xtreme
 http://45.5.116.228:8000/play/a0l6/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Varios",159-HBO Xtreme HD
 http://45.186.254.75:8000/play/a05d/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Varios",160-HBO Family
-http://181.94.215.185:4000/play/a0i0/index.m3u8
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (L)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9676
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9678
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9679
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9680
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family. (TV)(SD)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9677
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Varios",161-Paramount +
-http://dplatino.net:80//live/MaryRuiz./ArLHLfZqB9HH/317033.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Varios",162-Sony Channel
-http://181.209.37.74:8001/play/a09c/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Varios",163-Sony Channel HD
-http://45.238.54.67:8000/play/a00q/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOspY0DemQf4NaEMxXnKQQKCpDwOfVCdtnZg&s" group-title="Varios",164-Sony Cine
-http://181.209.125.236:10000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="SONY.HD.(Sony.HD).pe" tvg-name="CINE - Sony Cine (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png" group-title="CANALES-CINE Y SERIES",CINE - Sony Cine (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9713
-#EXTINF:-1 tvg-id="Canal.TNT.Novelas.(México).mx" tvg-name="CINE - Sony Novelas (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-JYH4OV2UZyY/YrOngMaC-EI/AAAAAAAADqY/2lSJe3QRzDM4qzssNcDa2qhVLQllQDPNwCNcBGAsYHQ/w200-h200/1655940990366011-0.png" group-title="CANALES-CINE Y SERIES",CINE - Sony Novelas (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9716
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Varios",165-Sony Movies
 http://200.115.96.66:4000/play/a02w/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_space_m.png" group-title="Varios",166-Space
 http://181.119.111.25:4000/play/a0ez/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Space.(México).mx" tvg-name="CINE - Space (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="CANALES-CINE Y SERIES",CINE - Space (TV)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9717
-#EXTINF:-1 tvg-id="Space.co" tvg-name="CINE - Space (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="CANALES-CINE Y SERIES",CINE - Space (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9718
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Varios",167-Star Channel
 http://181.78.20.119:58002/play/a008/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Varios",168-Star Channel HD
-http://45.5.151.62:8000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-name="CINE - STAR Channel CO (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel CO (M)(1080) [Dual Audio]
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9721
-#EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-name="CINE - STAR Channel CO. (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel CO. (M)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9722
-#EXTINF:-1 tvg-id="Canal.Star.Channel.(México).mx" tvg-name="CINE - STAR Channel MX (L)(1080)" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel MX (L)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9723
-#EXTINF:-1 tvg-id="Canal.Star.Channel.(México).mx" tvg-name="CINE - Star Channel Norte (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="CANALES-CINE Y SERIES",CINE - Star Channel Norte (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9724
-#EXTINF:-1 tvg-id="Canal.Star.Channel.(Argentina).ar" tvg-name="CINE - Star Channel Sur (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="CANALES-CINE Y SERIES",CINE - Star Channel Sur (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9725
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="Varios",169-Studio Universal
 http://181.78.20.119:58002/play/a06k/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Studio.Universal.(México).mx" tvg-name="CINE - Studio Universal (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" group-title="CANALES-CINE Y SERIES",CINE - Studio Universal (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9732
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Varios",170-TCM
 http://200.229.147.142:8000/play/a02o/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/500px-TNT_Logo_2016.svg.png" group-title="Varios",171-TNT
-http://181.209.37.74:8001/play/a08b/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/500px-TNT_Logo_2016.svg.png" group-title="Varios",172-TNT HD
-http://181.209.125.236:10000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="Canal.TNT.(México).mx" tvg-name="CINE - TNT (L)(720)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-CINE Y SERIES",CINE - TNT (L)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9742
-#EXTINF:-1 tvg-id="Canal.TNT.(México).mx" tvg-name="CINE - TNT (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-CINE Y SERIES",CINE - TNT (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9743
-#EXTINF:-1 tvg-id="Canal.TNT.(México).mx" tvg-name="CINE - TNT (M)(720)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-CINE Y SERIES",CINE - TNT (M)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9744
-#EXTINF:-1 tvg-id="TNT.co" tvg-name="CINE - TNT (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-CINE Y SERIES",CINE - TNT (TV)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9745
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Varios",173-TNT Series
-http://201.230.137.126:8000/play/a17j/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Varios",174-TNT Series HD
 http://181.205.130.194:4000/play/a0fv
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Varios",175-Universal TV
-http://181.209.125.236:10000/play/a00p/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Varios",176-Universal TV HD
-http://181.209.37.74:8001/play/a09i/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Universal.TV.(México).mx" tvg-name="CINE - Universal Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Channel (L)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9753
-#EXTINF:-1 tvg-id="Canal.Universal.TV.(México).mx" tvg-name="CINE - Universal Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Channel (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9755
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Varios",177-Universal Cinema
-http://45.238.54.67:8000/play/a06s/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Varios",178-Universal Cinema HD
 http://45.5.119.43:4000/play/a0kt/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Universal.Cinema.sv" tvg-name="CINE - Universal Cinema (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Cinema (L)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9756
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Varios",179-Universal Premiere
 http://181.119.111.25:4000/play/a0fa/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Varios",180-Universal Premiere HD
 http://45.5.119.43:4000/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (L)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9765
-#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (M)(1080) [Dual Audio]
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9766
-#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9767
-#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premiere Norte (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premiere Norte (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9768
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="Varios",181-Universal Reality HD
 http://45.167.1.139:8000/play/a065
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s" group-title="Varios",182-Universal Crime HD
 http://45.167.1.139:8000/play/a066
-#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (M)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9762
-#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9763
-#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (Z)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9764
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="Varios",183-Universal Comedy
-http://45.238.54.67:8000/play/a0ar/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Universal.Comedy.sv" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Comedy (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9759
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ujWgilK5VkhbQPHn3cRMeQxa7srK9g8hAw&s" group-title="Varios",184-USA
-http://181.209.37.74:8001/play/a068/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="Varios",185-Volver HD
-http://45.5.151.62:8000/play/a03v/index.m3u8
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/5QOyvlm5UtJDFcsDWozc81ir6mCoKBsm2Jwi64qdwqoJ59wSBKI-SJZSorjjHh54rQ1dZnv77A=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",186-Warner TV 
-http://190.60.37.126:58002/play/a0bb/index.m3u8
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/5QOyvlm5UtJDFcsDWozc81ir6mCoKBsm2Jwi64qdwqoJ59wSBKI-SJZSorjjHh54rQ1dZnv77A=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",187-Warner TV HD
-http://181.209.125.236:10000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Warner.TV.(México).sv" tvg-name="CINE - Warner Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel (L)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9774
-#EXTINF:-1 tvg-id="Canal.Warner.TV.(Chile).cl" tvg-name="CINE - Warner Channel (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel (TV)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9776
-#EXTINF:-1 tvg-id="Canal.Warner.TV.(México).sv" tvg-name="CINE - Warner Channel Dual Audio (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel Dual Audio (M)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9775
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - 4K (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - 4K (e)(4K)(Dual Audio)
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164942
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 1 (e)(1080)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 1 (e)(1080)
@@ -580,132 +302,42 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166092
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166086
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Malcolm (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/qxEwQj3zjwHD0V2Hv8NKdOWBdC4.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Malcolm (e)(720)
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166096
-
-
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemundo_Internacional_Logo_%282013-2018%29.png/revision/latest?cb=20220222215130&path-prefix=es" group-title="Varios",188-Telemundo Internacional
 http://201.216.147.90:8729/play/a0c7
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQhN37n7qjdcdzDEl4XbQbjgzspxdnARIaw&s" group-title="Varios",189-Galavision
-http://ultra-premium-pro.xyz:8080/m2608/m260822/22932
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="Varios",190-Univision
 http://201.216.147.90:8729/play/a0pa
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDfvj3lBIIByegg9yN9bA-QLVN8nurP250cE5GBwTw6H8=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",191-Hola TV
-http://201.230.137.126:8000/play/a16p/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Varios",192-Pasiones
-http://201.230.137.126:8000/play/a14w/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_az-corazon_m.png" group-title="Varios",193-Corazon
-http://ultra-premium-pro.xyz:8080/m2608/m260822/24892
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png" group-title="Varios",194-TVE
-http://181.209.37.74:8001/play/a080/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/250px-Logo_Canal_24_horas.svg.png" group-title="Varios",195-24 horas
-http://ultra-premium-pro.xyz:8080/m2608/m260822/12394
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="Varios",196-Antena 3
-http://ultra-premium-pro.xyz:8080/m2608/m260822/618
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="Varios",197-Antena 3 Internacional
-http://190.119.195.114:8060/play/a0p9/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="Varios",198-A3 Series
 http://181.78.20.119:58002/play/a06i/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgE1EBbIlc8tR5P5eR-LTLMB0BTlHNi8pXvQ&s" group-title="Varios",199-Mega
-http://ultra-premium-pro.xyz:8080/m2608/m260822/12406
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg" group-title="Varios",200-La 1
-http://ultra-premium-pro.xyz:8080/m2608/m260822/12334
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1200px-Logo_La_2.svg.png" group-title="Varios",201-La 2
-http://ultra-premium-pro.xyz:8080/m2608/m260822/12454
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprL6XW1D4scFXuz-h4t7_wLIat4e79AI1hw&s" group-title="Varios",202-Cuatro
-http://ultra-premium-pro.xyz:8080/m2608/m260822/12331
-#EXTINF:0 tvg-logo="https://i.scdn.co/image/ab6761610000e5ebc66c6848262ec04bc34a0dee" group-title="Varios",203-Telecinco
-http://ultra-premium-pro.xyz:8080/m2608/m260822/236487
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSG71u3qAyFXieVfsHLDfdzmh3fDrulKDJ4Q&s" group-title="Varios",204-La Sexta
-http://ultra-premium-pro.xyz:8080/m2608/m260822/236489
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Varios",205-Star TVE
 http://45.186.254.75:8000/play/a097/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/El_Gourmet_logo.png/120px-El_Gourmet_logo.png" group-title="Varios",206-El Gourmet
-http://45.5.151.62:8000/play/a07c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Varios",207-TLC
 http://201.230.137.204:8000/play/a0gg/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Varios",208-Lifetime
-http://181.94.215.185:4000/play/a0jh/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Varios",209-History Channel
 http://201.230.137.204:8000/play/a0kf/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Varios",210-History Channel HD
-http://201.230.121.186:8000/play/a0js/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtrYALwlwTSSSpiS7e1It6Dgcni34qShrRg&s" group-title="Varios",211-H2
 http://200.229.147.142:8000/play/a02e/index.m3u8
-#EXTINF:0 tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="Varios",212-Nat Geo
-http://181.209.37.74:8001/play/a09f/index.m3u8
-#EXTINF:0 tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="Varios",213-Nat Geo HD
-http://181.209.125.236:10000/play/a00m/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK2nC-KW0GlURvtbyjWV9iQjVeDp8cAloAeQ&s" group-title="Varios",214-Nat Geo Wild
-http://190.60.42.86:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Varios",215-Animal Planet
 http://181.78.20.119:58002/play/a00w/index.m3u8
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ghCNUD0AkoQx3dlys3micAPg72urRlbvYu98GSBtY5ImdZzx-Nutuf4UILM5AlH54k1VDmfvpGI=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",216-Love Nature
-http://ultra-premium-pro.xyz:8080/m2608/m260822/451
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="Varios",217-Sun Channel
 http://200.229.147.142:8000/play/a02g/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Varios",218-E!
-http://181.94.215.185:4000/play/a0fd/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvgH2yKd9DZWQki7OsGADPNqnfJZuoJSLCA&s" group-title="Varios",219-Discovery Channel
 http://45.186.254.75:8000/play/a06z/index.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Discovery_Science_LA_2011.png/revision/latest?cb=20190925153556&path-prefix=es" group-title="Varios",220-Discovery Science
-http://181.209.125.236:10000/play/a01j/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Varios",221-Discovery H&H
-http://181.209.125.236:10000/play/a038/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Varios",222-Discovery World
-http://181.209.125.236:10000/play/a01y/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Varios",223-Discovery Theather
-http://45.238.54.67:8000/play/a0ah/index.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Varios",224-Discovery ID
-http://177.10.184.193:8000/play/a0a8/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Varios",225-Discovery Turbo
 http://181.78.20.119:58002/play/a018/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQetw2mtTqgeEBdzIso6IHIxRdLJOYoufDWZw&s" group-title="Varios",226-Discovery Familia
-http://ultra-premium-pro.xyz:8080/m2608/m260822/23415
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Varios",227-Comedy Central
-http://201.230.137.126:8000/play/a178/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1043px-Htv_logo.svg.png" group-title="Varios",228-HTV
-http://181.209.125.236:10000/play/a01m/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLJHApATNTJtN-sKj66Q91X66RBA11TYcbg&s" group-title="Varios",229-Music Top (No Roku)
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Varios",230-Telehit
-http://ultra-premium-pro.xyz:8080/m2608/m260822/59412
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="Varios",231-Telehit Musica
 http://181.78.8.199:8000/play/a0g7/index.m3u8
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s314/q.png" group-title="Varios",232-Quiero Musica
-http://181.209.37.74:8001/play/a06s/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logocmtvargentina.png/120px-Logocmtvargentina.png" group-title="Varios",233-CM Canal de la Musica
-http://45.5.151.62:8000/play/a0bf/index.m3u8
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Varios",234-Tierra Mia (No Roku)
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",235-Karaoke Stingray
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",236-Stingray Concerts
-http://190.119.195.114:8060/play/a0jc/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Varios",237-CNN Esp
 http://179.63.6.15:8002/play/a02q
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Varios",238-Telesur HD
 http://200.229.147.142:8000/play/a06e/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Varios",239-Ve Plus
-http://181.78.7.90:12500/play/a0mf/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Varios",239-RCN Colombia
-http://181.205.130.194:4000/play/a0dl
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="Varios",240-HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Varios",241-RT HD
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Varios",242-France 24
-http://190.119.195.114:8060/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="Varios",243-DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="Varios",244-RAI Italia
-http://190.119.195.114:8060/play/a0pa/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="Varios",245-CNN USA HD
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="Varios",246-Fox News Channel
-http://190.119.195.114:8060/play/a0ph/index.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o" group-title="Varios",247-ABC News
-http://ultra-premium-pro.xyz:8080/m2608/m260822/24127
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg" group-title="Varios",248-NBC News
-http://ultra-premium-pro.xyz:8080/m2608/m260822/23965
-#EXTINF:0 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newsgroup-logos/msnbc/logo-vertical/default-black-498x404.png" group-title="Varios",249-MSNBC
-http://ultra-premium-pro.xyz:8080/m2608/m260822/23637
 
