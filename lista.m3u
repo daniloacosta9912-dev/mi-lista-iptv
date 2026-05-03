@@ -877,6 +877,8 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv@SD" tvg-logo="https://i.imgur.com/dHxaWyp.png" group-title="General",WOW TV (1080p)
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DSportsUruguay.uy@SD" tvg-logo="https://i.imgur.com/2PoEm1x.png" group-title="Sports",DSports Uruguay
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="VIVOTV.uy@SD" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png" group-title="Entertainment",VIVO TV (1080p)
 https://stream.vivotv.uy/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="News",4DmásNoticias TV (1080p) [Not 24/7]
@@ -893,8 +895,8 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 #EXTINF:-1 tvg-id="BrunoMasiTV.py@SD" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" group-title="General",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1 tvg-id="C9N.py@SD" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="News",C9N
-https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="C9N.py@SD" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="News",C9N (1080p)
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal5TVMax.py@SD" tvg-logo="https://i.imgur.com/6oihaDM.png" group-title="General",Canal 5 TV Max (720p)
 https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
 #EXTINF:-1 tvg-id="Canal8CCProducciones.py@SD" tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="General",Canal 8 C&C Producciones
@@ -947,8 +949,8 @@ https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 #EXTINF:-1 tvg-id="OviedoTV.py@SD" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="General",Oviedo TV
 https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="General",Paraguay TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="General",Paraguay TV (1080p)
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py@SD" tvg-logo="https://i.imgur.com/yd9Dw2G.png" http-referrer="https://www.paravision.com.py/" group-title="General",Paravision
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:-1 tvg-id="PopuTV.py@SD" tvg-logo="https://i.imgur.com/UqCogyZ.png" http-referrer="https://www.popular.com.py/" group-title="Entertainment",Popu TV (1080p)
@@ -957,6 +959,8 @@ https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?
 https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="RadioCiudad989FMTV.py@SD" tvg-logo="https://i.imgur.com/LaSLZwR.jpg" group-title="Music",Radio Ciudad 98.9 FM TV
 https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8
+#EXTINF:-1 tvg-id="RadioNacionaldelParaguay.py@SD" tvg-logo="https://i.imgur.com/ksh20I5.png" group-title="General",Radio Nacional del Paraguay
+https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py@SD" tvg-logo="https://i.imgur.com/zaJhBdj.png" group-title="Music",Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 #EXTINF:-1 tvg-id="RadioTVElArcadelPacto.py@SD" tvg-logo="https://i.imgur.com/Oq0i3Rb.png" group-title="Religious",Radio TV El Arca del Pacto (1080p)
@@ -971,6 +975,8 @@ https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 #EXTINF:-1 tvg-id="RepublicaTV.py@SD" tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png" group-title="General",República TV (720p)
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RQPParaguay.py@SD" tvg-logo="https://i.imgur.com/0cUc4Nt.png" group-title="Music",RQP Paraguay (1080i)
+https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="SNT.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="General",SNT (1080p)
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 #EXTINF:-1 tvg-id="SucesoTV.py@SD" tvg-logo="https://i.imgur.com/BwRNes1.png" group-title="News",Suceso TV [Not 24/7]
@@ -999,8 +1005,8 @@ https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py@SD" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="General",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Music",Venus Media (1280p) [Not 24/7]
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Music",Venus Media (1080p)
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="VillaElisaRadioTV.py@SD" tvg-logo="https://i.imgur.com/ryzCsvy.jpg" group-title="General",Villa Elisa Radio TV (1080p)
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="AbyaYalaTV.bo@SD" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png" group-title="General",Abya Yala TV
@@ -1089,12 +1095,14 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png" group-title="Sports",FloRacing 24/7 (1080p)
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Deportes (1280p)
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (1280p)
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="Sports",Fox Sports 3 Latin America (1080p)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Espanol (720p)
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports",FTF Sports (720p)
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",fubo Sports Network (1080p)
