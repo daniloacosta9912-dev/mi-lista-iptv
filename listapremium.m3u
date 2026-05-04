@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Varios",5-America TV HD
-http://45.5.151.147:8000/play/a00c/index.m3u8
+VARIOS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA VIP",ARG: EL TRECE (CANAL 13)
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4729
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" group-title="Varios",7-Canal 13 HD
 http://45.5.151.147:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",15-C5N HD
-http://45.5.151.147:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEFE
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4807
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA TV
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4723
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Varios",5-America TV HD
+http://45.5.151.147:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE: AMERICA" tvg-logo="https://docdog.top/logo/countries/peru/america.png" group-title="Varios", AMÉRICA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4925
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CRONICA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4746
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TN
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4812
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",17-TN HD
 http://45.5.151.147:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
@@ -16,6 +28,14 @@ http://45.5.151.147:8000/play/a00b/index.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="Varios",20-LN+ HD
 http://45.5.151.147:8000/play/a00a/index.m3u8
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",15-C5N HD
+http://45.5.151.147:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TELEVISION PUBLICA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4811
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TV PUBLICA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4818
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA 24
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4722
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News" user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Varios",32-Bravo TV
@@ -30,6 +50,144 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:0 tvg-logo="https://relacionesdeltrabajo.sociales.uba.ar/wp-content/uploads/sites/21/2019/06/logo-canal22.gif" group-title="Varios",37-Canal 22
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMUNDO
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4809
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TVE" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="LAME | ARGENTINA VIP",ARG: TVE
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4820
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 21" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 21
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4730
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 26
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4731
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="LAME | ARGENTINA VIP",ARG: EL NUEVE (CANAL 9)
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4734
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 SALTA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="LAME | ARGENTINA VIP",ARG: CANAL 9 SALTA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4735
+
+
+
+
+
+
+PELÍCULAS
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA VIP",ARG: CINECANAL
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4740
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="LAME | ARGENTINA VIP",ARG: CINEMAX
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4741
+#EXTINF:-1 tvg-id="" tvg-name="ARG: COMEDY" tvg-logo="https://docdog.top/logo/countries/argentina/KSCOMEDY.jpg" group-title="LAME | ARGENTINA VIP",ARG: COMEDY
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4745
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="LAME | ARGENTINA VIP",ARG: AXN
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4725
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS VERY FUNNY" tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT NOVELAS
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4805
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SERIES
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4814
+#EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: WARNER
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4826
+#EXTINF:-1 tvg-id="" tvg-name="ARG: STAR CHANNEL" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: STAR CHANNEL
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4827
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: SONY
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4801
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="LAME | ARGENTINA VIP",ARG: SPACE
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4802
+#EXTINF:-1 tvg-id="" tvg-name="ARG: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA VIP",ARG: STUDIO UNIVERSAL
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4803
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="LAME | ARGENTINA VIP",ARG: A&E
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4720
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA VIP",ARG: AMC
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4721
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAS CHIC" tvg-logo="https://docdog.top/logo/countries//argentina/mas-chic-ar.png" group-title="LAME | ARGENTINA VIP",ARG: MAS CHIC
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4782
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA VIP",ARG: EUROPA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4761
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM &AMP; ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FILM &AMP; ARTS
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4762
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FX
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4768
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: HBO Mundi
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4783
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAX UP" tvg-logo="https://docdog.top/logo/countries/argentina/maxup.png" group-title="LAME | ARGENTINA VIP",ARG: MAX UP
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4785
+
+NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN" tvg-logo="https://docdog.top/logo/countries/argentina/cnnespanol.png" group-title="LAME | ARGENTINA VIP",ARG: CNN
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4743
+
+
+DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SPORTS
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4813
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SPORTS
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4815
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: ESPN PREMIUM
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4828
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TYC SPORTS
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4822
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4748
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4757
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4758
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN+
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4760
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 1
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4764
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4765
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS PREMIUM
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4767
+
+
+
+
+
+
+
+CULTURA Y DOCUMENTALES
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HISTORY" tvg-logo="https://docdog.top/logo/countries//argentina/history-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HISTORY
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4778
+#EXTINF:-1 tvg-id="" tvg-name="ARG: H2" tvg-logo="https://docdog.top/logo/countries/argentina/H2.jpg" group-title="LAME | ARGENTINA VIP",ARG: H2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4773
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HTV" tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HTV
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4779
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LIFETIME" tvg-logo="https://docdog.top/logo/countries//argentina/lifetime-ar.png" group-title="LAME | ARGENTINA VIP",ARG: LIFETIME
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4780
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO" tvg-logo="https://docdog.top/logo/countries//argentina/nat-geo-kids-ar.png" group-title="LAME | ARGENTINA VIP",ARG: NAT GEO
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4791
+
+NIÑOS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA VIP",ARG: NICKELODEON
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4792
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/argentina/cartoonnetworkwest.png" group-title="LAME | ARGENTINA VIP",ARG: CARTOON NETWORK
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4738
+#EXTINF:-1 tvg-id="" tvg-name="ARG: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/argentina/boomeranglow.png" group-title="LAME | ARGENTINA VIP",ARG: BOOMERANG
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4727
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TOONCAST" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TOONCAST
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4816
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FALTA ORDENAR
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="Varios",38-ESPN Premium
 http://45.5.151.147:8000/play/a00m/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="Varios",42-TNT Sports
@@ -96,6 +254,33 @@ http://45.5.118.152:8000/play/a08f/index.m3u8
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/244
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/FYjlInYXEAIfUAT.jpg" group-title="Varios",116-Sky Sports Bundesliga
 http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/243
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) DAZN LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/244
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO2) DAZN LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/147167
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD) DAZN LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/97138
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD) M+ LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/252
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) M+ LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/253
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/254
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) M+ LALIGA
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/97192
+
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN F1
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/56469
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (HD REPUESTO) DAZN F1
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/97147
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN F1
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/251
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD REPUESTO) DAZN F1
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/97194
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV BAR
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/283
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/264
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
@@ -116,6 +301,82 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/129636
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/267
 #EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/268
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MOTOGP FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png" group-title="ES | DEPORTES VIP",ES: DAZN MOTOGP FHD
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/154467
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN 1
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/247
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN 1
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/128935
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES VIP",ES: DAZN 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/248
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES VIP",ES: DAZN 3
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/249
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES VIP",ES: DAZN 4
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/250
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/246
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/634
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION 3
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/635
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA VIP",ES: DAZN LALIGA 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/128942
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/255
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV 3
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/256
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA VIP",ES: M+ LALIGA TV 4
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/56470
+#EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/269
+#EXTINF:-1 tvg-id="es.Multifútbol 6" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/270
+#EXTINF:-1 tvg-id="es.Multifútbol 7" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/271
+#EXTINF:-1 tvg-id="es.Multifútbol 8" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/272
+#EXTINF:-1 tvg-id="LigaCampe9" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/273
+#EXTINF:-1 tvg-id="LigaCampe10" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/274
+#EXTINF:-1 tvg-id="LigaCampe11" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/275
+#EXTINF:-1 tvg-id="LigaCampe12" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/276
+#EXTINF:-1 tvg-id="LigaCampe13" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/277
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ DEPORTES
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/286
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/288
+#EXTINF:-1 tvg-id="M.Deportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 3
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/289
+#EXTINF:-1 tvg-id="M.Deportes4.es" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 4
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/290
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 5
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/291
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 6
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/292
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 7
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/293
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 1
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/281
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/282
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/632
+#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) M+ VAMOS 2" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/156835
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES VIP",ES: ESPN DEPORTES
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/280
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES VIP",ES: TELEDEPORTE
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/726
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES VIP",ES: GOL PLAY
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/633
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR PLUS TV" tvg-logo="https://docdog.top/logo/countries/peru/MOVISTARPLUSTV.png" group-title="LAME | PERU VIP",PE: MOVISTAR PLUS TV
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4935
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",131-Cinemax
 http://190.151.80.244:9990/play/a0li/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",132-Cinemax Sur
@@ -172,139 +433,11 @@ http://45.5.119.43:4000/play/a0i2/index.m3u8
 http://45.167.1.139:8000/play/a065
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s" group-title="Varios",182-Universal Crime HD
 http://45.167.1.139:8000/play/a066
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtJFXNYP/simpsons-1.jpg" group-title="General",LOS SIMPSON OP1
+https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y2sCqVP/simpsons-4.jpg" group-title="General",LOS SIPMSON OPC2
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - 4K (e)(4K)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - 4K (e)(4K)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164942
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 1 (e)(1080)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 1 (e)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164581
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 10 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164788
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 2 (e)(1080)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 2 (e)(1080)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164582
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 3 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164583
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 4 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164584
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 5 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164586
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 6 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164781
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 7 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164782
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 8 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164783
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Accion 9 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164787
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 1 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164869
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 10 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164940
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 2 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164870
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 3 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164871
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 4 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164934
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 5 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164935
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 6 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164936
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 7 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164937
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 8 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164938
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Amazon Prime 9 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164939
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Animacion 1 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164949
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Animacion 2 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164950
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - APPLE TV (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164956
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Aventura (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Aventura (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164957
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 1 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/6QH8pPBG/Cine-Comedia-Proyecto-x.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 1 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164959
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 2 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/66ZCM99D/CINE-COMEDIA-2.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 2 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164960
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 3 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/5NHT7QXP/Comedia-3-Proyecto-X.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 3 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164961
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 4 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/qMkXqPTZ/Comedia-4-proyectox.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 4 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164962
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 5 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/bNt8GB91/Comedia-5-proyecto-x.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 5 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164963
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 6 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/zB7F8Nfs/comedia-6.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 6 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164964
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 7 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/q7jGd0gk/Comedia-7.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 7 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164965
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Comedias 8 (e)(1080)(Dual Audio)" tvg-logo="https://i.postimg.cc/yYsXWkRp/247-Cinema-Comedias-8.png" group-title="24/7 CINEMA ",24/7 Cinema - Comedias 8 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164966
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 1 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164953
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 2 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164954
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 3 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164955
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Cinema 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Cinema 1 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164951
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Cinema 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Disney Cinema 2 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164952
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Fantasia (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Fantasia (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164958
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164941
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164802
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164863
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164864
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164865
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164866
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164867
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164868
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Billy y Mandy (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/BIelSEykzWJrckKCkYIWYKvRFt.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Billy y Mandy (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169554
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Bob Esponja (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/aEfJnhglu5HXsF7suH6TCOTbwkF.jpg" group-title="24/7 INFANTIL",24/7 Infantil - Bob Esponja (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169536
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 1 al 9 (e)(720)(Trial Audio)" tvg-logo="https://image.tmdb.org/t/p/original/35AfqMTE4SfmwzsUe7yi5COtFPe.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson Temp. 1 al 9 (e)(720)(Trial Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178834
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 10 al 19 (e)(720)(Trial Audio)" tvg-logo="https://image.tmdb.org/t/p/original/wnRxhctl0aoomdDT882DljozGq6.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson Temp. 10 al 19 (e)(720)(Trial Audio)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178836
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 20 al 29 (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/pbbMIbYgUD64t22xLLSyOfp0Rxt.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson Temp. 20 al 29 (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178839
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson Temp. 30 al 37 (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/soMLjF2VQRl3XkZIB5OoXdOqeLd.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson Temp. 30 al 37 (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178841
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Los Tres Chiflados (e)(SD)" tvg-logo="https://i.postimg.cc/8zS1wdyr/247tres-chiflados-eclusivo-proyectox.png" group-title="24/7 RETRO",24/7 Retro - Los Tres Chiflados (e)(SD)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177132
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - MacGyver (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/smA3i4mG0ScrXQNYLajrGXAQXq5.jpg" group-title="24/7 RETRO",24/7 Retro - MacGyver (e)(SD)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177125
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Spiderman (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/4QNBIgt5fwgNCN3OSU6BTFv0NGR.jpg" group-title="24/7 RETRO INFANTIL",24/7 Retro - Spiderman (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/169575
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Walker Comisario de Texas (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/pyE8tPgqgQIZ62IDw1lisG60nSI.jpg" group-title="24/7 RETRO",24/7 Retro - Walker Comisario de Texas (e)(SD)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177134
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick y Morty (e)(720)" tvg-logo="https://image.tmdb.org/t/p/original/ieA8tZrVGXU0kHu1Qko7xQokXaD.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Rick y Morty (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/178792
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - American Dad (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/fWZ1EkDxqE0ArmG2nEfHuVYBh9D.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - American Dad (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177730
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Padre de Familia Tem. 1 al 5 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/hwBwh07cylRzjjwtqIEbxZnYPZd.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Padre de Familia Tem. 1 al 5 (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177735
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Padre de Familia Tem. 12 al 18 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/ptHSVdvL9D7PdnsawocVo8EKhfV.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Padre de Familia Tem. 12 al 18 (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177737
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Padre de Familia Tem. 19 al 24 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/xrfziQ6BTzrLiMIHGyyRFlj36Jo.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Padre de Familia Tem. 19 al 24 (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177738
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series - Padre de Familia Tem. 6 al 11 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/zZnHd5rT0DN3GyCSiseMKSNxViO.jpg" group-title="24/7 COMEDIA ANIMADA",24/7 Series - Padre de Familia Tem. 6 al 11 (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177736
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Como Conoci a tu Madre (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/xVO1aKyVQYbjAiV9nIqi0W3sm3E.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Como Conoci a tu Madre (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166092
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Friends: Parte 1 (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/vQJ1sJPImYXAGosHJ1pnrQnUjWN.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Friends: Parte 1 (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166086
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Malcolm (e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/qxEwQj3zjwHD0V2Hv8NKdOWBdC4.jpg" group-title="24/7 SERIES COMEDIAS",24/7 Series Comedias - Malcolm (e)(720)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/166096
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemundo_Internacional_Logo_%282013-2018%29.png/revision/latest?cb=20220222215130&path-prefix=es" group-title="Varios",188-Telemundo Internacional
 http://201.216.147.90:8729/play/a0c7
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="Varios",190-Univision
