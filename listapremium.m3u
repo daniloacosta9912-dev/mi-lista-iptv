@@ -44,7 +44,7 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4722
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="VARIOS",BRAVO TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest/scale-to-width-down/1200?cb=20210315130131&path-prefix=es" group-title="Varios",NET TV
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest/scale-to-width-down/1200?cb=20210315130131&path-prefix=es" group-title="VARIOS",NET TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/ff4d9d408680e266c5a2fc72124e83107f5fc4b0cf31bd37fd81d224606661fe.png" group-title="VARIOS",ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
@@ -70,21 +70,51 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4815
 http://45.5.151.147:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  ESPN PREMIUM" tvg-logo="" group-title="PACK FÚTBOL",ESPN PREMIUM
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4828
-
+#EXTINF:-1 tvg-id="" tvg-name="AR | Ę$PN ₱REMlUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="PACK FÚTBOL",AR | ESPN PREMIUM HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/81254.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR || E$PN PR€MIUM FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="PACK FÚTBOL",AR | ESPN PREMIUM FHD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/149087.ts
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="PACK FÚTBOL",ESPN Premium
 http://45.5.151.147:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="PACK FÚTBOL",FOX SPORTS PREMIUM (ESPN)
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4767
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | T*Y*C SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="DEPORTES",AR |TYC SPORTS HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/81252.ts
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/blqLvy2eit2v5q0V7fksc0u6M4XUIkGcB_ML8Lc6kFvTnP_Qbg7JypFNKvT_itcFNGks6yO3Tw0=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",TyC SPORTS INTERNACIONAL
 http://201.230.137.204:8000/play/a0ej/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="  TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="DEPORTES",TYC SPORTS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4822
+#EXTINF:-1 tvg-id="" tvg-name="AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L" tvg-logo="http://mundo2.pro:80/images/7c0c70ecc79f67e97c90e97babe4de5a.png" group-title="DEPORTES",AR | TYC SPORTS lNTERNACIONAL
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/81538.ts
 #EXTINF:-1 tvg-id="" tvg-name="  DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="DEPORTES",DIRECTV SPORTS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4748
 #EXTINF:-1 tvg-id="" tvg-name=" DIRECT SPORTS+" tvg-logo="https://docdog.top/logo/countries/latino/DIRECTSPORTS+.png" group-title="DEPORTES",DIRECT SPORTS+
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4949
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFnxrao7Ke7ojaHdJFcKiENWrW4rWCDPt8A&s" group-title="DEPORTES",DSports
 http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS 1 HD" tvg-logo="http://mundo2.pro:80/images/8c183fa68939e46c721bdb10ba6acfdb.jpg" group-title="DEPORTES",DSPORTS 1 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306883.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS 1 SD" tvg-logo="https://i.ibb.co/5g7cFmN0/dsports.jpg" group-title="DEPORTES",DSPORTS 1 SD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306884.ts
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS + HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="DEPORTES",DSPORTS + HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/54471.ts
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$PORTS + OP 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="DEPORTES",DSPORTS + OP 2
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/54472.ts
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="DEPORTES",DSPORTS 2 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/50725.ts
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$PORTS 2 OP 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="DEPORTES",DSPORTS 2 OP 2
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/50726.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS 2 HD" tvg-logo="https://i.ibb.co/VW5NRrkH/dsports-2.jpg" group-title="DEPORTES",DSPORTS 2 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306885.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS 2 SD" tvg-logo="https://i.ibb.co/VW5NRrkH/dsports-2.jpg" group-title="DEPORTES",DSPORTS 2 SD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS + HD" tvg-logo="http://mundo2.pro:80/images/8cdda61a1c5c7c079d54ec85750bcbcd.jpg" group-title="DEPORTES",DSPORTS+ HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS + SD" tvg-logo="http://mundo2.pro:80/images/8cdda61a1c5c7c079d54ec85750bcbcd.jpg" group-title="DEPORTES",DSPORTS+ SD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306888.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="  ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ESPN
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4757
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="DEPORTES",ESPN LAT
@@ -111,12 +141,18 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4758
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5059
 #EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 2" tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png" group-title="DEPORTES",ESPN 2 MX
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5153
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="DEPORTES",ESPN 3 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306388.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="DEPORTES",ESPN 3 SD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306389.ts
 #EXTINF:-1 tvg-id="" tvg-name=" ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="DEPORTES",ESPN 3
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5058
 #EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 3" tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png" group-title="DEPORTES",ESPN 3 MX
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5154
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoLn81edf0H0Qc2kT6VUieZ2ueRBQN0xkYg&s" group-title="DEPORTES",ESPN 3 Sur
 http://181.224.200.5:2277/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiDMv34gDqsacHep4rKwsAhYwi9l5fCW4ETfkRRPI-fDgY1Pjeggqfxk&s=10" group-title="DEPORTES",E$PN 4 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306390.ts
 #EXTINF:-1 tvg-id="" tvg-name=" STAR SPORTS 3" tvg-logo="https://docdog.top/logo/countries/latino/starsports3.png" group-title="DEPORTES", ESPN 4 USA
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4951
 #EXTINF:-1 tvg-id="" tvg-name="  ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ESPN 4 SUR
@@ -127,20 +163,40 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5156
 http://181.224.200.5:2277/play/a02o/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="DEPORTES",ESPN 5
 http://181.224.200.5:2277/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPⓝ 5 HD" tvg-logo="http://mundo2.pro:80/images/4d26ed5201c19cba093c70c98482645c.png" group-title="DEPORTES",ESPN 5 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306392.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 5 SD" tvg-logo="http://mundo2.pro:80/images/4d26ed5201c19cba093c70c98482645c.png" group-title="DEPORTES",ESPN 5 SD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306393.ts
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="DEPORTES",ESPN 6
 http://181.224.200.5:2277/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 6 HD" tvg-logo="http://mundo2.pro:80/images/c8fca111cbfec65dd8a2b89ebb7201d6.png" group-title="DEPORTES",ESPN 6 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306394.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 6 SD" tvg-logo="http://mundo2.pro:80/images/c8fca111cbfec65dd8a2b89ebb7201d6.png" group-title="DEPORTES",ESPN 6 SD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306395.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="DEPORTES",ESPN 7 HD
 http://181.224.200.5:2277/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="DEPORTES", ESPN DEPORTES MX
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/280
 #EXTINF:-1 tvg-id="" tvg-name="  FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="DEPORTES",FOX SPORTS 1
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4764
+#EXTINF:-1 tvg-id="605" tvg-name="AR | F⚽X SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 1 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/99836.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X SPORTS 1 SD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 1 SD.
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/99837.ts
 #EXTINF:-1 tvg-id="" tvg-name="  FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="DEPORTES",FOX SPORTS 2
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4765
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/250px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 2 HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/100116.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/250px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 2 SD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/144412.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="DEPORTES",FOX SPORTS MX
 http://200.115.96.66:4000/play/a0jx/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="DEPORTES",FOX SPORTS 2 MX
 http://200.115.96.66:4000/play/a0h1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTES",AR | FOX SPORTS 3 SD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306176.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="DEPORTES",MX | FOX SPORTS PREMIUM HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306663.ts
 
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name=" (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN",(FHD) DAZN 1
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/247
@@ -304,6 +360,13 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4740
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5073
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PELÍCULAS",Cinecanal LAT
 http://181.119.111.25:4000/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="PELÍCULAS",TNT 4K
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/400177.ts
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TⓝT  FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="PELÍCULAS",TNT FHD 
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/1244.ts
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TÑT  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="PELÍCULAS",TNT HD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/1245.ts
+
 #EXTINF:-1 tvg-id="" tvg-name=" TNT SERIES" tvg-logo="https://docdog.top/logo/countries/latino/tntseries.png" group-title="PELÍCULAS",TNT SERIES HD
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5040
 #EXTINF:-1 tvg-id="" tvg-name="  TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="PELÍCULAS",TNT SERIES
@@ -391,6 +454,171 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4964
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y2sCqVP/simpsons-4.jpg" group-title="CINE 24/7",LOS SIPMSON OPC2
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ll EL CHAVO DEL OCHO" tvg-logo="https://www.clipartmax.com/png/middle/423-4239319_el-chavo-el-chavo.png" group-title="CINE 24/7",24/7 EL CHAVO DEL OCHO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316936.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chapulín Colorado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chapulin_Colorado_Animado_Logo.png" group-title="CINE 24/7",24/7 | EL CHAPULÍN COLORADO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316967.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fear Factor " tvg-logo="http://myplay.hopto.org:80/images/8023e90fd019b9221f84c2bd164a670e.jpg" group-title="CINE 24/7",24/7 FEAR FACTOR 
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/443051.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Solteros sin compromiso" tvg-logo="http://myplay.hopto.org:80/images/b23de9674f37ada95a5c70f86538d434.jpeg" group-title="CINE 24/7",24/7 SOLTEROS SIN COMPROMISO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/443072.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Puro teatro" tvg-logo="http://myplay.hopto.org:80/images/6fb119bbf4d28a5cce7eb93c179c16f1.jpeg" group-title="CINE 24/7",24/7 PURO TEATRO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/443069.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Tres Chiflados" tvg-logo="http://flx.lat:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="CINE 24/7",24/7  LOS TRES CHIFLADOS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/403686.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Magníficos" tvg-logo="http://mundo2.pro:80/images/0775191dc39aebdf2487b7adf0bba3b5.jpg" group-title="CINE 24/7",24/7 | LOS MAGNÍFICOS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316962.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL AUTO FANTÁSTICO" tvg-logo="https://img.repelis.id/cover/el-auto-fantastico.jpg" group-title="CINE 24/7",24/7 | EL AUTO FANTÁSTICO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316974.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Príncipe del Rap" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/c8/Freshprincelogo.jpg/revision/latest/top-crop/width/360/height/450?cb=20180204185955&path-prefix=es" group-title="CINE 24/7",24/7 | EL PRÍNCIPE DEL RAP
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316963.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0_okXdzerFdXciVNkyW9gh_6KrUekcVAvw&s.png" group-title="CINE 24/7",24/7 ALERTA AEROPUERTO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316938.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Full House" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/Full-House-Logo-1987.png" group-title="CINE 24/7",24/7 | FULL HOUSE
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316961.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CSI LAS VEGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="CINE 24/7",24/7 | CSI LAS VEGAS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316970.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/The_Big_Bang_Theory_logo.png" group-title="CINE 24/7",24/7 | THE BIG BANG THEORY
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316947.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Gorda Bella" tvg-logo="http://mundo2.pro:80/images/13843f1196eaff7ff70bff658dc6eaf6.jpg" group-title="CINE 24/7",24/7 | MI GORDA BELLA
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/403685.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL JUEGO DEL CALAMAR" tvg-logo="http://svtv.xyz/nologo.png" group-title="CINE 24/7",24/7 | EL JUEGO DEL CALAMAR
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316968.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7   Batman " tvg-logo="https://musicart.xboxlive.com/7/663c1200-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="CINE 24/7",24/7 | Batman 
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316940.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7* TlM0N & PUMB∆*" tvg-logo="" group-title="CINE 24/7",24/7 | TlMÓN & PUMBA
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/456263.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS" tvg-logo="http://127.0.0.1/" group-title="CINE 24/7",24/7 | LOS SIMPSON
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316941.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Don gato y su Pandilla " tvg-logo="" group-title="CINE 24/7",24/7 | DON GATO Y SU PANDILLA
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/362429.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA" tvg-logo="http://flx.lat:8080/images/daea1a007ed18a34901f1ea896238fc3.png" group-title="CINE 24/7",24/7 | FUTURAMA
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316942.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z" tvg-logo="http://mundo2.pro:80/images/66f2e8ab629eab6cc052e831beaa21a5.png" group-title="CINE 24/7",24/7 | DRAGON BALL Z
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/316973.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Casa de Mickey mouse " tvg-logo="" group-title="CINE 24/7",24/7 | CASA DE MICKEY MOUSE
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/362461.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Pingüinos Madagascar " tvg-logo="" group-title="CINE 24/7",24/7 | LOS PINGÜINOS DE MADAGASCAR
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/366250.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Miracolous" tvg-logo="" group-title="CINE 24/7",24/7 | MIRACOLOUS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/366253.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ganes o Pierdas " tvg-logo="" group-title="CINE 24/7",24/7 | GANES O PIERDAS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/366259.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Picapiedras" tvg-logo="" group-title="CINE 24/7",24/7 | PICAPIEDRAS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/362435.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro " tvg-logo="" group-title="CINE 24/7",24/7 | PINKY Y CEREBRO 
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/362437.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pajaro Loco " tvg-logo="" group-title="CINE 24/7",24/7 | PÁJARO LOCO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/362438.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob esponja " tvg-logo="" group-title="CINE 24/7",24/7 | BOB ESPONJA
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/362432.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | L∆ SIRENIT∆ " tvg-logo="" group-title="CINE 24/7",24/7 | LA SIRENITA 
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/376352.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tom y Jerry " tvg-logo="" group-title="CINE 24/7",24/7 | TOM & JERRY
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/366256.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pato aventura " tvg-logo="" group-title="CINE 24/7",24/7 | PATOAVENTURAS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/366254.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA Pantera Rosa" tvg-logo="" group-title="CINE 24/7",24/7 | LA PANTERA ROSA
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/366251.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Accion" tvg-logo="http://mundo2.vip:8080/images/bfd3667cda89eb146170ffc51eb6021c.png" group-title="CINE 24/7",24/7 | ACCIÓN
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317104.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Adam Sandler" tvg-logo="http://mundo2.vip:8080/images/30b5e165c2cb5c2ff8ddf5a78107f9fb.png" group-title="CINE 24/7",24/7 | ADAM SANDLER
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317105.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animadas" tvg-logo="http://mundo2.vip:8080/images/8c0580dc511edb61890b7004d523e8e5.png" group-title="CINE 24/7",24/7 | ANIMACIÓN
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317106.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Artes Marciales" tvg-logo="http://mundo2.vip:8080/images/fa9c93cf0e562823a0453e08cc7b181a.png" group-title="CINE 24/7",24/7 | ARTES MARCIALES
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317107.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Aventura" tvg-logo="http://mundo2.vip:8080/images/2166506e3dbb85eab9a2977a12623fcc.png" group-title="CINE 24/7",24/7 | AVENTURAS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317108.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cinema Latino" tvg-logo="http://mundo2.vip:8080/images/7c9d91ecb61667b5897647c99979b54d.png" group-title="CINE 24/7",24/7 | CINEMA LATINO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317113.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cinema Latino 2" tvg-logo="http://mundo2.vip:8080/images/49a376276a2f8166bd616e2731549bc7.png" group-title="CINE 24/7",24/7 | CINEMA LATINO 2
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317114.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Clasicos de Disney" tvg-logo="http://mundo2.vip:8080/images/b1ce6a1fb68ff48cc951410b5b10106a.png" group-title="CINE 24/7",24/7 | CLÁSICOS DE DISNEY
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317115.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Crimen" tvg-logo="http://mundo2.vip:8080/images/3dba3aba74fa0292935dd657f7d80068.png" group-title="CINE 24/7",24/7 | CRIMEN
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317118.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Deportes" tvg-logo="http://mundo2.vip:8080/images/8e2454555ce7c41df9d7a501d3909583.png" group-title="CINE 24/7",24/7 | DEPORTES
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317119.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Destino Final" tvg-logo="http://mundo2.vip:8080/images/09a39b71c7aba23d764e3cd30038e309.png" group-title="CINE 24/7",24/7 | DESTINO FINAL
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317120.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Documental" tvg-logo="http://mundo2.vip:8080/images/1c3f2b9695627271cddcb1dd5fee08a5.png" group-title="CINE 24/7",24/7 | DOCUMENTAL
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317121.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Drama" tvg-logo="http://mundo2.vip:8080/images/c1b75758f0afe8a3aace13411dc89229.png" group-title="CINE 24/7",24/7 | DRAMA
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317122.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dreamworks" tvg-logo="http://mundo2.vip:8080/images/5993f9a70bb430a436bf2362610d6910.png" group-title="CINE 24/7",24/7 | DREAMWORKS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317123.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Estrenos" tvg-logo="http://mundo2.vip:8080/images/03e96fca6176a0a87bfea41ba1e5c767.png" group-title="CINE 24/7",24/7 | ESTRENOS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317127.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Fantasia" tvg-logo="http://mundo2.vip:8080/images/0781e4d5f818a46523aa589156fb2c07.png" group-title="CINE 24/7",24/7 | FANTASÍA
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317128.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Jim Carrey" tvg-logo="http://mundo2.vip:8080/images/3c90a1228345919bad6bda0cc13766b4.png" group-title="CINE 24/7",24/7 | JIM CARREY
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317131.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="http://mundo2.vip:8080/images/aa1f3ed99b5b46d0cded24f0cb235754.png" group-title="CINE 24/7",24/7 | MARVEL
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317137.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Navidad" tvg-logo="http://mundo2.vip:8080/images/12b995313f5b88341586f8f3c3054546.png" group-title="CINE 24/7",24/7 | Navidad
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317140.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas Subtituladas" tvg-logo="http://mundo2.vip:8080/images/4611f0f268b34ec2b767fd5844cf783f.png" group-title="CINE 24/7",24/7 | PELÍCULAS SUBTITULADAS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317142.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas Subtituladas ||" tvg-logo="http://mundo2.vip:8080/images/c2bdade64ebb4e5023d662829fbc7102.png" group-title="CINE 24/7",24/7 | PELÍCULAS SUBTITULADAS II
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317143.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pixar" tvg-logo="http://mundo2.vip:8080/images/4386e94f1e58a09c0b0eb4bce76aacf4.png" group-title="CINE 24/7",24/7 | PIXAR
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317145.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Rapido y furioso" tvg-logo="http://mundo2.vip:8080/images/6cf083864f433ac3e734060103fd69ab.png" group-title="CINE 24/7",24/7 | RÁPIDOS Y FURIOSOS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317146.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Rocky" tvg-logo="http://mundo2.vip:8080/images/a579b4ccfdbd90db56ddc433905ddf6e.png" group-title="CINE 24/7",24/7 | ROCKY
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317147.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Romance" tvg-logo="http://mundo2.vip:8080/images/cc49a7daed87db1934f451e981db8b99.png" group-title="CINE 24/7",24/7 | ROMANCE
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317148.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SAW" tvg-logo="http://mundo2.vip:8080/images/71ca1c1872bc1f13eb4e53acf59ae22f.png" group-title="CINE 24/7",24/7 | SAW
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317149.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Spiderman" tvg-logo="http://mundo2.vip:8080/images/7282678212cb484ac805708e3abb5230.png" group-title="CINE 24/7",24/7 | UNIVERSO SPIDERMAN
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317151.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Star Wars" tvg-logo="http://mundo2.vip:8080/images/963d8cfbf60ec1691e60f8e0a184f494.png" group-title="CINE 24/7",24/7 | UNIVERSO STAR WARS
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317152.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Superheroes" tvg-logo="http://mundo2.vip:8080/images/e22d3bdaea5f50db418e7536845db218.png" group-title="CINE 24/7",24/7 | SUPERHÉROES
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317153.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Suspenso" tvg-logo="http://mundo2.vip:8080/images/487141148d55d9541a0a9d09bebf1eed.png" group-title="CINE 24/7",24/7 | SUSPENSO
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317154.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Terror" tvg-logo="http://mundo2.vip:8080/images/6df7e9403c937dc3195f01a1017d0bf6.png" group-title="CINE 24/7",24/7 | TERROR
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317155.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tim Burton" tvg-logo="http://mundo2.vip:8080/images/0efd92e2a10db5ef9c1a869ba10fad74.png" group-title="CINE 24/7",24/7 | TIM BURTON
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317156.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | X MEN" tvg-logo="http://mundo2.vip:8080/images/8ba43870fb4bf354f801330e6a2d0f9c.png" group-title="CINE 24/7",24/7 | X MEN
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317159.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine infantil" tvg-logo="http://mundo2.pro:80/images/8f0cbeb1c76d9357e9b4d95f813eae72.png" group-title="CINE 24/7",24/7 | CINE INFANTIL
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317112.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX FHD" tvg-logo="http://mundo2.vip:8080/images/3e55ed4c490f422dc63a7c1ef85f93c6.png" group-title="CINE 24/7",NETFLIX FHD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317032.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ FHD" tvg-logo="http://mundo2.vip:8080/images/29938cae6727790a47491882e556fce7.png" group-title="CINE 24/7",PARAMOUNT+ FHD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317033.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ FHD" tvg-logo="http://mundo2.vip:8080/images/29938cae6727790a47491882e556fce7.png" group-title="CINE 24/7",PARAMOUNT+ FHD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317042.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 01 FHD" tvg-logo="http://mundo2.vip:8080/images/9c8de2c54e2551f5573b163f410bb850.png" group-title="CINE 24/7",CINEMA VIP 01 FHD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317035.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 05 FHD" tvg-logo="http://mundo2.vip:8080/images/9c8de2c54e2551f5573b163f410bb850.png" group-title="CINE 24/7",CINEMA VIP 05 FHD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317039.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 09 FHD" tvg-logo="http://mundo2.vip:8080/images/9c8de2c54e2551f5573b163f410bb850.png" group-title="CINE 24/7",CINEMA VIP 09 FHD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317043.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 12 FHD" tvg-logo="http://mundo2.vip:8080/images/9c8de2c54e2551f5573b163f410bb850.png" group-title="CINE 24/7",CINEMA VIP 12 FHD
+http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317046.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="  HISTORY" tvg-logo="https://docdog.top/logo/countries//argentina/history-channel-ar.png" group-title="CULTURA Y DOCUMENTALES",HISTORY
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4778
