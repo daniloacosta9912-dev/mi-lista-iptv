@@ -8,6 +8,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4729
 #EXTINF:-1 tvg-id="0915" group-title="VARIOS" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" group-title="VARIOS",EL TRECE INTERNACIONAL
 http://190.60.40.165:1010/play/a0ka/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="  TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="VARIOS",TELEFE HD
 http://190.60.40.165:1010/play/a0o8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="VARIOS",TELEFE
@@ -38,9 +39,9 @@ https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 http://45.5.151.147:8000/play/a00a/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="VARIOS",C5N HD
 http://45.5.151.147:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="  TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="VARIOS",TELEVISION PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="  TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="VARIOS",TELEVISION PÚBLICA
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4811
-#EXTINF:-1 tvg-id="" tvg-name="  TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="VARIOS",TV PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="  TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="VARIOS",TV PÚBLICA
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4818
 #EXTINF:-1 tvg-id="" tvg-name="  AMERICA 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/A24_%282025%29.svg" group-title="VARIOS",A24
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4722
@@ -65,22 +66,22 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="VARIOS",  CANAL 26
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4731
 
-PACK FÚTBOL
-#EXTINF:-1 tvg-id="" tvg-name="  TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="PACK FÚTBOL",TNT SPORTS
+
+#EXTINF:-1 tvg-id="" tvg-name="  TNT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBoGNFQCe-r47PA653655oDuwtAyKw59NOm05Pd09CpG9XFWiHyJFWFZ6eT3w9vJCWn9WQbbksMr6UoJRPR7XkI3_yf1Ckk9uRBW8ncyWI3y6PYUCvvvvl-eWfIfKJ9WwbzECUxMFBDoFNAjlp0wxTjpcie5jx1yzxdkerYSvZXltT_TcRza1IzAMSlCY/s512/TNT_Sports-2024.png" group-title="PACK FÚTBOL",TNT SPORTS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4813
-#EXTINF:-1 tvg-id="" tvg-name="  TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="PACK FÚTBOL",TNT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="  TNT SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBoGNFQCe-r47PA653655oDuwtAyKw59NOm05Pd09CpG9XFWiHyJFWFZ6eT3w9vJCWn9WQbbksMr6UoJRPR7XkI3_yf1Ckk9uRBW8ncyWI3y6PYUCvvvvl-eWfIfKJ9WwbzECUxMFBDoFNAjlp0wxTjpcie5jx1yzxdkerYSvZXltT_TcRza1IzAMSlCY/s512/TNT_Sports-2024.png" group-title="PACK FÚTBOL",TNT SPORTS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4815
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="PACK FÚTBOL",TNT Sports
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBoGNFQCe-r47PA653655oDuwtAyKw59NOm05Pd09CpG9XFWiHyJFWFZ6eT3w9vJCWn9WQbbksMr6UoJRPR7XkI3_yf1Ckk9uRBW8ncyWI3y6PYUCvvvvl-eWfIfKJ9WwbzECUxMFBDoFNAjlp0wxTjpcie5jx1yzxdkerYSvZXltT_TcRza1IzAMSlCY/s512/TNT_Sports-2024.png" group-title="PACK FÚTBOL",TNT Sports
 http://45.5.151.147:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="  ESPN PREMIUM" tvg-logo="" group-title="PACK FÚTBOL",ESPN PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="  ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="PACK FÚTBOL",ESPN PREMIUM
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4828
-#EXTINF:-1 tvg-id="" tvg-name="AR | Ę$PN ₱REMlUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="PACK FÚTBOL",AR | ESPN PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="AR | Ę$PN ₱REMlUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="PACK FÚTBOL",AR | ESPN PREMIUM HD
 http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/81254.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR || E$PN PR€MIUM FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="PACK FÚTBOL",AR | ESPN PREMIUM FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR || E$PN PR€MIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="PACK FÚTBOL",AR | ESPN PREMIUM FHD
 http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/149087.ts
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="PACK FÚTBOL",ESPN Premium
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="PACK FÚTBOL",ESPN Premium
 http://45.5.151.147:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="  ESPN PREMIUM" tvg-logo="" group-title="PACK FÚTBOL",ESPN PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="  ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="PACK FÚTBOL",ESPN PREMIUM HD
 http://190.60.40.165:1010/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="PACK FÚTBOL",FOX SPORTS PREMIUM (ESPN)
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4767
