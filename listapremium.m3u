@@ -281,13 +281,11 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4740
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5073
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="PELÍCULAS",Cinecanal LAT
 http://181.119.111.25:4000/play/a0gb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="PELÍCULAS",TNT 4K
-http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/400177.ts
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TⓝT  FHD " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbLOpQ1CXF8d0qhJO2RP5AIG-2YFT1QRedOZmq-zxEN0onPX9hszryTFtUWL4Bso4R5mz-PSE0vg3UyyEIyVHZVjh_kLFzJ426AK0IE8C22LWUwggGKl7E0qrdYIdrGuFeHyhHxXNruWw/s1600/tnt.png" group-title="PELÍCULAS",TNT FHD 
-http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/1244.ts
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TÑT  HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbLOpQ1CXF8d0qhJO2RP5AIG-2YFT1QRedOZmq-zxEN0onPX9hszryTFtUWL4Bso4R5mz-PSE0vg3UyyEIyVHZVjh_kLFzJ426AK0IE8C22LWUwggGKl7E0qrdYIdrGuFeHyhHxXNruWw/s1600/tnt.png" group-title="PELÍCULAS",TNT HD
-http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/1245.ts
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbLOpQ1CXF8d0qhJO2RP5AIG-2YFT1QRedOZmq-zxEN0onPX9hszryTFtUWL4Bso4R5mz-PSE0vg3UyyEIyVHZVjh_kLFzJ426AK0IE8C22LWUwggGKl7E0qrdYIdrGuFeHyhHxXNruWw/s1600/tnt.png" group-title="PELÍCULAS",TNT
+http://170.247.204.9:8000/play/a01r/index.m3u8?hls
 
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="https://docdog.top/logo/countries/latino/tntseries.png" group-title="PELÍCULAS",TNT SERIES
+http://170.247.204.9:8000/play/a0cf/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name=" TNT SERIES" tvg-logo="https://docdog.top/logo/countries/latino/tntseries.png" group-title="PELÍCULAS",TNT SERIES HD
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5040
 #EXTINF:-1 tvg-id="" tvg-name="  TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="PELÍCULAS",TNT SERIES
@@ -314,6 +312,9 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5045
 http://190.60.40.165:1010/play/a0oc/index.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhfyvgQh5qF572H6XpuPJ4iQ5QvJry5eAh9x2G3elkV-W4cvBmb3KTZo1j5AyPxhoRly4Td6lQ4Z6IJATZV7slmluCsNNAr3hMAhAVSrkqTaLAZui-T5bJep0upH5HsDBfH2uo5HfGuJnNO6mbp1if3JBiwyuJvY8STwUp9cF32MfODGVKzApKXrh-G=s225" group-title="PELÍCULAS",SONY MOVIES
 http://200.115.96.66:4000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-name="WARNER CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Warner_Bros._2015_Stacked_logo.svg/revision/latest?cb=20210417142823" group-title="PELÍCULAS",WARNER CHANNEL
+http://170.247.204.9:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="  WARNER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Warner_Bros._2015_Stacked_logo.svg/revision/latest?cb=20210417142823" group-title="PELÍCULAS",  WARNER
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4826
 #EXTINF:-1 tvg-id="" tvg-name=" UNIVERSAL CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfq_E8tWA6lV4_2ASNT2GDn5gqUO0T5UfHD9JEOMfkvtOCq6z0PF85mtx40nYH7pahrknF-QtrSfiDGGzQnWQXnUGhiRn7CJa6DwBzr86C1il1p7fhvIN81ATcOloLUDtKOthRNLDm5EE/s1280/UNIVERSAL-TV-2018.png" group-title="PELÍCULAS",UNIVERSAL CHANNEL
@@ -324,6 +325,8 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4803
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5043
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="PELÍCULAS",STUDIO UNIV
 http://181.78.20.119:58002/play/a06k/index.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="PELÍCULAS",AXN
+http://170.247.204.9:8000/play/a01x/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="  AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="PELÍCULAS",AXN
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4725
 #EXTINF:-1 tvg-id="" tvg-name="  A&E" tvg-logo="https://download.logo.wine/logo/A%26E_(Australian_TV_channel)/A%26E_(Australian_TV_channel)-Logo.wine.png" group-title="PELÍCULAS",A&E
@@ -683,9 +686,9 @@ http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/317046.ts
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4792
 #EXTINF:-1 tvg-id="" tvg-name=" NICKELODEON" tvg-logo="https://docdog.top/logo/countries/latino/nickelodeon.png" group-title="NIÑOS", NICKELODEON
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5077
-#EXTINF:-1 tvg-id="" tvg-name=" NICK JR" tvg-logo="https://docdog.top/logo/countries/latino/nickjr.png" group-title="NIÑOS", NICK JR
+#EXTINF:-1 tvg-id="" tvg-name=" NICK JR" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="NIÑOS", NICKELODEON
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5078
-#EXTINF:-1 tvg-id="" tvg-name=" NICK 2" tvg-logo="https://docdog.top/logo/countries/latino/nick2.png" group-title="NIÑOS", NICK 2
+#EXTINF:-1 tvg-id="" tvg-name=" NICK 2" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="NIÑOS", NICKELODEON
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5025
 #EXTINF:-1 tvg-id="" tvg-name="  CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/argentina/cartoonnetworkwest.png" group-title="NIÑOS",  CARTOON NETWORK
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4738
@@ -702,10 +705,10 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5080
 #EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY KIDS" tvg-logo="https://docdog.top/logo/countries/latino/discoverykids.png" group-title="NIÑOS", DISCOVERY KIDS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5068
 
-#EXTINF:-1 tvg-id="" tvg-name="  HISTORY" tvg-logo="https://docdog.top/logo/countries//argentina/history-channel-ar.png" group-title="CULTURA Y DOCUMENTALES",HISTORY
-http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="CULTURA Y DOCUMENTALES",HISTORY CHANNEL
 http://201.230.137.204:8000/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="  HISTORY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtrYALwlwTSSSpiS7e1It6Dgcni34qShrRg&s" group-title="CULTURA Y DOCUMENTALES",HISTORY 2
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4778
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtrYALwlwTSSSpiS7e1It6Dgcni34qShrRg&s" group-title="CULTURA Y DOCUMENTALES",H2
 http://200.229.147.142:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  H2" tvg-logo="https://docdog.top/logo/countries/argentina/H2.jpg" group-title="CULTURA Y DOCUMENTALES",H2 HD
@@ -730,17 +733,17 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5065
 http://181.78.20.119:58002/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvgH2yKd9DZWQki7OsGADPNqnfJZuoJSLCA&s" group-title="CULTURA Y DOCUMENTALES",DISCOVERY CH
 http://45.186.254.75:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY HOME & HEALTH" tvg-logo="" group-title="CULTURA Y DOCUMENTALES",DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY HOME & HEALTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CULTURA Y DOCUMENTALES",DISCOVERY HOME & HEALTH
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5069
 #EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/latino/discoveryinvestigation.png" group-title="CULTURA Y DOCUMENTALES",DISCOVERY INVESTIGATION
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5070
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y DOCUMENTALES",DISCOVERY TURBO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/3840px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y DOCUMENTALES",DISCOVERY TURBO
 http://181.78.20.119:58002/play/a018/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="CULTURA Y DOCUMENTALES",SUN CHANNEL
 http://200.229.147.142:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  HTV" tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="CULTURA Y DOCUMENTALES",HTV
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4779
-#EXTINF:-1 tvg-id="" tvg-name=" HTV" tvg-logo="" group-title="CULTURA Y DOCUMENTALES",HTV
+#EXTINF:-1 tvg-id="" tvg-name=" HTV" tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="CULTURA Y DOCUMENTALES",HTV
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5029
 
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL 13 CHILE" tvg-logo="https://docdog.top/logo/countries/latino/CANALCHILE.png" group-title="INTERNACIONALES",CANAL 13 CHILE
@@ -749,15 +752,15 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4957
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4958
 #EXTINF:-1 tvg-id="" tvg-name=" MIAMI TV" tvg-logo="https://docdog.top/logo/countries/latino/miamitv.png" group-title="INTERNACIONALES",MIAMI TV
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4981
-#EXTINF:-1 tvg-id="" tvg-name=" SUR_PE_ANT TV" tvg-logo="https://docdog.top/logo/countries/latino/SUR_PE_ANTTV.jpg" group-title="INTERNACIONALES",SUR TV
+#EXTINF:-1 tvg-id="" tvg-name=" SUR_PE_ANT TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Logo_SurTV_Punta_Arenas_desde_2022.png/revision/latest?cb=20231124163057&path-prefix=es" group-title="INTERNACIONALES",SUR TV
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5004
-#EXTINF:-1 tvg-id="" tvg-name=" UNIVISION TELENOVELAS" tvg-logo="https://docdog.top/logo/countries/latino/univisiontelenovelas.png" group-title="INTERNACIONALES",UNIVISION TELENOVELAS
+#EXTINF:-1 tvg-id="" tvg-name=" UNIVISION TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="INTERNACIONALES",UNIVISION
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5013
-#EXTINF:-1 tvg-id="" tvg-name=" UR_VTV" tvg-logo="" group-title="INTERNACIONALES",VTV URUGUAY
+#EXTINF:-1 tvg-id="" tvg-name=" UR_VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="INTERNACIONALES",VTV URUGUAY
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5014
-#EXTINF:-1 tvg-id="" tvg-name=" TELEMUNDO LAMPA" tvg-logo="" group-title="INTERNACIONALES",TELEMUNDO LAMPA
+#EXTINF:-1 tvg-id="" tvg-name=" TELEMUNDO LAMPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="INTERNACIONALES",TELEMUNDO
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5015
-#EXTINF:-1 tvg-id="" tvg-name="  TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="INTERNACIONALES", TELEMUNDO
+#EXTINF:-1 tvg-id="" tvg-name="  TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="INTERNACIONALES",TELEMUNDO
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4809
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemundo_Internacional_Logo_%282013-2018%29.png/revision/latest?cb=20220222215130&path-prefix=es" group-title="INTERNACIONALES",TELEMUNDO INTERNACIONAL
 http://201.216.147.90:8729/play/a0c7
@@ -793,15 +796,15 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 http://181.78.8.199:8000/play/a0g7/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="INTERNACIONALES",KARAOKE STINGRAY
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="INTERNACIONALES",CNN ESP
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiZAW384B4AelKAB_G0uNsYAgRb5uBXRRh_Q&s" group-title="INTERNACIONALES",CNN ESP
 http://179.63.6.15:8002/play/a02q
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="INTERNACIONALES",TELESUR HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1920px-TeleSUR-Logo.svg.png" group-title="INTERNACIONALES",TELESUR HD
 http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="INTERNACIONALES",HISPAN TV
 https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL 21" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="INTERNACIONALES",CANAL 21
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4730
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONALES",RT HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="INTERNACIONALES",RT HD
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="INTERNACIONALES",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
