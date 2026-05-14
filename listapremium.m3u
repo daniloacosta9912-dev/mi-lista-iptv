@@ -86,15 +86,10 @@ http://190.60.40.165:1010/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="PACK FÚTBOL",FOX SPORTS PREMIUM (ESPN)
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4767
 
-#EXTINF:-1 tvg-id="" tvg-name="AR | T*Y*C SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/330px-TyC_Sports_logo.svg.png" group-title="DEPORTES",AR |TYC SPORTS HD
-http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/81252.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/330px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC SPORTS INTERNACIONAL
-http://201.230.137.204:8000/play/a0ej/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="  TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/330px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TYC SPORTS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4822
-#EXTINF:-1 tvg-id="" tvg-name="AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/330px-TyC_Sports_logo.svg.png" group-title="DEPORTES",AR | TYC SPORTS lNTERNACIONAL
-http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/81538.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="  DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="DEPORTES",DIRECTV SPORTS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4748
 #EXTINF:-1 tvg-id="" tvg-name=" DIRECT SPORTS+" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="DEPORTES",D SPORTS
