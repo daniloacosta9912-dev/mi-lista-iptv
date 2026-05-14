@@ -207,6 +207,17 @@ http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306176.ts
 http://cinemagold.club:80//live/Rercol8374763/63nennrnnrn3/306663.ts
 
 
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PACK HBO",HBO
+http://67.73.247.194:9050/play/a0cu/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="HBO POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PACK HBO",HBO POP
+http://67.73.247.194:9050/play/a0c0/index.m3u8?hls
+#EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="PACK HBO",HBO XTREME
+http://67.73.247.194:9050/play/a04f/index.m3u8?hls
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="PACK HBO",HBO FAMILY
+http://67.73.247.194:9050/play/a04e/index.m3u8?hls
+#EXTINF:-1 tvg-name="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="PACK HBO",HBO+
+http://67.73.247.194:9050/play/a0cv/index.m3u8?hls
 
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PELÍCULAS",HBO
 http://190.151.80.244:9990/play/a0lh/index.m3u8
@@ -302,6 +313,8 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5053
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4768
 #EXTINF:-1 tvg-id="" tvg-name="  STAR CHANNEL" tvg-logo="https://sire-assets-natgeo.fichub.com/assets/fox-star/images/StarChannel.svg?1777460928" group-title="PELÍCULAS",STAR CHANNEL
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4827
+#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://sire-assets-natgeo.fichub.com/assets/fox-star/images/StarChannel.svg?1777460928" group-title="PELÍCULAS",STAR CHANNEL
+http://67.73.247.194:9050/play/a0a6/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://sire-assets-natgeo.fichub.com/assets/fox-star/images/StarChannel.svg?1777460928" group-title="PELÍCULAS",STAR CH
 http://181.78.20.119:58002/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="PELÍCULAS",SONY CHANNEL
@@ -369,6 +382,10 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5035
 
 #EXTINF:-1 tvg-id="" tvg-name="  ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ESPN",ESPN HD
 http://190.60.40.165:1010/play/0kpe/index.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ESPN",ESPN COL
+http://67.73.247.194:9050/play/a0hi/index.m3u8?hls
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ESPN",ESPN CHILE
+http://67.73.247.194:9050/play/a0hh/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="  ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ESPN",ESPN
 http://190.60.40.165:1010/play/a0ng/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ESPN",ESPN HD
@@ -383,10 +400,16 @@ http://190.60.40.165:1010/play/db56/index.m3u8
 http://190.60.40.165:1010/play/a0m3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="ESPN",ESPN 2 HD
 http://190.60.40.165:1010/play/a0mo/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="ESPN",ESPN 2 hd
+http://67.73.247.194:9050/play/a046/index.m3u8?hls
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="ESPN",ESPN 3 hd
+http://67.73.247.194:9050/play/a03y/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name=" ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="ESPN",ESPN 3 HD
 http://190.60.40.165:1010/play/4gph/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="ESPN",ESPN 3 HD
 http://190.60.40.165:1010/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4
+http://67.73.247.194:9050/play/a05c/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="E$PN 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiDMv34gDqsacHep4rKwsAhYwi9l5fCW4ETfkRRPI-fDgY1Pjeggqfxk&s=10" group-title="ESPN",ESPN 4 HD
 http://190.60.40.165:1010/play/uemr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E$PN 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiDMv34gDqsacHep4rKwsAhYwi9l5fCW4ETfkRRPI-fDgY1Pjeggqfxk&s=10" group-title="ESPN",ESPN 4 HD
@@ -397,14 +420,20 @@ http://190.60.40.165:1010/play/a0ad/index.m3u8
 http://190.60.40.165:1010/play/ueu4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="ESPN",ESPN 5 HD
 http://190.60.40.165:1010/play/a0jg/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="http://mundo2.pro:80/images/4d26ed5201c19cba093c70c98482645c.png" group-title="ESPN",ESPN 5 hd
+http://67.73.247.194:9050/play/a0a8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="ESPN",ESPN 6 HD
 http://190.60.40.165:1010/play/a0ja/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="ESPN",ESPN 6
 http://190.60.40.165:1010/play/wzji/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="http://mundo2.pro:80/images/c8fca111cbfec65dd8a2b89ebb7201d6.png" group-title="ESPN",ESPN 6 hd
+http://67.73.247.194:9050/play/a03l/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="ESPN",ESPN 7 HD
 http://190.60.40.165:1010/play/569m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="ESPN",ESPN 7
 http://190.60.40.165:1010/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="ESPN",ESPN 7 hd
+http://67.73.247.194:9050/play/a055/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name=" (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN",(FHD) DAZN 1
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/247
