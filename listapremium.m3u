@@ -291,9 +291,9 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4827
 http://67.73.247.194:9050/play/a0a6/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR
 http://181.78.20.119:58002/play/a008/index.m3u8
-#EXTINF:-1 tvg-name="SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="PELÍCULAS",SONY
+#EXTINF:-1 tvg-id="Sony.ar" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="PELÍCULAS",SONY
 http://38.226.49.253:8000/play/a060/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="  SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="PELÍCULAS",SONY CHANNEL
+#EXTINF:-1 tvg-id="Sony.ar" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="PELÍCULAS",SONY CHANNEL
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4801
 #EXTINF:-1 tvg-id="" tvg-name=" SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="PELÍCULAS",SONY
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5045
@@ -302,21 +302,21 @@ http://190.60.40.165:1010/play/a0oc/index.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhfyvgQh5qF572H6XpuPJ4iQ5QvJry5eAh9x2G3elkV-W4cvBmb3KTZo1j5AyPxhoRly4Td6lQ4Z6IJATZV7slmluCsNNAr3hMAhAVSrkqTaLAZui-T5bJep0upH5HsDBfH2uo5HfGuJnNO6mbp1if3JBiwyuJvY8STwUp9cF32MfODGVKzApKXrh-G=s225" group-title="PELÍCULAS",SONY MOVIES
 http://200.115.96.66:4000/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-name="WARNER CHANNEL" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12f5712d-1535-4d60-a967-e7d5e3c1902f/dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmY1NzEyZC0xNTM1LTRkNjAtYTk2Ny1lN2Q1ZTNjMTkwMmYvZGhyYmpobi1lYjFiOGE2Zi04ODczLTRmZTAtYmRlZS1lYWRlMTIxOGE4NmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iswXcWSD3c_tODdOVs4e2eV0hAIgB-EQllC7W2bqDc0" group-title="PELÍCULAS",WARNER CHANNEL
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12f5712d-1535-4d60-a967-e7d5e3c1902f/dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmY1NzEyZC0xNTM1LTRkNjAtYTk2Ny1lN2Q1ZTNjMTkwMmYvZGhyYmpobi1lYjFiOGE2Zi04ODczLTRmZTAtYmRlZS1lYWRlMTIxOGE4NmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iswXcWSD3c_tODdOVs4e2eV0hAIgB-EQllC7W2bqDc0" group-title="PELÍCULAS",WARNER CHANNEL
 http://170.247.204.9:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="  WARNER" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12f5712d-1535-4d60-a967-e7d5e3c1902f/dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmY1NzEyZC0xNTM1LTRkNjAtYTk2Ny1lN2Q1ZTNjMTkwMmYvZGhyYmpobi1lYjFiOGE2Zi04ODczLTRmZTAtYmRlZS1lYWRlMTIxOGE4NmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iswXcWSD3c_tODdOVs4e2eV0hAIgB-EQllC7W2bqDc0" group-title="PELÍCULAS",WARNER
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4826
 #EXTINF:-1 tvg-name="UNIVERSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfq_E8tWA6lV4_2ASNT2GDn5gqUO0T5UfHD9JEOMfkvtOCq6z0PF85mtx40nYH7pahrknF-QtrSfiDGGzQnWQXnUGhiRn7CJa6DwBzr86C1il1p7fhvIN81ATcOloLUDtKOthRNLDm5EE/s1280/UNIVERSAL-TV-2018.png" group-title="PELÍCULAS",UNIVERSAL
 http://45.167.1.137:8000/play/a04j
-#EXTINF:-1 tvg-id="" tvg-name=" UNIVERSAL CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfq_E8tWA6lV4_2ASNT2GDn5gqUO0T5UfHD9JEOMfkvtOCq6z0PF85mtx40nYH7pahrknF-QtrSfiDGGzQnWQXnUGhiRn7CJa6DwBzr86C1il1p7fhvIN81ATcOloLUDtKOthRNLDm5EE/s1280/UNIVERSAL-TV-2018.png" group-title="PELÍCULAS",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfq_E8tWA6lV4_2ASNT2GDn5gqUO0T5UfHD9JEOMfkvtOCq6z0PF85mtx40nYH7pahrknF-QtrSfiDGGzQnWQXnUGhiRn7CJa6DwBzr86C1il1p7fhvIN81ATcOloLUDtKOthRNLDm5EE/s1280/UNIVERSAL-TV-2018.png" group-title="PELÍCULAS",UNIVERSAL CHANNEL
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5085
-#EXTINF:-1 tvg-id="" tvg-name="  STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="PELÍCULAS",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="PELÍCULAS",STUDIO UNIVERSAL
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4803
-#EXTINF:-1 tvg-id="" tvg-name=" STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries/latino/studiouniversal.png" group-title="PELÍCULAS",STUDIO UNIVERSAL CH
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="PELÍCULAS",STUDIO UNIVERSAL CH
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5043
-#EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="PELÍCULAS",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="PELÍCULAS",STUDIO UNIVERSAL
 http://181.78.20.119:58002/play/a06k/index.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="PELÍCULAS",AXN
+#EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="PELÍCULAS",AXN HD
 http://170.247.204.9:8000/play/a01x/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="  AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="PELÍCULAS",AXN
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4725
@@ -326,13 +326,13 @@ http://38.226.49.253:8000/play/a05u/index.m3u8?hls
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4720
 #EXTINF:-1 tvg-id="" tvg-name=" A&E" tvg-logo="https://download.logo.wine/logo/A%26E_(Australian_TV_channel)/A%26E_(Australian_TV_channel)-Logo.wine.png" group-title="PELÍCULAS",A&E
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5047
-#EXTINF:-1 tvg-id="" tvg-name="  EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="PELÍCULAS",EUROPA
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="PELÍCULAS",EUROPA
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4761
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" group-title="PELÍCULAS",TCM
+#EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" group-title="PELÍCULAS",TCM
 http://200.229.147.142:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="  AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4721
-#EXTINF:-1 tvg-name="AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC
 http://38.226.49.253:8000/play/a066/index.m3u8?hls
 #EXTINF:-1 tvg-name="AMC SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDR02bhnjx7hyphenhyphen9sy4ErJx8PUT-WM5hP9axbkLjVFrxyJ1Qz9qxG0cIzbcBWazT6CxgQSrvMRKAOiNvlCY7kSEeG_tTpGNaBHTkHTzv6CdkOYRkCKrSgx3ULAHwijhlnl9vDK3FBpG6wJsvucp0-tif9g7_bbDYu4XQW3MN-Sxtg68OD5u1pWZVzng4xxg/s159/amc-series.png" group-title="PELÍCULAS",AMC SERIES
 http://38.226.49.253:8000/play/a03y/index.m3u8?hls
@@ -340,11 +340,11 @@ http://38.226.49.253:8000/play/a03y/index.m3u8?hls
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4782
 #EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDR02bhnjx7hyphenhyphen9sy4ErJx8PUT-WM5hP9axbkLjVFrxyJ1Qz9qxG0cIzbcBWazT6CxgQSrvMRKAOiNvlCY7kSEeG_tTpGNaBHTkHTzv6CdkOYRkCKrSgx3ULAHwijhlnl9vDK3FBpG6wJsvucp0-tif9g7_bbDYu4XQW3MN-Sxtg68OD5u1pWZVzng4xxg/s159/amc-series.png" group-title="PELÍCULAS",AMC SERIES II
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5027
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv-E84zMk0j6yxDYntK5iFPvNzGElgBQvqCn9_ExZX5o__LvwHKjR2XCqgcWZeTZj38s15LyaHXN6Hq1PVFChqnQ0-mN8wI52AeqnbXahg1hwFotVkV9scjE5Xf03uZE4CTStJT3QGJCzm8OMem3QzvY_JEr6LdQWknl_aNkhtvlPCH62hQ6_6ey3_9W4/s1200/Comedy_Central_2018.png" group-title="PELÍCULAS",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv-E84zMk0j6yxDYntK5iFPvNzGElgBQvqCn9_ExZX5o__LvwHKjR2XCqgcWZeTZj38s15LyaHXN6Hq1PVFChqnQ0-mN8wI52AeqnbXahg1hwFotVkV9scjE5Xf03uZE4CTStJT3QGJCzm8OMem3QzvY_JEr6LdQWknl_aNkhtvlPCH62hQ6_6ey3_9W4/s1200/Comedy_Central_2018.png" group-title="PELÍCULAS",COMEDY CENTRAL
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4745
-#EXTINF:-1 tvg-id="" tvg-name=" COMEDY CENTRAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv-E84zMk0j6yxDYntK5iFPvNzGElgBQvqCn9_ExZX5o__LvwHKjR2XCqgcWZeTZj38s15LyaHXN6Hq1PVFChqnQ0-mN8wI52AeqnbXahg1hwFotVkV9scjE5Xf03uZE4CTStJT3QGJCzm8OMem3QzvY_JEr6LdQWknl_aNkhtvlPCH62hQ6_6ey3_9W4/s1200/Comedy_Central_2018.png" group-title="PELÍCULAS",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv-E84zMk0j6yxDYntK5iFPvNzGElgBQvqCn9_ExZX5o__LvwHKjR2XCqgcWZeTZj38s15LyaHXN6Hq1PVFChqnQ0-mN8wI52AeqnbXahg1hwFotVkV9scjE5Xf03uZE4CTStJT3QGJCzm8OMem3QzvY_JEr6LdQWknl_aNkhtvlPCH62hQ6_6ey3_9W4/s1200/Comedy_Central_2018.png" group-title="PELÍCULAS",COMEDY CENTRAL
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5076
-#EXTINF:-1 tvg-id="" tvg-name="  FILM &AMP; ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="PELÍCULAS",FILM & ARTS
+#EXTINF:-1 tvg-id="filmAndarts.ar" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="PELÍCULAS",FILM&ARTS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4762
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="PELÍCULAS",FILM & ARTs
 http://200.229.147.142:8000/play/a01w/index.m3u8
@@ -571,7 +571,7 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5080
 #EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY KIDS" tvg-logo="https://docdog.top/logo/countries/latino/discoverykids.png" group-title="NIÑOS", DISCOVERY KIDS
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5068
 
-#EXTINF:0 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.png" group-title="CULTURA Y DOCUMENTALES",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="History.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.png" group-title="CULTURA Y DOCUMENTALES",HISTORY CHANNEL
 http://201.230.137.204:8000/play/a0kf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  HISTORY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtrYALwlwTSSSpiS7e1It6Dgcni34qShrRg&s" group-title="CULTURA Y DOCUMENTALES",HISTORY 2
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4778
