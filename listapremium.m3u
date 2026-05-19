@@ -332,6 +332,8 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5047
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4761
 #EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" group-title="PELÍCULAS",TCM
 http://200.229.147.142:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC HD
+http://170.247.204.9:8000/play/a0a9/index.m3u8?hls
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4721
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC
