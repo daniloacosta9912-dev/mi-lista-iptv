@@ -115,6 +115,8 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5155
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5060
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ESPN 2 SUR
 http://181.205.130.194:4000/play/a07i
+#EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ESPN 2
+http://170.247.204.9:8000/play/a04g/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ESPN 2 MX
 http://177.10.184.193:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ESPN 2
@@ -206,12 +208,18 @@ http://181.205.130.194:4000/play/a0ff
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4785
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PELÍCULAS",HBO POP
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5026
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PELÍCULAS",HBO POP
+http://170.247.204.9:8000/play/a04h/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="PELÍCULAS",HBO XTREME
 http://45.5.116.228:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="PELÍCULAS",HBO XTREME HD
 http://45.186.254.75:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="PELÍCULAS",HBO XTREME
+http://170.247.204.9:8000/play/a04u/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="PACK HBO",HBO FAMILY
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4974
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="PACK HBO",HBO FAMILY
+http://170.247.204.9:8000/play/a04t/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbosignature.png" group-title="PELÍCULAS",HBO SIGNATURE
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4978
 
@@ -287,6 +295,8 @@ http://38.226.49.253:8000/play/a07c/index.m3u8?hls
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5053
 #EXTINF:-1 tvg-id="" tvg-name="  FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="PELÍCULAS",FX
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4768
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR CHANNEL
+http://170.247.204.9:8000/play/a023/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="  STAR CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR CHANNEL
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4827
 #EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR CHANNEL
