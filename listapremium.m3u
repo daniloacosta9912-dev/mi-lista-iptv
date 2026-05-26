@@ -71,8 +71,8 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ESPN LAT
 http://45.70.201.81:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ESPN
-http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5060
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ESPN CO
+http://177.74.205.189:8000/play/a01h/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="DEPORTES",ESPN MX
 http://201.216.147.90:8729/play/a0p0
 
@@ -81,36 +81,47 @@ http://201.216.147.90:8729/play/a0p0
 http://181.205.130.194:4000/play/a07i
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ESPN 2
 http://170.247.204.9:8000/play/a04g/index.m3u8?hls
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ESPN 2 CO
+http://177.74.205.189:8000/play/a01i/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="DEPORTES",ESPN 2 MX
 http://177.10.184.193:8000/play/a054/index.m3u8
 
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="DEPORTES",ESPN 3 Sur
 http://181.224.200.5:2277/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.cl" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.cl" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="DEPORTES",ESPN 3 CL
 http://170.247.204.9:8000/play/a0cl/index.m3u8?hls
+#EXTINF:-1 tvg-id="ESPN3.co" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="DEPORTES",ESPN 3 CO
+http://177.74.205.189:8000/play/a01j/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 HD
 http://181.224.200.5:2277/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 CL
 http://170.247.204.9:8000/play/a021/index.m3u8?hls
+#EXTINF:-1 tvg-id="ESPN4.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 CO
+http://177.74.205.189:8000/play/a01k/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 5.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="DEPORTES",ESPN 5 CL
 http://170.247.204.9:8000/play/a0a8/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="DEPORTES",ESPN 5
 http://181.224.200.5:2277/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="DEPORTES",ESPN 5
 http://187.102.211.240:9001/play/a05w/index.m3u8?hls
+#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="DEPORTES",ESPN 5 SUR
+http://177.74.205.189:8000/play/a00n/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 6.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="DEPORTES",ESPN 6 CL
 http://170.247.204.9:8000/play/a0a0/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="DEPORTES",ESPN 6
 http://181.224.200.5:2277/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="DEPORTES",ESPN 6
 http://187.102.211.240:9001/play/a01h/index.m3u8?hls
+#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="DEPORTES",ESPN 6 SUR
+http://177.74.205.189:8000/play/a00o/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 7.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="DEPORTES",ESPN 7 CL
 http://170.247.204.9:8000/play/a01u/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="DEPORTES",ESPN 7 HD
 http://181.224.200.5:2277/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="DEPORTES",ESPN 7
 http://187.102.211.240:9001/play/a013/index.m3u8?hls
-
+#EXTINF:-1 tvg-id="ESPN 7.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="DEPORTES",ESPN 7 SUR
+http://177.74.205.189:8000/play/a00q/index.m3u8?hls
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png/330px-Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES",FOX SPORTS MX
 http://200.115.96.66:4000/play/a0jx/index.m3u8
@@ -267,6 +278,8 @@ http://38.226.49.253:8000/play/a05u/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" group-title="PELÍCULAS",TCM
 http://200.229.147.142:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="TCM.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" group-title="PELÍCULAS",TCM CO
+http://177.74.205.189:8000/play/a01e/index.m3u8?hls
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC HD
 http://170.247.204.9:8000/play/a0a9/index.m3u8?hls
 #EXTINF:-1 tvg-id="AMC.cl" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC CL
@@ -449,6 +462,8 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4946
 http://181.119.111.25:4000/play/a0f1/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TV_Azteca_Deportes_2023_Official.svg/revision/latest/scale-to-width-down/250?cb=20230630151649" group-title="DEPORTES INTERNACIONAL",AZTECA DEPORTES
 http://201.216.147.90:8729/play/a01t
+#EXTINF:-1 tvg-id="AZTECA DEPORTES.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TV_Azteca_Deportes_2023_Official.svg/revision/latest/scale-to-width-down/250?cb=20230630151649" group-title="DEPORTES INTERNACIONAL",AZTECA DEPORTES
+http://177.74.205.189:8000/play/a00i/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name=" EC_GOLTV ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GolTV.svg/3840px-GolTV.svg.png" group-title="DEPORTES INTERNACIONAL",GOLTV ECUADOR
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4971
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name=" EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="DEPORTES INTERNACIONAL",EUROSPORT 1
@@ -553,6 +568,8 @@ http://45.167.1.137:8000/play/a06j
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4958
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://docdog.top/logo/countries/latino/caracol.png" group-title="INTERNACIONALES",CARACOL
 http://177.74.205.189:8000/play/a01y/index.m3u8?hls
+#EXTINF:-1 tvg-id="TVC.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest/scale-to-width-down/1200?cb=20230215230242&path-prefix=es" group-title="INTERNACIONALES",TVC
+http://187.102.211.240:9001/play/a00g/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name=" MIAMI TV" tvg-logo="https://docdog.top/logo/countries/latino/miamitv.png" group-title="INTERNACIONALES",MIAMI TV
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4981
 #EXTINF:-1 tvg-id="" tvg-name=" SUR_PE_ANT TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Logo_SurTV_Punta_Arenas_desde_2022.png/revision/latest?cb=20231124163057&path-prefix=es" group-title="INTERNACIONALES",SUR TV
@@ -573,10 +590,16 @@ http://201.216.147.90:8729/play/a0pa
 http://181.78.20.119:58002/play/a06i/index.m3u8
 #EXTINF:-1 tvg-name="A3S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="INTERNACIONALES",A3S
 http://187.102.211.240:9001/play/a02f/index.m3u8?hls
+#EXTINF:-1 tvg-id="Atreseries.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="INTERNACIONALES",A3S
+http://187.102.211.240:9001/play/a02f/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="INTERNACIONALES",STAR TVE
 http://45.186.254.75:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="America.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="INTERNACIONALES",AMÉRICA TV PE
+http://187.102.211.240:9001/play/a06s/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/TLC_UK_logo_%282026%29.svg/1280px-TLC_UK_logo_%282026%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INTERNACIONALES",TLC
 http://201.230.137.204:8000/play/a0gg/index.m3u8
+#EXTINF:-1 tvg-id="TLC.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/TLC_UK_logo_%282026%29.svg/1280px-TLC_UK_logo_%282026%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INTERNACIONALES",TLC
+http://177.74.205.189:8000/play/a00a/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="  TVE" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="INTERNACIONALES",TVE
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4820
 #EXTINF:-1 tvg-id="" tvg-name=" RD TELEMICRO" tvg-logo="https://docdog.top/logo/countries/latino/RDTELEMICRO.jpg" group-title="INTERNACIONALES",RD TELEMICRO
@@ -661,6 +684,8 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4949
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/134207
 #EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="https://docdog.top/logo/countries/mexico/espn.png" group-title="ARGENTINA",ESPN MX
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5155
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ARGENTINA",ESPN
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5060
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ARGENTINA",ESPN
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5060
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="ARGENTINA",ESPN 2
