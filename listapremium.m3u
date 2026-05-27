@@ -135,28 +135,24 @@ http://200.115.96.66:4000/play/a0h1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PACK HBO",HBO
+#EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PACK HBO",HBO AR
 http://67.73.247.194:9050/play/a0cu/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBO.pe" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PACK HBO",HBO PE
 http://187.102.211.240:9001/play/a01z/index.m3u8?hls
-#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="PACK HBO",HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="PACK HBO",HBO 2 MX
 http://45.167.1.137:8000/play/a00i
-#EXTINF:-1 #EXTINF:-1 tvg-id="HBOMundi.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFwW06hJWmRtoAPThSha_H5O-pqWQyZeOJd5qTTWBngloXimEqZPy4ze8zaUt1VAHHjrJkF003hHOw1g8UV_I8d-o-ZByuW5NIyz_8L9jfqk4WWSthingqiUQbw6EOnkFCpa5BAJyZlNo/s0/HBO-Mundi.png" group-title="PACK HBO",HBO MUNDI
-http://187.102.208.83:8000/play/a018/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="HBOMundi.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFwW06hJWmRtoAPThSha_H5O-pqWQyZeOJd5qTTWBngloXimEqZPy4ze8zaUt1VAHHjrJkF003hHOw1g8UV_I8d-o-ZByuW5NIyz_8L9jfqk4WWSthingqiUQbw6EOnkFCpa5BAJyZlNo/s0/HBO-Mundi.png" group-title="PACK HBO",HBO MUNDI CO
 http://187.102.211.240:9001/play/a04r/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PACK HBO",HBO POP
 http://67.73.247.194:9050/play/a0c0/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOPop.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PACK HBO",HBO POP
 http://187.102.211.240:9001/play/a028/index.m3u8?hls
-#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="PACK HBO",HBO XTREME
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="PACK HBO",HBO XTREME AR
 http://67.73.247.194:9050/play/a04f/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbosignature.png" group-title="PACK HBO",HBO SIGNATURE
-http://187.102.208.83:8000/play/a017/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbosignature.png" group-title="PACK HBO",HBO SIGNATURE AR
 http://187.102.211.240:9001/play/a04q/index.m3u8?hls
-#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="PACK HBO",HBO FAMILY
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="PACK HBO",HBO FAMILY AR
 http://67.73.247.194:9050/play/a04e/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="PACK HBO",HBO FAMILY MX
 http://45.167.1.137:8000/play/a00k
@@ -167,7 +163,7 @@ http://67.73.247.194:9050/play/a0cv/index.m3u8?hls
 http://190.151.80.244:9990/play/a0lh/index.m3u8
 #EXTINF:-1 tvg-id="HBO.cl" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PELÍCULAS",HBO CL
 http://170.247.204.9:8000/play/a04a/index.m3u8?hls
-#EXTINF:0 tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PELÍCULAS",HBO Oeste
+#EXTINF:0 tvg-id="HBOOeste.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PELÍCULAS",HBO Oeste
 http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PELÍCULAS",HBO MX
 http://45.5.118.152:8000/play/a0bm/index.m3u8
@@ -178,7 +174,7 @@ http://45.5.151.147:8000/play/a010/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="PELÍCULAS",HBO+
 http://45.5.116.228:8000/play/a0l4/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PELÍCULAS",HBO POP
+#EXTINF:-1 tvg-id="HBOPop.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PELÍCULAS",HBO POP
 http://181.205.130.194:4000/play/a0ff
 #EXTINF:-1 tvg-id="HBOPop.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PELÍCULAS",HBO POP CL
 http://170.247.204.9:8000/play/a04h/index.m3u8?hls
@@ -222,29 +218,25 @@ http://45.167.1.137:8000/play/a065
 http://187.102.211.240:9001/play/a043/index.m3u8?hls
 #EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="PELÍCULAS",GOLDEN PE
 http://187.102.211.240:9001/play/a043/index.m3u8?hls
-#EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="PELÍCULAS",GOLDEN EDGE
+#EXTINF:-1 tvg-id="GoldenEdge.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="PELÍCULAS",GOLDEN EDGE
 http://45.186.254.75:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="PELÍCULAS",GOLDEN EDGE
 http://187.102.211.240:9001/play/a042/index.m3u8?hls
 #EXTINF:-1 tvg-id="GoldenEdge.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="PELÍCULAS",GOLDEN EDGE PE
 http://187.102.211.240:9001/play/a042/index.m3u8?hls
-#EXTINF:0 tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="PELÍCULAS",Cinemax
+#EXTINF:0 tvg-id="Cinemax.pe" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="PELÍCULAS",CINEMAX PE
 http://190.151.80.244:9990/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.co" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="PELÍCULAS",CINEMAX CO
 http://177.74.205.189:8000/play/a012/index.m3u8?hls
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="PELÍCULAS",CINEMAX SUR
+#EXTINF:-1 tvg-id="Cinemax(Sur).ar" tvg-name="CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="PELÍCULAS",CINEMAX SUR
 http://45.186.254.75:8000/play/a0bt/index.m3u8
 
-#EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="PELÍCULAS",SPACE
+#EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="PELÍCULAS",SPACE AR
 http://38.226.49.253:8000/play/a064/index.m3u8?hls
-#EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="PELÍCULAS",SPACE CH
-http://181.119.111.25:4000/play/a0ez/index.m3u8
 #EXTINF:-1 tvg-id="Space.cl" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="PELÍCULAS",SPACE CL
 http://170.247.204.9:8000/play/a01z/index.m3u8?hls
-#EXTINF:-1 tvg-name="CINECANAL" tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="PELÍCULAS",CINECANAL LAT
+#EXTINF:-1 tvg-name="Cinecanal.cl" tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="PELÍCULAS",CINECANAL LAT
 http://209.14.98.47:8000/play/a0xu/index.m3u8?hls
-#EXTINF:0 tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="PELÍCULAS",Cinecanal LAT
-http://181.119.111.25:4000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.cl" tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="PELÍCULAS",CINECANAL CL
 http://170.247.204.9:8000/play/a01s/index.m3u8?hls
 #EXTINF:-1 tvg-id="Cinecanal.pe" tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="PELÍCULAS",CINECANAL PE
@@ -264,7 +256,7 @@ http://177.74.205.189:8000/play/a00z/index.m3u8?hls
 #EXTINF:-1 tvg-name="TNT NOVELAS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixDbMG-mUGWT-aosM9xztsLmBpVSmbv2Ua2epBG4xT9YZYDXgosNj49inET7o3Pou4CY9AwprcXIvT2YL7NNeOSDxIwaC5OX_ZcZxgslSeS6qSUMBILjhRUIxrXxHodChHEhJ8s3iwZ72VNR7x8uI0HP_GUJoci4b6SMEBIjug839Z4GdpRMCBGqXo/s252/tnt-novelas-logo.png" group-title="PELÍCULAS",TNT NOVELAS
 http://38.226.49.253:8000/play/a07f/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="FX" tvg-logo="https://docdog.top/logo/countries/latino/fx.png" group-title="PELÍCULAS",FX
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://docdog.top/logo/countries/latino/fx.png" group-title="PELÍCULAS",FX
 http://38.226.49.253:8000/play/a07c/index.m3u8?hls
 #EXTINF:-1 tvg-id="FX.cl" tvg-logo="https://docdog.top/logo/countries/latino/fx.png" group-title="PELÍCULAS",FX CL
 http://170.247.204.9:8000/play/a022/index.m3u8?hls
@@ -280,7 +272,7 @@ http://67.73.247.194:9050/play/a0a6/index.m3u8?hls
 http://170.247.204.9:8000/play/a023/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarChannel.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR CHANNEL CO
 http://177.74.205.189:8000/play/a00w/index.m3u8?hls
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR
+#EXTINF:0 tvg-id="StarChannel.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR 
 http://181.78.20.119:58002/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="Sony.ar" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="PELÍCULAS",SONY
 http://38.226.49.253:8000/play/a060/index.m3u8?hls
