@@ -132,20 +132,28 @@ http://200.115.96.66:4000/play/a0h1/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PACK HBO",HBO
 http://67.73.247.194:9050/play/a0cu/index.m3u8?hls
+#EXTINF:-1 tvg-id="HBO.pe" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PACK HBO",HBO PE
+http://187.102.211.240:9001/play/a01z/index.m3u8?hls
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="PACK HBO",HBO 2
 http://45.167.1.137:8000/play/a00i
 #EXTINF:-1 #EXTINF:-1 tvg-id="HBOMundi.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFwW06hJWmRtoAPThSha_H5O-pqWQyZeOJd5qTTWBngloXimEqZPy4ze8zaUt1VAHHjrJkF003hHOw1g8UV_I8d-o-ZByuW5NIyz_8L9jfqk4WWSthingqiUQbw6EOnkFCpa5BAJyZlNo/s0/HBO-Mundi.png" group-title="PACK HBO",HBO MUNDI
 http://187.102.208.83:8000/play/a018/index.m3u8?hls
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PACK HBO",HBO POP
+#EXTINF:-1 tvg-id="HBOMundi.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFwW06hJWmRtoAPThSha_H5O-pqWQyZeOJd5qTTWBngloXimEqZPy4ze8zaUt1VAHHjrJkF003hHOw1g8UV_I8d-o-ZByuW5NIyz_8L9jfqk4WWSthingqiUQbw6EOnkFCpa5BAJyZlNo/s0/HBO-Mundi.png" group-title="PACK HBO",HBO MUNDI CO
+http://187.102.211.240:9001/play/a04r/index.m3u8?hls
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PACK HBO",HBO POP
 http://67.73.247.194:9050/play/a0c0/index.m3u8?hls
+#EXTINF:-1 tvg-id="HBOPop.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="PACK HBO",HBO POP
+http://187.102.211.240:9001/play/a028/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="PACK HBO",HBO XTREME
 http://67.73.247.194:9050/play/a04f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbosignature.png" group-title="PACK HBO",HBO SIGNATURE
 http://187.102.208.83:8000/play/a017/index.m3u8?hls
+#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbosignature.png" group-title="PACK HBO",HBO SIGNATURE AR
+http://187.102.211.240:9001/play/a04q/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="PACK HBO",HBO FAMILY
 http://67.73.247.194:9050/play/a04e/index.m3u8?hls
-#EXTINF:-1 tvg-name="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="PACK HBO",HBO+
+#EXTINF:-1 tvg-name="HBOPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="PACK HBO",HBO+
 http://67.73.247.194:9050/play/a0cv/index.m3u8?hls
 
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="PELÍCULAS",HBO
@@ -196,12 +204,14 @@ http://45.167.1.139:8000/play/a065
 
 #EXTINF:-1 tvg-id="Golden.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="PELÍCULAS",GOLDEN
 http://187.102.211.240:9001/play/a043/index.m3u8?hls
-
+#EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="PELÍCULAS",GOLDEN PE
+http://187.102.211.240:9001/play/a043/index.m3u8?hls
 #EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="PELÍCULAS",GOLDEN EDGE
 http://45.186.254.75:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="PELÍCULAS",GOLDEN EDGE
 http://187.102.211.240:9001/play/a042/index.m3u8?hls
-
+#EXTINF:-1 tvg-id="GoldenEdge.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="PELÍCULAS",GOLDEN EDGE PE
+http://187.102.211.240:9001/play/a042/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="PELÍCULAS",Cinemax
 http://190.151.80.244:9990/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.co" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="PELÍCULAS",CINEMAX CO
@@ -221,6 +231,8 @@ http://209.14.98.47:8000/play/a0xu/index.m3u8?hls
 http://181.119.111.25:4000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.cl" tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="PELÍCULAS",CINECANAL CL
 http://170.247.204.9:8000/play/a01s/index.m3u8?hls
+#EXTINF:-1 tvg-id="Cinecanal.pe" tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="PELÍCULAS",CINECANAL PE
+http://187.102.211.240:9001/play/a01r/index.m3u8?hls
 #EXTINF:-1 tvg-id="TNT.cl" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbLOpQ1CXF8d0qhJO2RP5AIG-2YFT1QRedOZmq-zxEN0onPX9hszryTFtUWL4Bso4R5mz-PSE0vg3UyyEIyVHZVjh_kLFzJ426AK0IE8C22LWUwggGKl7E0qrdYIdrGuFeHyhHxXNruWw/s1600/tnt.png" group-title="PELÍCULAS",TNT HD CL
 http://170.247.204.9:8000/play/a01r/index.m3u8?hls
 #EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbLOpQ1CXF8d0qhJO2RP5AIG-2YFT1QRedOZmq-zxEN0onPX9hszryTFtUWL4Bso4R5mz-PSE0vg3UyyEIyVHZVjh_kLFzJ426AK0IE8C22LWUwggGKl7E0qrdYIdrGuFeHyhHxXNruWw/s1600/tnt.png" group-title="PELÍCULAS",TNT CO
@@ -240,6 +252,8 @@ http://38.226.49.253:8000/play/a07c/index.m3u8?hls
 http://170.247.204.9:8000/play/a022/index.m3u8?hls
 #EXTINF:-1 tvg-id="FX.co" tvg-logo="https://docdog.top/logo/countries/latino/fx.png" group-title="PELÍCULAS",FX CO
 http://177.74.205.189:8000/play/a00u/index.m3u8?hls
+#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://docdog.top/logo/countries/latino/fx.png" group-title="PELÍCULAS",FX PE
+http://187.102.211.240:9001/play/a011/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR CHANNEL
 http://170.247.204.9:8000/play/a023/index.m3u8?hls
 #EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="PELÍCULAS",STAR CHANNEL
@@ -265,8 +279,12 @@ http://170.247.204.9:8000/play/a01w/index.m3u8?hls
 http://170.247.204.9:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 tvg-id="WarnerChannel.co" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12f5712d-1535-4d60-a967-e7d5e3c1902f/dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmY1NzEyZC0xNTM1LTRkNjAtYTk2Ny1lN2Q1ZTNjMTkwMmYvZGhyYmpobi1lYjFiOGE2Zi04ODczLTRmZTAtYmRlZS1lYWRlMTIxOGE4NmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iswXcWSD3c_tODdOVs4e2eV0hAIgB-EQllC7W2bqDc0" group-title="PELÍCULAS",WARNER CHANNEL CO
 http://177.74.205.189:8000/play/a011/index.m3u8?hls
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfq_E8tWA6lV4_2ASNT2GDn5gqUO0T5UfHD9JEOMfkvtOCq6z0PF85mtx40nYH7pahrknF-QtrSfiDGGzQnWQXnUGhiRn7CJa6DwBzr86C1il1p7fhvIN81ATcOloLUDtKOthRNLDm5EE/s1280/UNIVERSAL-TV-2018.png" group-title="PELÍCULAS",UNIVERSAL AR
+http://187.102.211.240:9001/play/a06k/index.m3u8?hls
 #EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="PELÍCULAS",STUDIO UNIVERSAL
 http://181.78.20.119:58002/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="PELÍCULAS",STUDIO UNIVERSAL AR
+http://187.102.211.240:9001/play/a06o/index.m3u8?hls
 #EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="PELÍCULAS",AXN HD
 http://170.247.204.9:8000/play/a01x/index.m3u8?hls
 #EXTINF:-1 tvg-id="AXN.cl" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="PELÍCULAS",AXN CL
@@ -280,6 +298,8 @@ http://38.226.49.253:8000/play/a05u/index.m3u8?hls
 http://200.229.147.142:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="TCM.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" group-title="PELÍCULAS",TCM CO
 http://177.74.205.189:8000/play/a01e/index.m3u8?hls
+#EXTINF:-1 tvg-id="EuropaEuropa.pe" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="PELÍCULAS",EUROPA PE
+http://187.102.211.240:9001/play/a045/index.m3u8?hls
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC HD
 http://170.247.204.9:8000/play/a0a9/index.m3u8?hls
 #EXTINF:-1 tvg-id="AMC.cl" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="PELÍCULAS",AMC CL
@@ -292,15 +312,18 @@ http://38.226.49.253:8000/play/a03y/index.m3u8?hls
 http://170.247.204.9:8000/play/a0c8/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="PELÍCULAS",FILM & ARTs
 http://200.229.147.142:8000/play/a01w/index.m3u8
-
+#EXTINF:-1 tvg-id="filmAndarts.pe" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="PELÍCULAS",FILM&ARTS PE
+http://187.102.211.240:9001/play/a03o/index.m3u8?hls
 #EXTINF:-1 tvg-name="CINE PREMIUM" tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/fc/Skskskksks.png/revision/latest?cb=20240430152411" group-title="PELÍCULAS",CINE PREMIUM
 http://45.167.1.137:8000/play/a06f
+#EXTINF:-1 tvg-id="AdultSwim.uy" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" group-title="PELÍCULAS",ADULT SWIM UY
+http://187.102.211.240:9001/play/a06l/index.m3u8?hls
 #EXTINF:-1 tvg-name="MC" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/ef/Multicinema_MC_Logo_2022.png/revision/latest/scale-to-width-down/397?cb=20240614230549" group-title="PELÍCULAS",MC
 http://45.167.1.137:8000/play/a02t
 #EXTINF:-1 tvg-name="USA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQYAcg5B2Bb7_Cs4nXz7kseUTnLWagQZP36mYMDpSGpsr9Ic96-sw70dG5h1Vyb-O7E0_F7fECQRDYaCdkpfHW3LtessqGEnfcYSmsufnVIGgwvMtPapn2IELO_B1pO7Vmywxn9fPran3ykMzHbVWrizGBDMOYUd3e7h_XQKAQteXFAfW8N624gneuZQ/s1684/USA_Network.png" group-title="PELÍCULAS",USA
 http://38.226.49.253:8000/play/a044/index.m3u8?hls
-
-
+#EXTINF:-1 tvg-id="Syfy.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQYAcg5B2Bb7_Cs4nXz7kseUTnLWagQZP36mYMDpSGpsr9Ic96-sw70dG5h1Vyb-O7E0_F7fECQRDYaCdkpfHW3LtessqGEnfcYSmsufnVIGgwvMtPapn2IELO_B1pO7Vmywxn9fPran3ykMzHbVWrizGBDMOYUd3e7h_XQKAQteXFAfW8N624gneuZQ/s1684/USA_Network.png" group-title="PELÍCULAS",USA AR
+http://187.102.211.240:9001/play/a041/index.m3u8?hls
 
 
 
@@ -717,16 +740,17 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4765
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4975
 #EXTINF:-1 tvg-id="HBOMundi.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFwW06hJWmRtoAPThSha_H5O-pqWQyZeOJd5qTTWBngloXimEqZPy4ze8zaUt1VAHHjrJkF003hHOw1g8UV_I8d-o-ZByuW5NIyz_8L9jfqk4WWSthingqiUQbw6EOnkFCpa5BAJyZlNo/s0/HBO-Mundi.png" group-title="ARGENTINA",HBO MUNDI
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4783
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="ARGENTINA",HBO POP
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="ARGENTINA",HBO POP
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4785
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="ARGENTINA",HBO POP
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="ARGENTINA",HBO POP
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5026
 #EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="ARGENTINA",HBO FAMILY
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4974
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://docdog.top/logo/countries/latino/hbosignature.png" group-title="ARGENTINA",HBO SIGNATURE
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4978
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="ARGENTINA",UNIVERSAL COMEDY
-http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5055#EXTINF:-1 tvg-id="" tvg-name=" GOLDEN PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="PELÍCULAS",GOLDEN PREMIER
+http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5055
+#EXTINF:-1 tvg-id="" tvg-name=" GOLDEN PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="ARGENTINA",GOLDEN PREMIER
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5034
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="ARGENTINA",CINEMAX
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4741
@@ -780,6 +804,7 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4720
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/5047
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="ARGENTINA",EUROPA
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4761
+
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="ARGENTINA",AMC
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/4721
 #EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDR02bhnjx7hyphenhyphen9sy4ErJx8PUT-WM5hP9axbkLjVFrxyJ1Qz9qxG0cIzbcBWazT6CxgQSrvMRKAOiNvlCY7kSEeG_tTpGNaBHTkHTzv6CdkOYRkCKrSgx3ULAHwijhlnl9vDK3FBpG6wJsvucp0-tif9g7_bbDYu4XQW3MN-Sxtg68OD5u1pWZVzng4xxg/s159/amc-series.png" group-title="ARGENTINA",AMC SERIES
