@@ -918,4 +918,62 @@ http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/293
 #EXTINF:-1 tvg-id="" tvg-name=" (FHD) M+ VAMOS 2" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="EVENTOS DEPORTIVOS", (FHD) M+ VAMOS 2
 http://jo122.voorcqds.top:8080/VIP016831763131846116/d25cykz5hg2y/156835
 
-
+CANALES PERÚ
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="CANALES PERÚ",LATINA
+http://8.243.126.131:8000/play/a001/index.m3u8?hls
+#EXTINF:-1 tvg-id="America.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="CANALES PERÚ",AMERICA
+http://8.243.126.131:8000/play/a01q/index.m3u8?hls
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1280px-Panamericana-tv.svg.png" group-title="CANALES PERÚ",PANAMERICANA
+http://8.243.126.131:8000/play/a01r/index.m3u8?hls
+#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Willax_Televisi%C3%B3n_logo_con_texto_blanco_y_sombra_2015.svg/revision/latest/scale-to-width-down/1200?cb=20221028023906&path-prefix=es" group-title="CANALES PERÚ",WILLAX
+http://8.243.126.131:8000/play/a01s/index.m3u8?hls
+#EXTINF:-1 tvg-id="NextTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/AmericaNext_%28Per%C3%BA%29.png" group-title="CANALES PERÚ",NEXT TV
+http://8.243.126.131:8000/play/a01t/index.m3u8?hls
+#EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="CANALES PERÚ",RPP
+http://8.243.126.131:8000/play/a01u/index.m3u8?hls
+#EXTINF:-1 tvg-id="Exitosa.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="CANALES PERÚ",EXITOSA
+http://8.243.126.131:8000/play/a01w/index.m3u8?hls
+#EXTINF:-1 tvg-id="RadioNacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Radio_Nacional_Peru_2023.png" group-title="CANALES PERÚ",RADIO NACIONAL
+http://8.243.126.131:8000/play/a04i/index.m3u8?hls
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="CANALES PERÚ",TV PERÚ
+http://8.243.126.131:8000/play/a04j/index.m3u8?hls
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/USMPTV.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="CANALES PERÚ",USMPTV
+http://8.243.126.131:8000/play/a04l/index.m3u8?hls
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="CANALES PERÚ",ATV SUR
+http://8.243.126.131:8000/play/a04m/index.m3u8?hls
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png" group-title="CANALES PERÚ",ATV+ NOTICIAS
+http://8.243.126.131:8000/play/a04n/index.m3u8?hls
+#EXTINF:-1 tvg-id="Ipe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Canal_IPe_2024.png" group-title="CANALES PERÚ",IPE
+http://8.243.126.131:8000/play/a04p/index.m3u8?hls
+#EXTINF:-1 tvg-id="Karibeña.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png" group-title="CANALES PERÚ",KARIBEÑA
+http://8.243.126.131:8000/play/a04q/index.m3u8?hls
+#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="CANALES PERÚ",ATV HD
+http://8.243.126.131:8000/play/a01z/index.m3u8?hls
+#EXTINF:-1 tvg-id="DePelicula.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CANALES PERÚ",DE PELÍCULA
+http://8.243.126.131:8000/play/a04r/index.m3u8?hls
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="CANALES PERÚ",UNIVERSAL PREMIERE
+http://8.243.126.131:8000/play/a04s/index.m3u8?hls
+#EXTINF:-1 tvg-id="DiscoverySci.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Discovery_Science_channel_logo.png" group-title="CANALES PERÚ",DISCOVERY SCI
+http://8.243.126.131:8000/play/a04u/index.m3u8?hls
+#EXTINF:-1 tvg-id="TLC.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/TLC_UK_logo_%282026%29.svg/1280px-TLC_UK_logo_%282026%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="CANALES PERÚ",TLC
+http://8.243.126.131:8000/play/a04t/index.m3u8?hls
+#EXTINF:-1 tvg-id="ESPN2.pe" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="CANALES PERÚ",ESPN 2
+http://8.243.126.131:8000/play/a04v/index.m3u8?hls
+#EXTINF:-1 tvg-id="UNIVISIÓN.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="CANALES PERÚ",UNIVISIÓN
+http://8.243.126.131:8000/play/a04w/index.m3u8?hls
+#EXTINF:-1 tvg-id="TELEMUNDO.pe" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="CANALES PERÚ",TELEMUNDO
+http://8.243.126.131:8000/play/a04y/index.m3u8?hls
+#EXTINF:-1 tvg-id="SingrayConcerts.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/1280px-Stingray_Concerts.svg.png" group-title="CANALES PERÚ",STINGRAY CONCERTS
+http://8.243.126.131:8000/play/a04z/index.m3u8?hls
+#EXTINF:-1 tvg-id="TBS.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixDbMG-mUGWT-aosM9xztsLmBpVSmbv2Ua2epBG4xT9YZYDXgosNj49inET7o3Pou4CY9AwprcXIvT2YL7NNeOSDxIwaC5OX_ZcZxgslSeS6qSUMBILjhRUIxrXxHodChHEhJ8s3iwZ72VNR7x8uI0HP_GUJoci4b6SMEBIjug839Z4GdpRMCBGqXo/s252/tnt-novelas-logo.png" group-title="CANALES PERÚ",TNT NOVELAS
+http://8.243.126.131:8000/play/a050/index.m3u8?hls
+#EXTINF:-1 tvg-id="Mega.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="CANALES PERÚ",MEGA
+http://8.243.126.131:8000/play/a051/index.m3u8?hls
+#EXTINF:-1 tvg-id="M+ DEPORTES.pe" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="CANALES PERÚ",M+ DEPORTES
+http://8.243.126.131:8000/play/a052/index.m3u8?hls
+#EXTINF:-1 tvg-id="ESPN PREMIUM.bo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="PACK FÚTBOL",ESPN PREMIUM
+http://8.243.126.131:8000/play/a053/index.m3u8?hls
+#EXTINF:-1 tvg-id="Tooncast.bo" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="NIÑOS",TOONCAST
+http://8.243.126.131:8000/play/a054/index.m3u8?hls
+#EXTINF:-1 tvg-id="DiscoveryTurbo.bo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/3840px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y DOCUMENTALES",DISCOVERY TURBO
+http://8.243.126.131:8000/play/a055/index.m3u8?hls
