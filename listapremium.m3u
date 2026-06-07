@@ -1160,103 +1160,97 @@ http://8.243.126.131:8000/play/a0g7/index.m3u8?hls
 http://8.243.126.131:8000/play/a0dz/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="CANALES PERÚ",ESPN MX
 http://8.243.126.131:8000/play/a0gd/index.m3u8?hls
-
-
-
-#EXTINF:-1 group-title="-",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.pe" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="CANALES PERÚ",ESPN 2
 http://8.243.126.131:8000/play/a0ge/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.pe" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="CANALES PERÚ",ESPN 2
 http://8.243.126.131:8000/play/a0d3/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.pe" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="CANALES PERÚ",ESPN 2
 http://8.243.126.131:8000/play/a0nv/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.pe" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="CANALES PERÚ",ESPN 2
 http://8.243.126.131:8000/play/a0nl/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.pe" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="CANALES PERÚ",ESPN 3
 http://8.243.126.131:8000/play/a0jt/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3.pe" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="CANALES PERÚ",ESPN 3
 http://8.243.126.131:8000/play/a0nz/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3.pe" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="CANALES PERÚ",ESPN 3
 http://8.243.126.131:8000/play/a0d4/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="CANALES PERÚ",ESPN 4
 http://8.243.126.131:8000/play/a0ju/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 4HD
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="CANALES PERÚ",ESPN 4
 http://8.243.126.131:8000/play/a0kl/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="CANALES PERÚ",ESPN 5
 http://8.243.126.131:8000/play/a0gq/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 5  HD
+#EXTINF:-1 tvg-id="ESPN 5.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="CANALES PERÚ",ESPN 5
 http://8.243.126.131:8000/play/a0h0/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 5 HD
+#EXTINF:-1 tvg-id="ESPN 5.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="CANALES PERÚ",ESPN 5
 http://8.243.126.131:8000/play/a0nh/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN 6 HD
+#EXTINF:-1 tvg-id="ESPN 6.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="CANALES PERÚ",ESPN 6
 http://8.243.126.131:8000/play/a0ns/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="CANALES PERÚ",ESPN
 http://8.243.126.131:8000/play/a0d2/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="CANALES PERÚ",ESPN
 http://8.243.126.131:8000/play/a0nk/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN PRIMUN HD
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="CANALES PERÚ",ESPN PREMIUM
 http://8.243.126.131:8000/play/a0lu/index.m3u8?hls
-#EXTINF:-1 group-title="-",ESPN Premium HD
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1920px-ESPN_Premium_logo.svg.png" group-title="CANALES PERÚ",ESPN PREMIUM
 http://8.243.126.131:8000/play/a0no/index.m3u8?hls
-#EXTINF:-1 group-title="-",EWTN
-http://8.243.126.131:8000/play/a0ol/index.m3u8?hls
-#EXTINF:-1 group-title="-",El Gourmet
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="CANALES PERÚ",EL GOURMET
 http://8.243.126.131:8000/play/a0jq/index.m3u8?hls
-#EXTINF:-1 group-title="-",Europa HD
+#EXTINF:-1 tvg-id="EuropaEuropa.pe" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="CANALES PERÚ",EUROPA
 http://8.243.126.131:8000/play/a0e5/index.m3u8?hls
-#EXTINF:-1 group-title="-",FOX CR
+#EXTINF:-1 tvg-id="FOXSportsConoSur.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="CANALES PERÚ",FOX CR
 http://8.243.126.131:8000/play/a0oq/index.m3u8?hls
-#EXTINF:-1 group-title="-",FX HD
+#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://docdog.top/logo/countries/latino/fx.png" group-title="CANALES PERÚ",FX
 http://8.243.126.131:8000/play/a0e4/index.m3u8?hls
-#EXTINF:-1 group-title="-",Film & Arts
+#EXTINF:-1 tvg-id="filmAndarts.pe" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="CANALES PERÚ",FILM&ARTS
 http://8.243.126.131:8000/play/a0ex/index.m3u8?hls
-#EXTINF:-1 group-title="-",Film & arts HD
+#EXTINF:-1 tvg-id="filmAndarts.pe" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="CANALES PERÚ",FILM&ARTS HD
 http://8.243.126.131:8000/play/a0e0/index.m3u8?hls
-#EXTINF:-1 group-title="-",Food Network
+#EXTINF:-1 tvg-id="FOODNETWORK.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANALES PERÚ",FOOD NETWORK
 http://8.243.126.131:8000/play/a0me/index.m3u8?hls
-#EXTINF:-1 group-title="-",Golden
+#EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="CANALES PERÚ",GOLDEN PREMIER
 http://8.243.126.131:8000/play/a0k9/index.m3u8?hls
-#EXTINF:-1 group-title="-",Golden Premiere 2 HD
+#EXTINF:-1 tvg-id="GOLDEN PREMIER 2.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="CANALES PERÚ",GOLDEN PREMIER 2
 http://8.243.126.131:8000/play/a0fo/index.m3u8?hls
-#EXTINF:-1 group-title="-",Golden Premiere HD
+#EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es" group-title="CANALES PERÚ",GOLDEN PREMIER
 http://8.243.126.131:8000/play/a0fn/index.m3u8?hls
-#EXTINF:-1 group-title="-",Golf Channel
-http://8.243.126.131:8000/play/a0fi/index.m3u8?hls
-#EXTINF:-1 group-title="-",Golf Channel HD
-http://8.243.126.131:8000/play/a0ea/index.m3u8?hls
-#EXTINF:-1 group-title="-",H2
+
+#EXTINF:-1 tvg-id="History2.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtrYALwlwTSSSpiS7e1It6Dgcni34qShrRg&s" group-title="CANALES PERÚ",HISTORY 2
 http://8.243.126.131:8000/play/a0mo/index.m3u8?hls
-#EXTINF:-1 group-title="-",HBO Family HD
+#EXTINF:-1 tvg-id="HBOFamily.pe" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="CANALES PERÚ",HBO FAMILY
 http://8.243.126.131:8000/play/a0f6/index.m3u8?hls
-#EXTINF:-1 group-title="-",HBO HD
+#EXTINF:-1 tvg-id="HBO.pe" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="CANALES PERÚ",HBO
 http://8.243.126.131:8000/play/a0f3/index.m3u8?hls
-#EXTINF:-1 group-title="-",HBO Plus HD
+#EXTINF:-1 tvg-id="HBO+.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANALES PERÚ",HBO+
 http://8.243.126.131:8000/play/a0f5/index.m3u8?hls
-#EXTINF:-1 group-title="-",HBO XTREME
+#EXTINF:-1 tvg-id="HBOXtreme.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="CANALES PERÚ",HBO XTREME
 http://8.243.126.131:8000/play/a0f7/index.m3u8?hls
-#EXTINF:-1 group-title="-",HBO2 HD
+#EXTINF:-1 tvg-id="HBO2.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="CANALES PERÚ",HBO 2
 http://8.243.126.131:8000/play/a0f4/index.m3u8?hls
-#EXTINF:-1 group-title="-",HOLA! TV HD
+#EXTINF:-1 tvg-id="HOLA TV.pe" tvg-logo="https://docdog.top/logo/countries/latino/holatv.png" group-title="CANALES PERÚ",HOLA TV HD
 http://8.243.126.131:8000/play/a0im/index.m3u8?hls
-#EXTINF:-1 group-title="-",Hispan TV
+#EXTINF:-1 tvg-id="HispanTV.pe" tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="CANALES PERÚ",HISPAN TV
 http://8.243.126.131:8000/play/a0jd/index.m3u8?hls
-#EXTINF:-1 group-title="-",History Channel
+#EXTINF:-1 tvg-id="History.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.png" group-title="CANALES PERÚ",HISTORY CHANNEL
 http://8.243.126.131:8000/play/a0gb/index.m3u8?hls
-#EXTINF:-1 group-title="-",Hola!TV
+#EXTINF:-1 tvg-id="HOLA TV.pe" tvg-logo="https://docdog.top/logo/countries/latino/holatv.png" group-title="CANALES PERÚ",HOLA TV HD
 http://8.243.126.131:8000/play/a0fg/index.m3u8?hls
-#EXTINF:-1 group-title="-",Home & Health HD
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANALES PERÚ",DISCOVERY H&H HD
 http://8.243.126.131:8000/play/a0il/index.m3u8?hls
-#EXTINF:-1 group-title="-",Home Garden Latino
+#EXTINF:-1 tvg-id="HGTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1280px-HGTV_2010.svg.png" group-title="CANALES PERÚ",HGTV LATINO HD
 http://8.243.126.131:8000/play/a0fe/index.m3u8?hls
-#EXTINF:-1 group-title="-",KANALD  DRAMA
+#EXTINF:-1 tvg-id="KANALD.pe" tvg-logo="https://soporte.kanalddrama.com/hc/theming_assets/01JP7HF7DXK607M8S8KHBD5EPD" group-title="CANALES PERÚ",KANALD
 http://8.243.126.131:8000/play/a0m3/index.m3u8?hls
-#EXTINF:-1 group-title="-",KDrama HD
+#EXTINF:-1 tvg-id="KANALD.pe" tvg-logo="https://soporte.kanalddrama.com/hc/theming_assets/01JP7HF7DXK607M8S8KHBD5EPD" group-title="CANALES PERÚ",KANALD
 http://8.243.126.131:8000/play/a0mn/index.m3u8?hls
-#EXTINF:-1 group-title="-",Latin America Sport
-http://8.243.126.131:8000/play/a0jv/index.m3u8?hls
-#EXTINF:-1 group-title="-",MEGA HD
+#EXTINF:-1 tvg-id="Mega.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1280px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="CANALES PERÚ",MEGA
 http://8.243.126.131:8000/play/a0o8/index.m3u8?hls
-#EXTINF:-1 group-title="-",MTV HD
+#EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="CANALES PERÚ",MTV
 http://8.243.126.131:8000/play/a0oa/index.m3u8?hls
+
+
+
+
 #EXTINF:-1 group-title="-",Mas Chic
 http://8.243.126.131:8000/play/a0fb/index.m3u8?hls
 #EXTINF:-1 group-title="-",Movistar Deportes
