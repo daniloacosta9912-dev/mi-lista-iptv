@@ -513,6 +513,8 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 #EXTINF:-1 tvg-id="BUMTelevision.co@SD" tvg-logo="https://i.imgur.com/I0eGYI0.png" group-title="General",BUM Televisión (720p) [Not 24/7]
 https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CableSurTV.co@SD" tvg-logo="https://i.imgur.com/Rvuyu7R.jpg" group-title="General",Cable Sur TV
+https://tvlatina.live:1936/8025/8025/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co@SD" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="General",Cali TV (540p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="General",Canal 2 Alpavisión Neiva (720p) [Not 24/7]
@@ -1723,8 +1725,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_400
 https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive8.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 8 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive9.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 9 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive10.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 10 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
 #EXTINF:-1 tvg-id="WWAY31.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="News",ABC WWAY 3
