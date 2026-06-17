@@ -1251,64 +1251,58 @@ http://8.243.126.131:8000/play/a0oa/index.m3u8?hls
 
 
 
-#EXTINF:-1 group-title="-",Mas Chic
+#EXTINF:-1 tvg-id="AMC SERIES.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDR02bhnjx7hyphenhyphen9sy4ErJx8PUT-WM5hP9axbkLjVFrxyJ1Qz9qxG0cIzbcBWazT6CxgQSrvMRKAOiNvlCY7kSEeG_tTpGNaBHTkHTzv6CdkOYRkCKrSgx3ULAHwijhlnl9vDK3FBpG6wJsvucp0-tif9g7_bbDYu4XQW3MN-Sxtg68OD5u1pWZVzng4xxg/s159/amc-series.png" group-title="CANALES PERÚ",AMC SERIES
 http://8.243.126.131:8000/play/a0fb/index.m3u8?hls
-#EXTINF:-1 group-title="-",Movistar Deportes
+#EXTINF:-1 tvg-id="M+ DEPORTES.pe" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="CANALES PERÚ",M+ DEPORTES PE
 http://8.243.126.131:8000/play/a0oe/index.m3u8?hls
-#EXTINF:-1 group-title="-",Multicinema
+#EXTINF:-1 tvg-id="MC.pe" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/ef/Multicinema_MC_Logo_2022.png/revision/latest/scale-to-width-down/397?cb=20240614230549" group-title="CANALES PERÚ",MC
 http://8.243.126.131:8000/play/a0jx/index.m3u8?hls
-#EXTINF:-1 group-title="-",Nat Geo HD
+#EXTINF:-1 tvg-id="NationalGeographic.pe" tvg-logo="https://docdog.top/logo/countries/latino/natgeo.png" group-title="CANALES PERÚ",NATGEO
 http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
-#EXTINF:-1 group-title="-",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr..pe" tvg-logo="https://tinyurl.com/232312zzz" group-title="CANALES PERÚ",NICK JR
 http://8.243.126.131:8000/play/a0oh/index.m3u8?hls
-#EXTINF:-1 group-title="-",Pasiones HD
+#EXTINF:-1 tvg-id="Pasiones.pe" tvg-logo="https://logodix.com/logo/2085348.png" group-title="CANALES PERÚ",PASIONES TV
 http://8.243.126.131:8000/play/a0db/index.m3u8?hls
-#EXTINF:-1 group-title="-",Playboy
-http://8.243.126.131:8000/play/a0f8/index.m3u8?hls
-#EXTINF:-1 group-title="-",Plim Plim TV
-http://8.243.126.131:8000/play/a0od/index.m3u8?hls
-#EXTINF:-1 group-title="-",RCN Novelas
+
+#EXTINF:-1 tvg-id="RCNNovelas.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="CANALES PERÚ",RCN NOVELAS
 http://8.243.126.131:8000/play/a0jp/index.m3u8?hls
-#EXTINF:-1 group-title="-",SONY
+#EXTINF:-1 tvg-id="Sony.pe" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="CANALES PERÚ",SONY
 http://8.243.126.131:8000/play/a0g6/index.m3u8?hls
-#EXTINF:-1 group-title="-",SONY HD
+#EXTINF:-1 tvg-id="Sony.pe" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="CANALES PERÚ",SONY HD
 http://8.243.126.131:8000/play/a0gi/index.m3u8?hls
-#EXTINF:-1 group-title="-",SPACE HD
+#EXTINF:-1 tvg-id="Space.pe" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="CANALES PERÚ",SPACE
 http://8.243.126.131:8000/play/a0gz/index.m3u8?hls
-#EXTINF:-1 group-title="-",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="StarChannel.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/StarBrandLogo.png/revision/latest/scale-to-width-down/250?cb=20221117162650" group-title="CANALES PERÚ",STAR CHANNEL HD
 http://8.243.126.131:8000/play/a0gg/index.m3u8?hls
-#EXTINF:-1 group-title="-",SUYAPA TV
-http://8.243.126.131:8000/play/a0ji/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sin Limites
-http://8.243.126.131:8000/play/a0jw/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sony Movies HD
+
+#EXTINF:-1 tvg-id="SONY MOVIES.pe" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhfyvgQh5qF572H6XpuPJ4iQ5QvJry5eAh9x2G3elkV-W4cvBmb3KTZo1j5AyPxhoRly4Td6lQ4Z6IJATZV7slmluCsNNAr3hMAhAVSrkqTaLAZui-T5bJep0upH5HsDBfH2uo5HfGuJnNO6mbp1if3JBiwyuJvY8STwUp9cF32MfODGVKzApKXrh-G=s225" group-title="CANALES PERÚ",SONY MOVIES HD
 http://8.243.126.131:8000/play/a0e6/index.m3u8?hls
-#EXTINF:-1 group-title="-",Star TVE HD
+#EXTINF:-1 tvg-id="StarTVE.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="CANALES PERÚ",STAR TVE HD
 http://8.243.126.131:8000/play/a0e9/index.m3u8?hls
-#EXTINF:-1 group-title="-",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.pe" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="CANALES PERÚ",STUDIO UNIVERSAL
 http://8.243.126.131:8000/play/a0gw/index.m3u8?hls
-#EXTINF:-1 group-title="-",Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversal.pe" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="CANALES PERÚ",STUDIO UNIVERSAL HD
 http://8.243.126.131:8000/play/a0dx/index.m3u8?hls
-#EXTINF:-1 group-title="-",Sun Channel
+#EXTINF:-1 tvg-id="SUN CHANNEL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="CANALES PERÚ",SUN CHANNEL
 http://8.243.126.131:8000/play/a0jr/index.m3u8?hls
-#EXTINF:-1 group-title="-",TCM
+#EXTINF:-1 tvg-id="TCM.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcHu-bEOdw-_7i8FfgTpbvdf7J65_QfTlKV-1JNW547FI_gYAb79RSVANucglyOUwuIjudATzy-m3TuZ17H6WpKbvnsC7GgQO9kYxVrsSqdLlrIkr6vx7xl30LrP5b5heMT2H_KEMxOwU/s1600/TCM.jpg" group-title="CANALES PERÚ",TCM
 http://8.243.126.131:8000/play/a0ka/index.m3u8?hls
-#EXTINF:-1 group-title="-",TLC
-http://8.243.126.131:8000/play/a0ja/index.m3u8?hls
-#EXTINF:-1 group-title="-",TLC
+#EXTINF:-1 tvg-id="TLC.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/TLC_UK_logo_%282026%29.svg/1280px-TLC_UK_logo_%282026%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="CANALES PERÚ",TLC
 http://8.243.126.131:8000/play/a0gc/index.m3u8?hls
-#EXTINF:-1 group-title="-",TNT HD
+#EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbLOpQ1CXF8d0qhJO2RP5AIG-2YFT1QRedOZmq-zxEN0onPX9hszryTFtUWL4Bso4R5mz-PSE0vg3UyyEIyVHZVjh_kLFzJ426AK0IE8C22LWUwggGKl7E0qrdYIdrGuFeHyhHxXNruWw/s1600/tnt.png" group-title="CANALES PERÚ",TNT HD
 http://8.243.126.131:8000/play/a0ij/index.m3u8?hls
-#EXTINF:-1 group-title="-",TNT Novelas HD
-http://8.243.126.131:8000/play/a0om/index.m3u8?hls
-#EXTINF:-1 group-title="-",TNT SPORTS
-http://8.243.126.131:8000/play/a0nr/index.m3u8?hls
-#EXTINF:-1 group-title="-",TNT Series HD
+#EXTINF:-1 tvg-id="TNTSeries.pe" tvg-logo="https://docdog.top/logo/countries/latino/tntseries.png" group-title="CANALES PERÚ",TNT SERIES HD
 http://8.243.126.131:8000/play/a0d8/index.m3u8?hls
-#EXTINF:-1 group-title="-",TNT Sports Premiun HD
-http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
-#EXTINF:-1 group-title="-",TV Familia
+
+#EXTINF:-1 tvg-id="TVFamilia.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tvfamilia_logo.png/330px-Tvfamilia_logo.png" group-title="CANALES PERÚ",TV FAMILIA
 http://8.243.126.131:8000/play/a0j9/index.m3u8?hls
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="-",TVChile
 http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
 #EXTINF:-1 group-title="-",TVE
