@@ -1296,50 +1296,41 @@ http://8.243.126.131:8000/play/a0d8/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TVFamilia.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tvfamilia_logo.png/330px-Tvfamilia_logo.png" group-title="CANALES PERÚ",TV FAMILIA
 http://8.243.126.131:8000/play/a0j9/index.m3u8?hls
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="-",TVChile
+#EXTINF:-1 tvg-id="TVChile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" group-title="CANALES PERÚ",TV CHILE
 http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
-#EXTINF:-1 group-title="-",TVE
+#EXTINF:-1 tvg-id="TVE.pe" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="CANALES PERÚ",TVE
 http://8.243.126.131:8000/play/a0gx/index.m3u8?hls
-#EXTINF:-1 group-title="-",TVN HD
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg" group-title="CANALES PERÚ",TVN HD
 http://8.243.126.131:8000/play/a0o6/index.m3u8?hls
-#EXTINF:-1 group-title="-",Telefe
+#EXTINF:-1 tvg-id="Telefe.pe" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="VARIOS",TELEFE INTERNACIONAL
 http://8.243.126.131:8000/play/a0mc/index.m3u8?hls
-#EXTINF:-1 group-title="-",Telemundo HD
+#EXTINF:-1 tvg-id="TelemundoInternacional.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemundo_Internacional_Logo_%282013-2018%29.png/revision/latest?cb=20220222215130&path-prefix=es" group-title="CANALES PERÚ",TELEMUNDO INTERNACIONAL HD
 http://8.243.126.131:8000/play/a0e3/index.m3u8?hls
-#EXTINF:-1 group-title="-",Telesur
+#EXTINF:-1 tvg-id="TELESUR.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1920px-TeleSUR-Logo.svg.png" group-title="CANALES PERÚ",TELESUR
 http://8.243.126.131:8000/play/a0og/index.m3u8?hls
-#EXTINF:-1 group-title="-",Televida RD
-http://8.243.126.131:8000/play/a0ew/index.m3u8?hls
-#EXTINF:-1 group-title="-",Tigo Sports HD
+
+#EXTINF:-1 tvg-id="FOXSPORTS.pe" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="CANALES PERÚ",FOX SPORTS HD
 http://8.243.126.131:8000/play/a0ih/index.m3u8?hls
-#EXTINF:-1 group-title="-",Tooncast
+#EXTINF:-1 tvg-id="Tooncast.pe" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="CANALES PERÚ",TOONCAST
 http://8.243.126.131:8000/play/a0g4/index.m3u8?hls
-#EXTINF:-1 group-title="-",UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CANALES PERÚ",UNIVERSAL CINEMA
 http://8.243.126.131:8000/play/a0de/index.m3u8?hls
-#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="CANALES PERÚ",UNIVERSAL COMEDY HD
 http://8.243.126.131:8000/play/a0iu/index.m3u8?hls
-#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s" group-title="CANALES PERÚ",UNIVERSAL CRIME HD
 http://8.243.126.131:8000/play/a0it/index.m3u8?hls
-#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE HD
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="CANALES PERÚ",UNIVERSAL PREMIERE HD
 http://8.243.126.131:8000/play/a0iq/index.m3u8?hls
-#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE O HD
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="CANALES PERÚ",UNIVERSAL PREMIERE
 http://8.243.126.131:8000/play/a0ir/index.m3u8?hls
-#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CANALES PERÚ",UNIVERSAL REALITY HD
 http://8.243.126.131:8000/play/a0is/index.m3u8?hls
-#EXTINF:-1 group-title="-",Universal
+#EXTINF:-1 tvg-id="UniversalTV.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfq_E8tWA6lV4_2ASNT2GDn5gqUO0T5UfHD9JEOMfkvtOCq6z0PF85mtx40nYH7pahrknF-QtrSfiDGGzQnWQXnUGhiRn7CJa6DwBzr86C1il1p7fhvIN81ATcOloLUDtKOthRNLDm5EE/s1280/UNIVERSAL-TV-2018.png" group-title="CANALES PERÚ",UNIVERSAL
 http://8.243.126.131:8000/play/a0gt/index.m3u8?hls
-#EXTINF:-1 group-title="-",Univision HD
+#EXTINF:-1 tvg-id="UNIVISIÓN.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="CANALES PERÚ",UNIVISIÓN HD
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
-#EXTINF:-1 group-title="-",WARNER HD
+#EXTINF:-1 tvg-id="WarnerChannel.pe" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12f5712d-1535-4d60-a967-e7d5e3c1902f/dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmY1NzEyZC0xNTM1LTRkNjAtYTk2Ny1lN2Q1ZTNjMTkwMmYvZGhyYmpobi1lYjFiOGE2Zi04ODczLTRmZTAtYmRlZS1lYWRlMTIxOGE4NmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iswXcWSD3c_tODdOVs4e2eV0hAIgB-EQllC7W2bqDc0" group-title="CANALES PERÚ",WARNER CHANNEL HD
 http://8.243.126.131:8000/play/a0gh/index.m3u8?hls
-#EXTINF:-1 group-title="-",Win Sports+
+#EXTINF:-1 tvg-id="WIN SPORTS+.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png" group-title="CANALES PERÚ",WIN SPORTS+
 http://8.243.126.131:8000/play/a025/index.m3u8?hls
-#EXTINF:-1 group-title="-",ZooMoo
-http://8.243.126.131:8000/play/a0li/index.m3u8?hls
+
