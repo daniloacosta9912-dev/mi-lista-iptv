@@ -2141,6 +2141,8 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
 #EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="Historia.es@HD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia HD (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 #EXTINF:-1 tvg-id="HOLAPlay.es@SD" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="Entertainment",HOLA! Play (1080p)
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="Entertainment",Hola! TV Latin America (1080p)
@@ -2565,10 +2567,10 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 https://gpuserver3.tier1streams.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusDriveIn.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png" group-title="Movies",MGM+ Drive-In (720p)
 https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusHits.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png" group-title="Movies",MGM+ Hits (1080p)
+https://sra72yz.s.gy/MGM_PLUS_HITS_HD
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png" group-title="Movies",MGM+ Marquee (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23075
-#EXTINF:-1 tvg-id="MGMPlus.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png" group-title="Movies",MGM+ West (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23073
+https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD
 #EXTINF:-1 tvg-id="Movies.us@SD" tvg-logo="https://i.imgur.com/gAGn3mK.png" group-title="Movies",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@SD" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",Moviesphere (720p)
