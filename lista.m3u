@@ -13,10 +13,14 @@ https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" group-title="Series",AMC Series Latin America (1080p)
+http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="General",America TV (720p)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General",Argentinisima Satelital (540p)
 https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar@SD" tvg-logo="https://i.imgur.com/BfaCaZF.png" group-title="Culture;Travel",Aunar (1080p)
+http://190.128.214.97:64333/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America South (1080p)
 http://181.78.12.119:16123/play/ch46/index.m3u8
 #EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar@SD" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Music",Azahares Radiovisual Multimedia (720p)
@@ -147,8 +151,8 @@ https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 #EXTINF:-1 tvg-id="La100.ar@SD" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Music",La 100 (1080p)
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-#EXTINF:-1 tvg-id="LAMIL35TV.ar@SD" tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" http-referrer="https://lamil35.streamingvideo.com.ar/index.html" group-title="Animation;Classic;Entertainment",LAMIL35 TV (480p)
-https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
+#EXTINF:-1 tvg-id="LAMIL35TV.ar@SD" tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" http-referrer="https://www.lamil35.com.ar/" group-title="Animation;Classic;Entertainment",LAMIL35 TV (720p)
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 #EXTINF:-1 tvg-id="LitusTV.ar@SD" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="General",Litus TV (720p) [Not 24/7]
 https://edge.enhdtv.com/litustv/index.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar@SD" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Music",Mas FM (720p)
@@ -195,6 +199,8 @@ https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-id="Radiocanal.ar@SD" tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" group-title="General",Radiocanal (1080p)
 http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-id="RockPop.ar@SD" tvg-logo="https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png" group-title="Music",Rock & Pop (1080p)
+http://190.128.214.97:64333/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="SanLuisPlus.ar@SD" tvg-logo="https://i.imgur.com/bGoGiry.png" group-title="General",San Luis +
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="SenalU.ar@SD" tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png" group-title="Culture",Senal U
@@ -559,8 +565,6 @@ http://15.204.246.24:8080/Canal13HD/index.m3u8
 https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
 #EXTINF:-1 tvg-id="CanalChilote.cl@SD" tvg-logo="https://i.imgur.com/mdYIKyt.png" group-title="Entertainment",Canal Chilote (720p)
 https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-#EXTINF:-1 tvg-id="CanalCHVNoticias.cl@SD" tvg-logo="https://i.imgur.com/sx8Aaxr.png" group-title="News",Canal CHV Noticias
-https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS
 #EXTINF:-1 tvg-id="CanalISB.cl@SD" tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="Religious",Canal ISB (720p)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalLocal.cl@SD" tvg-logo="https://i.imgur.com/ReZXqWR.png" group-title="General",Canal Local (720p)
@@ -1513,8 +1517,8 @@ https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
 #EXTINF:-1 tvg-id="RBTV.py@SD" tvg-logo="https://i.imgur.com/EMFAFX0.png" group-title="General",RB TV (1080p)
 https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
-#EXTINF:-1 tvg-id="RCCTV.py@SD" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="Religious",RCC TV
-https://xyktmobile00.s.gy/TICK_RCC
+#EXTINF:-1 tvg-id="RCCTV.py@SD" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="Religious",RCC TV (1080p) [Not 24/7]
+https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="RedDigital.py@SD" tvg-logo="https://i.imgur.com/3jj0MQP.jpg" group-title="General",Red Digital (1080p) [Not 24/7]
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
 #EXTINF:-1 tvg-id="RedInteriorTV.py@SD" tvg-logo="https://i.imgur.com/z89GLCw.png" group-title="General",Red Interior TV
@@ -1537,8 +1541,8 @@ http://45.170.130.224:8000/play/a04k/index.m3u8?hls
 https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD" tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="General",Trece (Paraguay)
 http://45.170.130.224:8000/play/a050/index.m3u8?hls
-#EXTINF:-1 tvg-id="TVAire.py@SD" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="General",TV Aire
-https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-id="TVAire.py@SD" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="General",TV Aire (1080p)
+http://190.128.214.97:64333/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Legislative",TV Camara (Paraguay) (1080p)
 http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVCanindeyu.py@SD" tvg-logo="https://i.imgur.com/cateqjx.jpeg" group-title="General",TV Canindeyu (1080p)
@@ -2305,10 +2309,6 @@ https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Movies",Hallmark Movies & More (1080p)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
-#EXTINF:-1 tvg-id="HBODrama.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png" group-title="Movies;Series",HBO Drama (1080p)
-https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us@WestHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="Movies;Series",HBO Hits West HD (1080p)
-https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" group-title="Movies;Series",HBO Movies (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="ICCplus.us@SD" tvg-logo="" group-title="Movies",ICC plus (1080p)
@@ -2327,6 +2327,16 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="Movies",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Maxcine2.us@HD" tvg-logo="https://gia.tv/streams/pptv/209163.png" group-title="Movies",Maxcine 2 (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+#EXTINF:-1 tvg-id="Maxcine.us@HD" tvg-logo="https://gia.tv/streams/pptv/208138.png" group-title="Movies",Maxcine (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineComedy.us@HD" tvg-logo="https://gia.tv/streams/pptv/208730.png" group-title="Movies",Maxcine Comedy (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineFamily.us@HD" tvg-logo="https://gia.tv/streams/pptv/208817.png" group-title="Movies",Maxcine Family (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineKids.us@HD" tvg-logo="https://gia.tv/streams/pptv/209909.png" group-title="Movies",Maxcine Kids (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Movies",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Movies.us@SD" tvg-logo="https://i.imgur.com/gAGn3mK.png" group-title="Movies",Movies! (480p)
