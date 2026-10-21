@@ -1749,6 +1749,8 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACC Network (720p)
 http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" tvg-logo="https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png" group-title="Sports",American Ninja Warrior (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
 #EXTINF:-1 tvg-id="BarcaTV.es@SD" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="Sports",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
@@ -1959,6 +1961,8 @@ https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="BondiRescue.us@CA" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" group-title="Entertainment",Bondi Rescue (United States) (720p)
 https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
+#EXTINF:-1 tvg-id="BotflixTV.us@HD" tvg-logo="https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp" group-title="Animation;Entertainment",Botflix TV (1080p)
+https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1 tvg-id="BounceXL.us@SD" tvg-logo="https://i.imgur.com/GzxgSkc.png" group-title="Entertainment",Bounce XL (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="BuenaTV.pr@SD" tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="Entertainment",Buena TV (1080p)
