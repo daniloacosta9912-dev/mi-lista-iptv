@@ -45,6 +45,8 @@ https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="General",Canal 2 NexTV Rafaela (720p)
 https://edge.enhdtv.com/nexthd/index.m3u8
+#EXTINF:-1 tvg-id="Canal3Arroyito.ar@SD" tvg-logo="https://i.imgur.com/FHVdMwg.jpeg" http-referrer="https://canal3.cespalarroyito.coop/" group-title="General",Canal 3 Arroyito (1080p)
+https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
 #EXTINF:-1 tvg-id="Canal3Tacural.ar@SD" tvg-logo="https://i.imgur.com/RKvSa52.jpeg" group-title="General",Canal 3 Tacural
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar@SD" tvg-logo="https://i.imgur.com/XyiNvbY.png" group-title="General",Canal 4 Teleaire
@@ -65,6 +67,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (720p)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Goya.ar@SD" tvg-logo="https://i.ibb.co/cySdXxP/unnamed-5.png" group-title="General",Canal 10 Goya (1080p)
+https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 #EXTINF:-1 tvg-id="Canal10MardelPlata.ar@SD" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="Entertainment",Canal 10 Mar del Plata
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Canal12VenadoTuerto.ar@SD" tvg-logo="https://i.imgur.com/b93YC0V.jpeg" group-title="General",Canal 12 Venado Tuerto (1080i)
@@ -422,7 +426,7 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Legislative",Justicia TV (Mexico) (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas (1080p)
-http://45.189.151.7:8000/play/a07s
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime Latin America Mexico (1080p)
 https://streaming.onnethn.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LoboTV.mx@SD" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Music",Lobo TV (720p)
@@ -1345,6 +1349,8 @@ http://190.93.224.42/LIGA-1-MAX/index.m3u8
 https://eu1.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Entertainment",La Tele (1080p)
 http://190.93.224.42/LA-TELE/index.m3u8
+#EXTINF:-1 tvg-id="LaTremendaTV.pe@TDT62" tvg-logo="https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg" group-title="General",La Tremenda TV (1080p)
+https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="General",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series",Latina Clasicos (1080p)
@@ -2448,7 +2454,7 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made In Hollywood (720p)
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us@SD" tvg-logo="https://i.imgur.com/CXjo8kn.png" group-title="Movies;Shop",Magnificent Movies Network
-https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="Movies",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Maxcine2.us@HD" tvg-logo="https://gia.tv/streams/pptv/209163.png" group-title="Movies",Maxcine 2 (720p)
